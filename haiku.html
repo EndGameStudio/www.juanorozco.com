@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href='http://fonts.googleapis.com/css?family=Roboto:400,700|Roboto+Slab:400,700' rel='stylesheet' type='text/css'>
+  <title>Juan Orozco</title>
+  <link rel="stylesheet" href="main.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="user-scalable=no,width=device-width" >
+</head>
+<body>
+  <header>
+    <h1>Juan's Haiku</h1>
+  </header>
+  <section>
+    <p>This haiku delivered to you by <a href="https://juanshaikus.firebaseio.com/">Firebase</a> and some JavaScript know-how, written by <a href="http://www.juanorozco.com">Me</a>.</p>
+  </section>
+  <section class="haiku">
+    <p id="latest_haiku"><img src="ajax-loader.gif" alt="Haiku is loading...">Loading...</p>
+  </section>
+  <footer></footer>
+  <script type='text/javascript' src='https://cdn.firebase.com/js/client/1.0.11/firebase.js'></script>
+  <script>
+    var haikus = new Firebase('https://juanshaikus.firebaseio.com/');
+
+    function getRandomHaiku()
+    {
+      var site_haikus, site_name;
+      site_name = "juanorozco_com";
+
+      //get haiku count
+      site_haikus = haikus.child(site_name + "/haikus");
+      site_haikus.once("value", function(snapshot)
+      {
+        var i,haiku_count, random_haiku, random_haiku_obj;
+
+        haiku_count = snapshot.numChildren();
+        console.log(haiku_count);
+        //pick a random number
+        random_haiku = Math.floor(Math.random() * haiku_count);
+        console.log(random_haiku);
+
+        //get that haiku
+        i = 0;
+        snapshot.forEach(function(item)
+        {
+          if (i == random_haiku)
+          {
+            printLatestHaiku( item );
+          }
+          i = i +1;
+        });
+
+      });
+
+    }
+
+    function getLatestHaiku()
+    {
+      var site_haikus, site_name;
+      site_name = "juanorozco_com";
+      site_haikus = haikus.child(site_name + "/haikus");
+      
+      site_haikus.once("value", function(item)
+      {
+        printLatestHaiku(item);
+      });
+    }
+
+    function printLatestHaiku( fb_item )
+    {
+      console.log("printLatestHaiku");
+      var haiku = fb_item.val();
+      haiku = haiku.haiku;
+      haiku = haiku.replace(/\n/g,"<br/>");
+
+      //post haiku on screen
+      document.getElementById("latest_haiku").innerHTML = haiku;
+    }
+
+    getRandomHaiku();
+  </script>
+</body>
+</html>
