@@ -4,7 +4,7 @@
   <link href='http://fonts.googleapis.com/css?family=Roboto:400,700|Roboto+Slab:400,700' rel='stylesheet' type='text/css'>
   <title>Juan Orozco</title>
   <link rel="stylesheet" href="main.css">
-  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="user-scalable=no,width=device-width" >
 </head>
 <body>
@@ -13,11 +13,24 @@
     <img src="http://www.gravatar.com/avatar/62e9c31601866b733dfa5c92e81dec5b.png" class="avatar" />
    </header>
   <section>
-    <p><b>Wonderer, explorer, creator.</b></p>
+    <h2 class="motto">Wonderer, explorer, creator.</h2>
+    <p></p>
 
-    <p>You can find me in the usual nerdy places. <a href="https://alpha.app.net/guamaso">Alpha</a>, <a href="https://twitter.com/guamaso">Twitter</a>, <a href="https://github.com/Guamaso">Github</a>, <a href="http://codepen.io/Guamaso/">Codepen</a> etc.. Just look me up as <strong>@guamaso</strong>.</p>
+		<h3>Social</h3>
+    <p>You can find me being social in the usual nerdy places. <a href="https://alpha.app.net/guamaso">Alpha</a>, <a href="https://twitter.com/guamaso">Twitter</a>, <a href="https://github.com/Guamaso">Github</a>, <a href="http://500px.com/Guamaso/">500px</a> etc.. Just look me up as <strong>@guamaso</strong>.</p>
+    
+    <h3>Writing</h3>
+    <p>I also do a little bit of writing...</p>
+    <ul id="publishings">
+    	<li><a href="http://dev.endgamestudio.com">Dev Journal</a> - I log my thoughts on web development as well as chronicling my growth as an engineer on my dev journal.</li>
+    	<li><a href="http://exitzaero.com">ExitZaero</a> - On gaming and games.</li>
+    	<li><a href="http://creativeandflow.com">Creative and Flow</a> - A magazine about creativity, exploration, wonder, and failure.</li>
+    </ul>
+    
+		<h3>More...</h3>
 
-    <p>Find out more on my <a href="http://about.me/juanorozco">about.me</a> page or grab a PDF of my <a href="resume.pdf">resume</a>.</p>
+    <p>Find out more about me on my <a href="http://about.me/juanorozco">about.me</a> page.
+    <p>Grab a copy of my resume: <a href="/resume/resume.pdf">PDF</a> | <a href="/resume/">HTML</a> | <a href="/resume/resume.md">Markdown</a></p>
 
     <p>-Juan</p>
   </section>
@@ -25,7 +38,7 @@
     <h3>Bonus Haiku!</h3>
     <p id="latest_haiku"><img src="ajax-loader.gif" alt="Haiku is loading..."></p>
   </section>
-  <footer></footer>
+  <footer>2014 - Juan Orozco</footer>
   <script type='text/javascript' src='https://cdn.firebase.com/js/client/1.0.11/firebase.js'></script>
   <script>
     var haikus = new Firebase('https://juanshaikus.firebaseio.com/');

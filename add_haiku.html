@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href='http://fonts.googleapis.com/css?family=Roboto:400,700|Roboto+Slab:400,700' rel='stylesheet' type='text/css'>
+  <title>Juan Orozco</title>
+  <link rel="stylesheet" href="main.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="user-scalable=no,width=device-width" >
+  <style>
+    textarea
+    {
+      width: 30rem;
+      height: 10rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>Add a haiku!</h1>
+  <form onsubmit="return false;">
+    <textarea id="haiku"></textarea>
+    <input type="button" value="Save" onclick="save_haiku(event);"/>
+
+    <div>
+      <h3>Latest Haiku...</h3>
+      <p id="latest_haiku"></p>
+    </div>
+  </form>
+  <script type='text/javascript' src='https://cdn.firebase.com/js/client/1.0.11/firebase.js'></script>
+  <script>
+    var haikus = new Firebase('https://juanshaikus.firebaseio.com/');
+
+    function save_haiku(e)
+    {
+      e.preventDefault();
+      var site_haikus, site_name, new_haiku;
+      site_name = "juanorozco_com";
+      site_haikus = haikus.child(site_name + "/haikus");
+      //get the data from form
+      new_haiku = document.getElementById("haiku").value;
+      console.log(new_haiku);
+      //save haiku
+      
+      site_haikus.push({"haiku":new_haiku});
+      return false;
+    }
+
+    function getLatestHaiku()
+    {
+      var site_haikus, site_name, new_haiku;
+      site_name = "juanorozco_com";
+      site_haikus = haikus.child(site_name + "/haikus");
+      
+      site_haikus.once("value", printLatestHaiku);
+    }
+
+    function printLatestHaiku( fb_item )
+    {
+      var haikus = fb_item.val();
+      for( h in haikus )
+      {
+        if ( haikus.hasOwnProperty(h) )
+        {
+          var haiku = haikus[h];
+          haiku = haiku.haiku;
+          //replace line breaks with break tags
+          haiku = haiku.replace(/\n/g,"<br/>");
+        }
+        
+      }
+
+      //post haiku on screen
+      document.getElementById("latest_haiku").innerHTML = haiku;
+    }
+
+    getLatestHaiku();
+  </script>
+</body>
+</html>

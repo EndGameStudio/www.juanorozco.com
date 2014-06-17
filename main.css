@@ -98,6 +98,34 @@ section.haiku
   border-bottom: 1px solid #333;
 }
 
+#publishings
+{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+}
+
+#publishings li
+{
+	margin:0;
+	padding: 0.5rem;
+	line-height:1.3rem;
+}
+
+.motto
+{
+	font-family: 'Roboto', Verdana, sans-serif;
+}
+
+h2.motto
+{
+	text-align: center;
+}
+
+footer
+{
+  margin: 2rem;
+}
 @media all and (max-width: 767px) {
   /* mobile devices */
   h1
