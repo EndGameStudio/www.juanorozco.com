@@ -7,9 +7,9 @@ Juan Orozco
 
 ## Personal Summary
 
-My wonder and zeal for inventing and exploring is at the core of my many passions. As a designer and wannabe engineer, I focused on Industrial Design. I also expressed  a passion for writing, photography, and anthropology. I pivoted and turned to the web. Finding a world ripe with new exploration opportunities, I dove in with the aim of learning as much as possible in order to express all my passions. 
+My wonder and zeal for inventing and exploring is at the core of my many passions. As a designer and wannabe engineer, I focused on Industrial Design. I also have a passion for writing, photography, and anthropology. Finding a world ripe with new exploration opportunities, I pivoted and turned to the web. I dove in with the aim of learning as much as possible in order to express all of my passions. 
 
-Through my diverse work experiences over the past ten years, I have honed my skills as a web developer; first as a server-side craftsman.  I then moved on to front-end development and, now, focus on User Experience and mentoring. More recently, I publish thoughts on creativity, web engineering, and gaming through the web.
+Through my diverse work experiences over the past ten years, I have honed my skills as a web developer; first as a server-side craftsman.  I then moved on to front-end development and User Experience. Currently, I am focused on publishing and mentoring. Through the web I publish thoughts on creativity, web engineering, and gaming. I attend several local Meetups to learn and to mentor.
 
 The web is still in a formative state, which encourages exploration and community. Within this dynamic, I continue to learn and participate in all aspects of web application development, self publishing through the web, and the sharing of knowledge.
 
@@ -154,7 +154,8 @@ I am at my best when creating innovative, inspiring, challenging, and fun soluti
 
 ### Continuing Education
 
-* &nbsp;
+* Raleigh, NC
+* Winter/Sprint 2014
 
 Various coursework on User Experience.
 
