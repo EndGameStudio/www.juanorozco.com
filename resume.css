@@ -17,8 +17,8 @@ header
 
 img.avatar
 {
-  left: 20rem;
-  top:4.8rem;
+  left: 21rem;
+  top: 6rem;
 }
 
 #resume
@@ -35,6 +35,13 @@ section
 ul
 {
   list-style-type:none;
+}
+
+ul li
+{
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.3rem;
 }
 
 section p
@@ -159,7 +166,7 @@ clear:both;
 
 #experience .item ul:first-of-type li:after
 {
-  content:"  ||  ";
+  content:";  ";
 }
 
 #experience .item ul:first-of-type li:last-child:after
@@ -202,7 +209,7 @@ clear:both;
 }
 
 
-@media all and (max-width: 767px) {
+@media screen and (max-width: 767px) {
   /* mobile devices */
   h1
   {

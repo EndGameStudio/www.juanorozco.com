@@ -1,6 +1,6 @@
 /* main.css */
 
-html, body, h1, img, a, a:hover, p
+html, body, h1, h2, h3, img, a, a:hover, p, div
 {
   margin:0;
   padding:0;
@@ -17,8 +17,16 @@ html
 
 body
 {
+  width: 35rem;
+  margin: 5rem auto 0 auto;
+  padding:0;
+}
+
+body
+{
   font-family: 'Roboto', Verdana, sans-serif;
   background-color: #eee;
+  color: #444;
 }
 
 ::selection {
@@ -35,18 +43,24 @@ h1, h2, h3
   font-family: 'Roboto Slab', 'Georgia', serif;
 }
 
+h1, h2, h3
+{
+  margin: 0.5rem 0;
+
+}
+
 h1
 {
   font-size: 3rem;
   line-height: 4.5rem;
 }
 
-body
+h2
 {
-  width: 35rem;
-  margin: 5rem auto 0 auto;
-  padding:0;
-  color: #444;
+  font-size:2rem;
+  text-align: center;
+  line-height: 3rem;
+  border-bottom: 1px dashed #C8DBC1;;
 }
 
 header
@@ -60,6 +74,17 @@ h1
   position:absolute;
   top:0;
   left:6rem;
+}
+
+header .motto
+{
+  position: absolute;
+  top: 6rem;
+  left: 50%;
+  margin-left: -50%;
+  width: 100%;
+  font-size: 2rem;
+  text-align:center;
 }
 
 p
@@ -115,12 +140,10 @@ section.haiku
 .motto
 {
 	font-family: 'Roboto', Verdana, sans-serif;
+  font-weight: 700;
+  color: #999;
 }
 
-h2.motto
-{
-	text-align: center;
-}
 
 footer
 {
