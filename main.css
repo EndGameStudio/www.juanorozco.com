@@ -75,6 +75,11 @@ h1
   left:6rem;
 }
 
+.photoblog.post h1
+{
+  position: inherit;
+}
+
 header .motto
 {
   position: absolute;
