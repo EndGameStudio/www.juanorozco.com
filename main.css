@@ -80,6 +80,10 @@ h1
   position: inherit;
 }
 
+.photoblog.post img{
+    width: 100%;
+}
+
 header .motto
 {
   position: absolute;
