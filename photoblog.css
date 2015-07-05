@@ -9,8 +9,21 @@
 	list-style-type: none;
 }
 
-.photoblog{
+.photoblog {
+	width: 80%;
+}
+
+.photoblog.archive{
 	width:100%;
+}
+
+.single .post .post-header {
+	position: inherit;
+}
+
+.single .post .post-title{
+	position: inherit;
+	text-align: center;
 }
 
 .archive .posts .post{
@@ -27,12 +40,24 @@
 	height:auto;
 }
 
+.archive .post .post-link {
+	border: none;
+}
+
+.archive .post .post-link img:hover {
+	border: none;
+}
+
 .single .post .post-body ul{
 }
 
 .single .post .post-body ul li{
 }
 
-.post .post-link img:hover {
-	border:1px solid black
+.single .post .post-body ul li a{
+	display: block;
+}
+
+.single .post .post-body ul li img{
+	width: 100%;
 }
