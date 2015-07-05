@@ -11,10 +11,14 @@
 
 .photoblog {
 	width: 80%;
+	margin: 0 auto;
 }
 
-.photoblog.archive{
-	width:100%;
+.photoblog .site-title {
+	text-align: center;
+	position: inherit;
+	top:0;
+	left:0;
 }
 
 .single .post .post-header {
@@ -48,6 +52,10 @@
 	border: none;
 }
 
+.single .post-nav {
+
+}
+
 .single .post .post-body ul{
 }
 
@@ -58,6 +66,26 @@
 	display: block;
 }
 
-.single .post .post-body ul li img{
+.single .post .post-body img{
 	width: 100%;
+}
+
+
+@media screen and (max-width: 850px) {
+	.photoblog {
+		width:40rem;
+	}
+}
+
+@media screen and (max-width: 520px) {
+	.photoblog {
+		width:100%;
+	}
+
+	.archive .posts .post{
+		display: inline-block;
+		list-style-type:none;
+		width: 100%;
+		text-align: center;
+	}
 }

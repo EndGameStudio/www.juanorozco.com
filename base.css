@@ -53,10 +53,9 @@ a:hover {
 }
 
 /* Spacing */
-body
-{
-  width: 35rem;
-  margin: 5rem auto 0 auto;
+body {
+    width:100%;
+    margin: 5rem auto 0 auto;
   padding:0;
 }
 
