@@ -1,16 +1,38 @@
+.photoblog ul {
+	margin: 0;
+	padding: 0;
+}
 
-	body.photoblog{
-		width:100%;
-	}
+.photoblog li {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
 
-	.post{
-		display: inline;
-		list-style-type:none;
-		margin:0;
-		padding:0;
+.photoblog{
+	width:100%;
+}
 
-	}
-	.post-featured-image{
-		width: 200px;
-		height:auto;
-	}
+.archive .posts .post{
+	display: inline;
+	list-style-type:none;
+}
+
+.archive .posts .post-link:hover {
+	border:none;
+}
+
+.archive .posts .post-featured-image{
+	width: 200px;
+	height:auto;
+}
+
+.single .post .post-body ul{
+}
+
+.single .post .post-body ul li{
+}
+
+.post .post-link img:hover {
+	border:1px solid black
+}
