@@ -1,0 +1,235 @@
+/* main.css */
+
+html, body, h1, h2, h3, img, a, a:hover, p, div
+{
+  margin:0;
+  padding:0;
+  outline:none;
+  border:none;
+  line-height: 1rem;
+}
+
+html
+{
+  border-top: 2rem solid #C8DBC1;
+}
+
+body
+{
+  width: 35rem;
+  margin: 5rem auto 0 auto;
+  padding:0;
+}
+
+body
+{
+  font-family: 'Roboto', Verdana, sans-serif;
+  background-color: #eee;
+  color: #444;
+}
+
+::selection {
+  color: #222;
+  background: #42ED70;
+  }
+::-moz-selection {
+  color: #222;
+  background: #42ED70;
+}
+
+h1, h2, h3
+{
+  font-family: 'Roboto Slab', 'Georgia', serif;
+}
+
+h1, h2, h3
+{
+  margin: 0.5rem 0;
+
+}
+
+h1
+{
+  font-size: 3rem;
+  line-height: 4.5rem;
+}
+
+h2
+{
+  font-size:2rem;
+  text-align: center;
+  line-height: 3rem;
+  border-bottom: 1px dashed #C8DBC1;;
+}
+
+header
+{
+  position: relative;
+  height: 10rem;
+}
+
+h1
+{
+  position:absolute;
+  top:0;
+  left:6rem;
+}
+
+.photoblog.post h1
+{
+  position: inherit;
+}
+
+.photoblog.post img{
+    width: 100%;
+}
+
+header .motto
+{
+  position: absolute;
+  top: 6rem;
+  left: 50%;
+  margin-left: -50%;
+  width: 100%;
+  font-size: 2rem;
+  text-align:center;
+}
+
+p
+{
+  padding: 0.5rem 0;
+  line-height: 1.4rem;
+}
+
+img.avatar
+{
+  position:absolute;
+  top: 0;
+  left: 0;
+  border-radius: 3rem;
+}
+
+a, a:visited
+{
+  color: #51BF28;
+  text-decoration: none;
+  border-bottom: 1px solid #459627;
+}
+
+a:hover
+{
+  text-decoration: none;
+  border-bottom: 3px solid #459627;
+}
+
+section.haiku
+{
+  margin: 1rem auto 0 auto;
+  width: 50%;
+  text-align: center;
+  border-top: 1px solid #333;
+  border-bottom: 1px solid #333;
+}
+
+#publishings
+{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+}
+
+#publishings li
+{
+	margin:0;
+	padding: 0.5rem;
+	line-height:1.3rem;
+}
+
+.motto
+{
+	font-family: 'Roboto', Verdana, sans-serif;
+  font-weight: 700;
+  color: #999;
+}
+
+
+footer
+{
+  margin: 2rem;
+}
+@media screen and (max-width: 850px) {
+  /* mobile devices */
+  h1
+  {
+    font-size: 4rem;
+    text-align: center;
+  }
+  body
+  {
+    width: 91%;
+    margin:1rem;
+  }
+  h1
+  {
+    position: static;
+
+  }
+
+  header
+  {
+    height: auto;
+  }
+
+  header .motto
+  {
+    position: static;
+    font-size: 2rem;
+    margin: 0;
+  }
+  img.avatar
+  {
+    position: static;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+  }
+}
+
+
+@media screen and (max-width: 400px) {
+  /* mobile devices */
+  h1
+  {
+    font-size: 1.6rem;
+    text-align: center;
+  }
+  body
+  {
+    width: 91%;
+    margin:1rem;
+  }
+  h1
+  {
+    position: static;
+
+  }
+
+  header
+  {
+    height: auto;
+  }
+
+  header .motto
+  {
+    position: static;
+    font-size:1.3rem;
+    margin: 0;
+  }
+  img.avatar
+  {
+    position: static;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+  }
+}

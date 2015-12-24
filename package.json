@@ -1,0 +1,25 @@
+{
+  "name": "juanorozco.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js",
+    "develop": "npm run build && http-server dist -p 8080 -c-1 -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guamaso/juanorozco-com.git"
+  },
+  "author": "Juan Orozco <hi@juanorozco.com> (http://juanorozco.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guamaso/juanorozco-com/issues"
+  },
+  "homepage": "https://github.com/Guamaso/juanorozco-com#readme",
+  "devDependencies": {
+    "moment": "^2.10.6",
+    "plain-static": "^1.3.0"
+  }
+}
