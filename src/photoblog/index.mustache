@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href='http://fonts.googleapis.com/css?family=Roboto:400,700|Roboto+Slab:400,700' rel='stylesheet' type='text/css'>
+  <title>Hi! I'm Juan Orozco!</title>
+  <link rel="stylesheet" href="/base.css">
+  <link rel="stylesheet" href="main.css">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="user-scalable=no,width=device-width" >
+  <meta name="Description" content="{{less}}">
+</head>
+<body>
+  {{{contents}}}
+  <section class="haiku">
+    <h3>Bonus Haiku!</h3>
+    <p id="latest_haiku"><img src="ajax-loader.gif" alt="Haiku is loading..."></p>
+  </section>
+  <footer>2014 - Juan Orozco</footer>
+  <script type='text/javascript' src='https://cdn.firebase.com/js/client/1.0.11/firebase.js'></script>
+  <script>
+    var haikus = new Firebase('https://juanshaikus.firebaseio.com/');
+
+    function getLatestHaiku()
+    {
+      var site_haikus, site_name, new_haiku;
+      site_name = "juanorozco_com";
+      site_haikus = haikus.child(site_name + "/haikus");
+
+      site_haikus.once("value", printLatestHaiku);
+    }
+
+    function printLatestHaiku( fb_item )
+    {
+      var haiku_obj = fb_item.val();
+      for( h in haiku_obj )
+      {
+        if ( haiku_obj.hasOwnProperty(h) )
+        {
+          var haiku = haiku_obj[h];
+          haiku = haiku.haiku;
+          //replace line breaks with break tags
+          haiku = haiku.replace(/\n/g,"<br/>");
+        }
+
+      }
+
+      //post haiku on screen
+      document.getElementById("latest_haiku").innerHTML = haiku;
+    }
+
+    getLatestHaiku();
+  </script>
+</body>
+</html>
