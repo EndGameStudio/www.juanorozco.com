@@ -2,20 +2,20 @@ Juan Orozco
 ==============
 
 - 919-793-3740
-- [JuanOrozco.com](http://juanorozco.com)
+- JuanOrozco.com
 - JuanTheDesigner@gmail.com
 
 ## Personal Summary
 
-My wonder and zeal for inventing and exploring is at the core of my many passions. As a designer and wannabe engineer, I focused on Industrial Design. I also have a passion for writing, photography, and anthropology. Finding a world ripe with new exploration opportunities, I pivoted and turned to the web. I dove in with the aim of learning as much as possible in order to express all of my passions. 
+My passion for the web stems from a wonder and zeal of inventing and exploring. Originally focused on Industrial Design, I pivoted and turned to the web. Finding a world ripe with new exploration opportunities, I dove in with the aims of learning as much as possible and benefiting the overall state of the web.
 
-Through my diverse work experiences over the past ten years, I have honed my skills as a web developer; first as a server-side craftsman.  I then moved on to front-end development and User Experience. Currently, I am focused on publishing and mentoring. Through the web I publish thoughts on creativity, web engineering, and gaming. I attend several local Meetups to learn and to mentor.
+Through my diverse work experiences over the past ten years, I have honed my skills as a web developer; first as a server-side craftsman.  I then moved on to front-end development and, now, focus on User Experience and mentoring. 
 
-The web is still in a formative state, which encourages exploration and community. Within this dynamic, I continue to learn and participate in all aspects of web application development, self publishing through the web, and the sharing of knowledge.
+Web development is still in a formative state, which encourages exploration and community. Within this dynamic, I continue to learn and participate in all aspects of web application product development with an emphasis on mentoring colleagues. 
 
 ## Objective
 
-I am at my best when creating innovative, inspiring, challenging, and fun solutions within a respectful and creative company, alongside talented and friendly team members.
+I am at my best when creating innovative, inspiring, challenging, and fun applications within a respectful and creative company, alongside talented and friendly team members.
 
 ## Skills
 
@@ -62,14 +62,13 @@ I am at my best when creating innovative, inspiring, challenging, and fun soluti
 * Evernote
 * Firebase
 * FishEye
+* Ghost
 * Grunt
-* Gulp
 * Jira
 * Mozilla Persona
 * OAuth
 * Trello
 * WordPress
-* Yeoman
 
 ## Experience
 
@@ -144,23 +143,13 @@ I am at my best when creating innovative, inspiring, challenging, and fun soluti
 ---
 
 * Supported classroom technology, student and faculty computing, and special event administration.
-* Coordinated technology resources for lectures and presentations given by CEOâ€™s and other VIPâ€™s in 1500 seat auditorium.
+* Coordinated technology resources for lectures and presentations given by CEO's and other VIP's in 1500 seat auditorium.
 * Deployed, supported, and repaired all faculty and student computing resources. Supervised volunteer students.
 * Created documentation, scheduled training and recording sessions for video recording classroom.
 * Consulted on design for upgrades and modification for instructional technology.
 * Learned the Crestron Simple+ programming language; refactored and improved interfaces college-wide.
 
 ## Education
-
-### Continuing Education
-
-* Raleigh, NC
-* Winter/Sprint 2014
-
-Various coursework on User Experience.
-
-* User Experience Coursework on Udemy completed April 2014
-* User Experience Class on Udacity completed April 2014
 
 ### ITT Technical Institute
 
