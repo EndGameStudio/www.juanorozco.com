@@ -1,40 +1,31 @@
 /* print.css */
-@media print
-{
-
-html{
-  border: none;
-}
-
-body
-{
-  background-color:#fff;
-  font-size: 18px;
-  line-height:1rem;
-}
-
-h1
-{
-  font-size: 4rem;
-}
-
-h1,h2,h3,h4, p,li
-{
-  color:#000;
-}
-ul li
-{
-  line-height:1.5rem;
-}
-
-a
-{
-  text-decoration:none;
-}
-
-.no_print
-{
-  display: none;
-}
- 
+@media print {
+  html {
+    border: none;
+  }
+  body {
+    background-color: #fff;
+    font-size: 18px;
+    line-height: 1rem;
+  }
+  h1 {
+    font-size: 4rem;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  p,
+  li {
+    color: #000;
+  }
+  ul li {
+    line-height: 1.5rem;
+  }
+  a {
+    text-decoration: none;
+  }
+  .no_print {
+    display: none;
+  }
 }
