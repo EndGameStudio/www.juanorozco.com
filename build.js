@@ -1,6 +1,6 @@
 // Options
 var opts = {
-  targetFiles: '{*,resume}',
+  targetFiles: '{*,/resume}',
   files: '{**/resume.*,CNAME}'
 };
 // Require and init

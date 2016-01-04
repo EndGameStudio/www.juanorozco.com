@@ -1,105 +1,106 @@
-var Metalsmith  = require('metalsmith'),
-    markdown    = require('metalsmith-markdown'),
-    templates   = require('metalsmith-templates'),
-    replacer    = require('metalsmith-replace'),
-    permalinks  = require('metalsmith-permalinks'),
-    more        = require('metalsmith-more'),
-    collection  = require('metalsmith-collections'),
-    paginate    = require('metalsmith-paginate'),
-    moment      = require('moment');
+var Metalsmith  = require('metalsmith');
+var markdown    = require('metalsmith-markdown');
+var templates   = require('metalsmith-layouts');
+var replacer    = require('metalsmith-replace');
+var permalinks  = require('metalsmith-permalinks');
+var more        = require('metalsmith-more');
+var collection  = require('metalsmith-collections');
+var paginate    = require('metalsmith-paginate');
+var moment      = require('moment');
 
+
+var rootPath = __dirname;
 var config = {
-    paths:{
-        root:__dirname,
-        photoblog:{
-            templates: 'src/photoblog',
-            files:'src/photoblog/posts',
-            dest: 'dist/photoblog'
-        },
-        status:{
-            templates: 'src/templates',
-            files:'src/status',
-            dest: 'build/status'
-        }
-    },
-    metadata:{
-        site_name:'Juan Orozco Photoblog'
+  paths:{
+    root: rootPath,
+    photoblog:{
+      root: rootPath,
+      src: 'src/photoblog/src',
+      templates: 'src/photoblog/templates',
+      files: 'src/photoblog/src/posts',
+      dest: 'dist/photoblog'
     }
+  },
+  metadata:{
+    site_name:'Juan Orozco Photoblog'
+  }
 };
 
-console.log(config.paths.root);
-//Metalsmith.destination(config.paths.root + config.paths.build);
-var ms = new Metalsmith(config.paths.root);
-
+console.log(config.paths.photoblog.root);
+//var ms = new Metalsmith(__dirname);
+var ms = new Metalsmith(config.paths.photoblog.root);
 //sets photoblog as current folder
-ms.source('src')
-//sets the config metadata
-.metadata(config.metadata)
-//creates duplicates of metadata to process later
-.use(duplicator({
+ms
+  .source(config.paths.photoblog.src)
+  .ignore('**/.DS_Store')
+  //sets the config metadata
+  .metadata(config.metadata)
+  //creates duplicates of metadata to process later
+  .use(duplicator({
     prettyDate:'date',
     excerpt:'contents'
-}))
-//check for MORE in markdown files
-.use(more({
+  }))
+  //check for MORE in markdown files
+  .use(more({
     ext:'md'
-}))
-//process some metadata
-.use(replacer({
+  }))
+  //process some metadata
+  .use(replacer({
     prettyDate:function(date){
-        var newDate = moment( date.setUTCHours(8) );
-        return newDate.format('MMMM D, YYYY');
+      var newDate = moment( date.setUTCHours(8) );
+      return newDate.format('MMMM D, YYYY');
     },
     excerpt: function(content){
-        var excerpt = content;
-        if (!content.substr){
-            excerpt = content.toString();
-        }
-        excerpt.substr(0, 100);
-        //return excerpt.trim();
-        return excerpt;
+      var excerpt = content;
+      if (!content.substr){
+        excerpt = content.toString();
+      }
+      excerpt.substr(0, 100);
+      return excerpt;
     }
-}))
-//collections
-.use(collection({
+  }))
+
+  //collections
+  .use(collection({
     posts: {
-        pattern:'photoblog/posts/*.md',
-        sortBy: 'date',
-        reverse: true
-}}))
-.use(debugUse({}))
-//process markdown files
-.use(markdown())
-.use(paginate({
+      pattern:'posts/*.md',
+      sortBy: 'date',
+      reverse: true
+  }}))
+
+  .use(paginate({
     perPage: 25,
-    path: "page"
-}))
-//format files into a pretty permalink structure
-.use(permalinks({
-    pattern:'photoblog/:date/:title',
+    path: 'archive'
+  }))
+  .use(debugUse({}))
+  //process markdown files
+  .use(markdown())
+  //format files into a pretty permalink structure
+  .use(permalinks({
+    pattern: ':date/:title',
     date:'YYYY/MM'
-}))
-//process data through templates
-.use(templates({
-    engine:'mustache',
-    directory:config.paths.photoblog.templates
-}))
-//set the destination
-.destination(config.paths.photoblog.dest)
-//build it
-.build(function(err){
+  }))
+  //process data through templates
+  .use(templates({
+    engine: 'mustache',
+    //pattern: 'templates/*.mustache'
+    directory: config.paths.photoblog.templates
+  }))
+
+  //set the destination
+  .destination(config.paths.photoblog.dest)
+  // build it
+  .build(function(err){
     if (err){
       console.log("ERROR");
       console.log(err);
-    }
-    else{
+    } else {
       console.log("Success");
     }
-});
+  });
 
 //my duplicator plugin
 function duplicator(opts){
-
     Object.keys(opts).forEach(function(attr){
         var dupper = opts[attr];
     });
@@ -117,14 +118,16 @@ function duplicator(opts){
 }
 
 function debugUse(opts) {
-
+  var options = opts || false;
     Object.keys(opts).forEach(function(attr){
         var dupper = opts[attr];
     });
     return function(files, metalsmith, done){
-        var md = metalsmith.metadata(),
-            posts = md.collections.posts;
-        console.log( posts.length);
+
+      console.log('file keys', Object.keys(files) );
+        var md = metalsmith.metadata();
+        var posts = md.collections && md.collections.posts ? md.collections.posts: [];
+        console.log( 'posts', posts.length);
         for (var i = 0; i < posts.length; i++) {
             var post = posts[i];
             console.log(post.date);
