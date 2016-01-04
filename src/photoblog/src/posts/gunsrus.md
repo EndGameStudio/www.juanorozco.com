@@ -4,7 +4,7 @@ date: 2015-07-12
 tags: guns
 author: Juan Orozco
 featured-image: http://m.juanorozco.com/photos/2015/07/guns.thumb.jpg
-template: photoblog.mustache
+layout: photoblog.mustache
 ---
 
 "Cabela's: Where the bad guys in the movies shop!"

@@ -4,7 +4,7 @@ date: 2015-09-26
 tags: balloon
 author: Juan Orozco
 featured-image: http://m.juanorozco.com/photos/2015/09/baloon.thumbnail.jpg
-template: photoblog.mustache
+layout: photoblog.mustache
 ---
 
 Ballloooonnnn... parrraaadddeeeee

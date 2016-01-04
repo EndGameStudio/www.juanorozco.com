@@ -4,7 +4,7 @@ date: 2016-01-02
 tags: Ciri, Safari, cat, photo-a-day
 author: Juan Orozco
 featured-image: http://m.juanorozco.com/photos/2016/01/ciri_and_safari.thumbnail.JPG
-template: photoblog.mustache
+layout: photoblog.mustache
 ---
 
 ## Photo a day

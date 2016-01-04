@@ -4,7 +4,7 @@ date: 2014-11-01
 tags: Hogarth
 author: Juan Orozco
 featured-image: http://m.juanorozco.com/photos/2014/11/HogarthTheDog.thumb.jpg
-template: photoblog.mustache
+layout: photoblog.mustache
 ---
 
 Meet Hogarth!

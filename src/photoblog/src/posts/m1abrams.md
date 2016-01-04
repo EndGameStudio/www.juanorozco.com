@@ -4,7 +4,7 @@ date: 2015-08-16
 tags: tank, m1 abrams
 author: Juan Orozco
 featured-image: http://m.juanorozco.com/photos/2015/08/m1abrams.thumbnail.jpg
-template: photoblog.mustache
+layout: photoblog.mustache
 ---
 
 Make love not war!

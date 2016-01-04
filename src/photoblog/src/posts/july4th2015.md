@@ -4,7 +4,7 @@ date: 2015-07-04
 tags: independance day
 author: Juan Orozco
 featured-image: http://m.juanorozco.com/photos/2015/07/july4th_003.thumb.jpg
-template: photoblog.mustache
+layout: photoblog.mustache
 ---
 
 Using the GoPro to take some Fireworks shots. Just used a tripod and set it to Night Mode. I tripped the shutter using the iPhone app.

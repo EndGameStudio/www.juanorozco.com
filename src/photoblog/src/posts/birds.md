@@ -4,7 +4,7 @@ date: 2016-01-01
 tags: birds, photo-a-day
 author: Juan Orozco
 featured-image: http://m.juanorozco.com/photos/2016/01/birds.thumbnail.JPG
-template: photoblog.mustache
+layout: photoblog.mustache
 ---
 
 ## Photo a day

@@ -4,7 +4,7 @@ date: 2015-08-16
 tags: tank, Patton
 author: Juan Orozco
 featured-image: http://m.juanorozco.com/photos/2015/08/AngryPatton.thumbnail.jpg
-template: photoblog.mustache
+layout: photoblog.mustache
 ---
 
 Coolest paint job in the collection.
