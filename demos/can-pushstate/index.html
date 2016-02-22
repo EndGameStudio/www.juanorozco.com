@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://code.jquery.com/jquery.min.js"></script>
+<script src="//canjs.com/release/2.2.6/can.jquery.js"></script>
+<script src="//canjs.com/release/2.2.6/can.stache.js"></script>
+<script src="//canjs.com/release/2.2.6/can.route.pushstate.js"></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+  <div id="demo"></div>
+  <script id="template" type="text/stache">
+  {{link}}
+    <p><a href="{{link}}" target="_blank">Open In New Tab</a></p>
+    <p><a href="/">Ctrl click me</a></p>
+  </script>
+  <script type="text/javascript">
+    can.route(":page", {page: 'homepage'});
+    can.route.ready();
+    
+    var template = can.view.render('template');
+    
+    can.$('#demo').append(template({link: '?page=homepage'}));
+    
+    can.route.bind('change', function () {
+      console.log('change', arguments);
+    });
+  </script>
+</body>
+</html>
