@@ -17,8 +17,8 @@
     <p><a href="/">Ctrl click me</a></p>
   </script>
   <script type="text/javascript">
-    can.route(":page", {page: 'homepage'});
-    can.route.ready();
+    can.route("demos/can-pushstate/:page", {page: 'homepage'});
+    //can.route.ready();
     
     var template = can.view.render('template');
     
