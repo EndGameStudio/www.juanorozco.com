@@ -22,7 +22,7 @@
     can.route("demos/can-pushstate/:page", {page: 'homepage'});
     
     can.route.bind('change', function (ev, item, type, newVal) {
-      can.$('body').append(arguments[1] + ' || ' + arguments[2] + ' || ' + arguments[3] + '\n');
+      can.$('#debugging').append(arguments[1] + ' || ' + arguments[2] + ' || ' + arguments[3] + '\n');
       console.log('route changed', arguments);
     });
     
