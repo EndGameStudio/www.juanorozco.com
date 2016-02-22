@@ -12,21 +12,26 @@
 <body>
   <div id="demo"></div>
   <script id="template" type="text/stache">
-  {{link}}
-    <p><a href="{{link}}" target="_blank">Open In New Tab</a></p>
-    <p><a href="/">Ctrl click me</a></p>
+    <h1>Pushstate Test</h1>
+    <p><a href="{{link}}" target="_blank">Should Open In New Tab</a></p>
+    <p><a href="{{link}}">Ctrl click me</a></p>
+    <h2></h2>
+    <pre id="debugging></pre>
   </script>
   <script type="text/javascript">
     can.route("demos/can-pushstate/:page", {page: 'homepage'});
-    //can.route.ready();
+    
+    can.route.bind('change', function (ev, item, type, newVal) {
+      can.$('body').append(arguments[1] + ' || ' + arguments[2] + ' || ' + arguments[3] + '\n');
+      console.log('route changed', arguments);
+    });
     
     var template = can.view.render('template');
     
-    can.$('#demo').append(template({link: '?page=homepage'}));
+    can.$('#demo').append(template({link: '?page=contact-me'}));
     
-    can.route.bind('change', function () {
-      console.log('change', arguments);
-    });
+    can.route.ready();
+    
   </script>
 </body>
 </html>
