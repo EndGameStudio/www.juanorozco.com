@@ -22,56 +22,42 @@ body {
   width: 35rem;
   margin: 5rem auto 0 auto;
   padding: 0;
-}
-body {
   font-family: 'Roboto', Verdana, sans-serif;
   background-color: #eee;
   color: #444;
 }
-::selection {
+body ::selection {
   color: #222;
   background: #42ED70;
 }
-::-moz-selection {
+body ::-moz-selection {
   color: #222;
   background: #42ED70;
 }
-h1,
-h2,
-h3 {
+body h1,
+body h2,
+body h3 {
   font-family: 'Roboto Slab', 'Georgia', serif;
-}
-h1,
-h2,
-h3 {
   margin: 0.5rem 0;
 }
-h1 {
+body h1 {
   font-size: 3rem;
   line-height: 4.5rem;
+  position: absolute;
+  top: 0;
+  left: 6rem;
 }
-h2 {
+body h2 {
   font-size: 2rem;
   text-align: center;
   line-height: 3rem;
   border-bottom: 1px dashed #C8DBC1;
 }
-header {
+body header {
   position: relative;
   height: 10rem;
 }
-h1 {
-  position: absolute;
-  top: 0;
-  left: 6rem;
-}
-.photoblog.post h1 {
-  position: inherit;
-}
-.photoblog.post img {
-  width: 100%;
-}
-header .motto {
+body header .motto {
   position: absolute;
   top: 6rem;
   left: 50%;
@@ -80,11 +66,17 @@ header .motto {
   font-size: 2rem;
   text-align: center;
 }
-p {
+body p {
   padding: 0.5rem 0;
   line-height: 1.4rem;
 }
-img.avatar {
+body .photoblog.post h1 {
+  position: inherit;
+}
+body .photoblog.post img {
+  width: 100%;
+}
+body .avatar img {
   position: absolute;
   top: 0;
   left: 0;
@@ -107,12 +99,12 @@ section.haiku {
   border-top: 1px solid #333;
   border-bottom: 1px solid #333;
 }
-#publishings {
+section ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
-#publishings li {
+section ul li {
   margin: 0;
   padding: 0.5rem;
   line-height: 1.3rem;
