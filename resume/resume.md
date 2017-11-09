@@ -1,153 +1,74 @@
-Juan Orozco
-==============
+# Hi, I'm Juan Orozco
 
-- 919-793-3740
-- JuanOrozco.com
-- JuanTheDesigner@gmail.com
+- ![Juan](http://www.gravatar.com/avatar/62e9c31601866b733dfa5c92e81dec5b.png)
+- Raleigh, NC
+- 919-793-3740 | Hi@JuanOrozco.com
+- [JuanOrozco.com](http://juanorozco.com)
 
-## Personal Summary
+> Do what is right, be transparent, communicate often, take care of yourself so you can take care of others
 
-My passion for the web stems from a wonder and zeal of inventing and exploring. Originally focused on Industrial Design, I pivoted and turned to the web. Finding a world ripe with new exploration opportunities, I dove in with the aims of learning as much as possible and benefiting the overall state of the web.
+I incorporated these values after years of working with challenging teams and people. My goals focus on my zeal for building useful and delightful things.
 
-Through my diverse work experiences over the past ten years, I have honed my skills as a web developer; first as a server-side craftsman.  I then moved on to front-end development and, now, focus on User Experience and mentoring. 
-
-Web development is still in a formative state, which encourages exploration and community. Within this dynamic, I continue to learn and participate in all aspects of web application product development with an emphasis on mentoring colleagues. 
-
-## Objective
-
-I am at my best when creating innovative, inspiring, challenging, and fun applications within a respectful and creative company, alongside talented and friendly team members.
-
-## Skills
-
-### Languages, Data Formats
-
-* CoffeeScript
-* CSS
-* 4D
-* GIT
-* HTML
-* JavaScript
-* JSON
-* Lua
-* Markdown
-* MSSQL
-* MySQL
-* Node.js
-* Pascal (Delphi)
-* PHP
-* Ruby
-* SVN
-* XML
-
-### Frameworks
-
-* CANJS
-* DHTMLx
-* jQuery
-* jQuery UI
-* Mustache
-* PHPUnit
-* Pure CSS
-* qUnit
-* RequireJS
-* Selenium
-* Underscore
-
-### Services & APIs
-
-* Bamboo
-* Bower
-* Confluence
-* Dropbox
-* Evernote
-* Firebase
-* FishEye
-* Ghost
-* Grunt
-* Jira
-* Mozilla Persona
-* OAuth
-* Trello
-* WordPress
+I constantly seek out learning opportunities and strive to share my knowledge. I don’t believe in management, I believe in mentorship. I inspire teams to break their limits and help them deliver the best product possible. I seek out passionate people who value themselves, their team, and the worlds they build.
 
 ## Experience
 
-### Application Engineer at Knowledge Sharing Systems
+### Team Lead at Bitovi
 
-* Raleigh, NC
-* Nov. 2012 - Current
+- Chicago, IL (HQ, remote position)
+- Sept. 2014 - Nov. 2017
+- JavaScript (including ES6), HTML, CSS
+- CanJS, FeathersJS, NodeJS, Express, LESS
 
----
+Worked with product owner, client engineering team, and consulting team to build enterprise web applications for various teams within Apple and other clients.
 
-**PHP, 4D, Node.js, Selenium, PHPUnit, HTML, CSS, JavaScript**
+Contributed to open source projects like CanJS, StealJS, and DocumentJS. Created validation plugin for CanJS framework that makes the ValidateJS library observable.
 
-* Introduced versioning using Subversion and GIT. 
-* Spearheaded automated builds and integration testing with Selenium and PHPUnit using Bamboo.
-* Improved core application MVC structure by creating a basic API and a more scalable MVC structure. 
-* Learned the 4D scripting language and API. 
-* General application engineering - creating and modifying modules for the flagship application and SaaS applications. 
-* Conducted research with end users.
-* User Experience work included user research and interface design.
+Mentored and trained teams of various sizes (usually between 3-7) to build and deliver front end single page applications. Presented on technical topics and soft-skills - like coping with failure. Founded internal "People Team" where we focused on culture and morale.
+
+### Front End Engineer at Knowledge Sharing Systems
+
+- Raleigh, NC
+- Nov. 2012 - Sept. 2014
+- PHP, JavScript, HTML, CSS
+- 4D, NodeJS, Selenium, PHPUnit
+
+Supported Patent Management software; flagship application and SAAS products for clients, such as Stanford University and NASA.
+
+Team used many outdated processes with PHP stack. Worked with lead to work in incremental process changes. Trained team on switching to versioning using Git, writing unit tests, Agile, and user testing. Mentored team during transition to custom front end MVC framework as well as shift to Agile methodology.
 
 ### Lead Web Developer at Maximum Processing
 
-* Garner, NC
-* Jun. 2011 - Nov. 2012
+- Garner, NC
+- Jun. 2011 - Nov. 2012
+- Pascal/Delphi, MSSQL, HTML5, CSS, JavaScript
+- Selenium, GIT
 
----
+Lead project developer for web based insurance policy management software. Worked with clients, business analysts and developers to implement software using client requirements. Conducted code reviews, pairing sessions, and trainings with engineers.
 
-**Pascal/Delphi, MSSQL, HTML5, CSS, JavaScript, Selenium**
-
-* Lead project developer for multiple clients; managed milestones and issue tracking.
-* Designed and built various portable and dynamic modules for core system that reduced developer time and bug tickets.
-* Initiated and increased awareness of development best practices through training, company Wiki, and Code Snippet repository.
-* Moved code base from in-house versioning system to more robust Subversion.
+Mentored team of junior developers, usually teams sizes ranging between 2-4. Created and maintained internal training and knowledge sharing tools. Built and published several internal modules that improved engineer productivity and code quality.
 
 ### Web Developer at City of Fayetteville
 
-* Fayetteville, NC
-* Jan. 2011 - Jun. 2011
+- Fayetteville, NC
+- Jan. 2011 - Jun. 2011
+- ASP, PHP, JavaScript, HTML, CSS
 
----
+Supported city websites, including main city site, the Police Department, the Fire Department, and others. Managed content, design, and front end experience. Technical lead for city employee web apps and information sites.
 
-**ASP.NET, VB.NET, HTML, CSS, JavaScript/jQuery**
+Improved native application and GIS user experiences through consulting and UX heuristic evaluations.
 
-* Project lead on internal application for city employees that built dynamic forms.
-* Responsible for websites including main landing site, the Police Department, and the Fire Department.
-* Built custom responsive CSS and JavaScript frameworks for use on all city owned websites.
-* Designed and implemented various interfaces for geographic data using GIS data and Google Maps API.
-* User experience advising and mentoring with application developers and GIS developers.
-* Utilized ADA-compliance and accessibility techniques.
+Applied responsive web development practices, user testing practices and user experience reviews which improved user satisfaction (measured through site visitor analytics).
 
-
-### Application and Experience Engineer at End Game Studio
-
-* Raleigh, NC
-* Jul. 2005 - Current
-
----
-
-**Front end technologies, Bower and Grunt for automation and builds, PHP and WordPress for backend and CMS.**
-
-* Full stack developer for private and commercial clients.
-* UX Engineer - User research, interface designer, copy editor.
-* Maintain web host server and WordPress CMS. 
-* Developed small web applications and tools to increase personal productivity and work-flow.
-* Training on CMS, social media, and other tools
 
 ### Technology Support Technician at College of Management, NCSU
 
 * Raleigh, NC
 * Oct. 2007 - Oct. 2008
 
----
+Supported classroom technology, student and faculty computing, and special event administration. Special events consisted of lectures given by CEO’s and other VIP’s in 1500 seat auditorium.
 
-* Supported classroom technology, student and faculty computing, and special event administration.
-* Coordinated technology resources for lectures and presentations given by CEO's and other VIP's in 1500 seat auditorium.
-* Deployed, supported, and repaired all faculty and student computing resources. Supervised volunteer students.
-* Created documentation, scheduled training and recording sessions for video recording classroom.
-* Consulted on design for upgrades and modification for instructional technology.
-* Learned the Crestron Simple+ programming language; refactored and improved interfaces college-wide.
+Managed and operated video production technology. Consulted on the use and design of new classroom support technology for upgrades, modifications and UI design.
 
 ## Education
 

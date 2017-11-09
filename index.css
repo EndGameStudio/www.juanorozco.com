@@ -147,13 +147,13 @@ footer {
 }
 @media screen and (max-width: 400px) {
   /* mobile devices */
-  h1 {
-    font-size: 1.6rem;
-    text-align: center;
-  }
   body {
     width: 91%;
     margin: 1rem;
+  }
+  body h1 {
+    font-size: 1.6rem;
+    text-align: center;
   }
   h1 {
     position: static;
