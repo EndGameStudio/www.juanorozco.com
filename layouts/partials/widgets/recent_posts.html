@@ -1,5 +1,0 @@
-<div>
-  {{ range ( first 3 ( where .Site.RegularPages "Type" "not in" "page" ) ) }}
-    {{ .Render "article" }}
-  {{ end }}
-</div>
