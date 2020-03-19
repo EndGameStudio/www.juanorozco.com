@@ -1,0 +1,15 @@
+<article>
+  <header>
+    <h3>
+      <a href="{{ .Permalink | relURL }}">
+        {{- .Title -}}
+      </a>
+    </h3>
+    <div class="meta">
+      {{ partial "list/date" . }}
+    </div>
+  </header>
+  <section>
+    {{- .Content -}}
+  </section>
+</article>
