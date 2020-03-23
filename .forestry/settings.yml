@@ -14,7 +14,7 @@ sections:
   label: Blog
   create: all
   match: "**/*"
-upload_dir: image/upload/v1584979170/juan-orozco-com
+upload_dir: juan-orozco-com
 public_path: " https://res.cloudinary.com/deo07tbou/image/upload/v1584979170/juan-orozco-com"
 front_matter_path: ''
 use_front_matter_path: 
