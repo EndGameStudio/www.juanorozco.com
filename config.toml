@@ -37,10 +37,10 @@ search = true
 # disqusUser = "na"
 
 [params.path]
-image = "image/"
+image = "images/"
 video = "video/"
-author = "image/author/"
-brand = "image/brand/"
+author = "images/author/"
+brand = "images/brand/"
 font = "font/"
 pdf = "pdf/"
 
@@ -49,7 +49,7 @@ provider = "local"
 type = "image"
 
 [params.cloudinary]
-host = "https://res.cloudinary.com/CLOUD_NAME/"
+host = "https://res.cloudinary.com/deo07tbou/"
 version = ""
 image = "image/upload/"
 raw = "raw/upload/"
