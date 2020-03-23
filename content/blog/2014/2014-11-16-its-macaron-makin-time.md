@@ -1,7 +1,7 @@
 ---
 title: It’s Macaron makin’ time!
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2014-11-16T03:37:00+00:00
 url: /2014/11/16/its-macaron-makin-time/

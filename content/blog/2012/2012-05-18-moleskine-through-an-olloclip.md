@@ -1,7 +1,7 @@
 ---
 title: Moleskine through an Olloclip
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2012-05-18T23:41:10+00:00
 url: /2012/05/18/moleskine-through-an-olloclip/

@@ -1,7 +1,7 @@
 ---
 title: But does it have traffic view?
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-09-23T01:34:38+00:00
 url: /2010/09/22/but-does-it-have-traffic-view/

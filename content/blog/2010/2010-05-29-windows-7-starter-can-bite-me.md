@@ -1,7 +1,7 @@
 ---
 title: Windows 7 Starter can bite me….
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-05-29T21:37:25+00:00
 url: /2010/05/29/windows-7-starter-can-bite-me/

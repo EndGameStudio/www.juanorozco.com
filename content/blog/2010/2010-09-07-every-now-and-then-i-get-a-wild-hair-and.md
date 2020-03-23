@@ -1,7 +1,7 @@
 ---
 title: Every now and then I get a wild hair and…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-09-07T04:16:44+00:00
 url: /2010/09/07/every-now-and-then-i-get-a-wild-hair-and/

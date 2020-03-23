@@ -1,7 +1,7 @@
 ---
 title: 'Listening to… Studio 360, American Icons: I Love Lucy'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-12-10T18:37:05+00:00
 url: /2011/12/10/listening-to-studio-360-american-icons-i-love-lucy/

@@ -13,6 +13,7 @@ summaryLength = 40
 enableRobotsTXT = true
 pluralizelisttitles = false
 footnoteReturnLinkContents = "&#8617;"
+paginate = 3
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
@@ -22,6 +23,7 @@ post = "/:filename"
 [params]
 mainSections = ["post"]
 copyrightYear = 2000
+search = true
 
 [params.services]
 # analyticsId = "UA-DEV"
@@ -83,7 +85,8 @@ faviconIco = "favicon.ico"
 faviconAlt = "favicon.png"
 icon1To1 = "icon-1-1.png"
 icon2To1 = "icon-2-1.png"
-logo = "<svg class=\"fill-current\" viewBox=\"0 0 32 32\"><path d=\"M16,25 L32,25 L32,7 L28,7 L28,21 L26,21 L26,13 L22,13 L22,21 L18,21 L18,7 L16,7 L7,7 L7,11 L14,11 L14,21 L0,21 L0,25 L16,25 Z\"/></svg>"
+#logo = "<svg class=\"fill-current\" viewBox=\"0 0 32 32\"><path d=\"M16,25 L32,25 L32,7 L28,7 L28,21 L26,21 L26,13 L22,13 L22,21 L18,21 L18,7 L16,7 L7,7 L7,11 L14,11 L14,21 L0,21 L0,25 L16,25 Z\"/></svg>"
+logo = "<p style=\"text-align: center;\">JO</p>"
 
 [outputs]
 home = ["HTML", "ATOM"]
@@ -124,8 +127,8 @@ tabWidth = 2
 [menu]
 [[menu.main]]
 url = "/blog/"
-name = "Blog"
-weight = 10
+name = "Archive"
+weight = 50
 [[menu.main]]
 url = "/now/"
 name = "Now"
@@ -141,7 +144,7 @@ weight = 40
 
 [[menu.mobile]]
 url = "/blog/"
-name = "Blog"
+name = "Archive"
 weight = 1
 
 [[menu.mobile]]
@@ -151,7 +154,7 @@ weight = 2
 
 [[menu.foot]]
 url = "/blog/"
-name = "Blog"
+name = "Archive"
 weight = 1
 
 [[menu.foot]]

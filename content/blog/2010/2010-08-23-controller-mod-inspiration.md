@@ -1,7 +1,7 @@
 ---
 title: Controller mod inspiration
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-08-23T15:19:21+00:00
 url: /2010/08/23/controller-mod-inspiration/

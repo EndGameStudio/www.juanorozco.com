@@ -1,7 +1,7 @@
 ---
 title: Post to my first article on the Examiner…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-05-30T02:17:43+00:00
 url: /2010/05/29/post-to-my-first-article-on-the-examiner/

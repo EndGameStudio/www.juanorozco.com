@@ -1,7 +1,7 @@
 ---
 title: My iPhone Camera Bag
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2009-12-30T06:37:29+00:00
 url: /2009/12/30/my-iphone-camera-bag/

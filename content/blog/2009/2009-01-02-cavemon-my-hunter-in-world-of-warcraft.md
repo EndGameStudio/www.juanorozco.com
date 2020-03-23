@@ -1,7 +1,7 @@
 ---
 title: Cavemon, my Hunter in World of Warcraft
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2009-01-02T17:00:06+00:00
 url: /2009/01/02/cavemon-my-hunter-in-world-of-warcraft/

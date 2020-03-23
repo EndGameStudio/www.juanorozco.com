@@ -1,7 +1,7 @@
 ---
 title: It’s so obvious!
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-07-04T02:20:40+00:00
 url: /2010/07/03/its-so-obvious/

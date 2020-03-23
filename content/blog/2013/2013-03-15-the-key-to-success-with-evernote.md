@@ -1,7 +1,7 @@
 ---
 title: The key to success with Evernote
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2013-03-16T01:47:58+00:00
 url: /2013/03/15/the-key-to-success-with-evernote/

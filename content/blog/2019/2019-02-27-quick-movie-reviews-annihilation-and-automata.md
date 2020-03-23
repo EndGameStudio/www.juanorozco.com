@@ -1,7 +1,7 @@
 ---
 title: Quick Movie Reviews – Annihilation and Automata
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2019-02-28T03:36:50+00:00
 url: /2019/02/27/quick-movie-reviews-annihilation-and-automata/

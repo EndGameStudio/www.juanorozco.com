@@ -1,7 +1,7 @@
 ---
 title: 'Cake Mix Hack: Rocky Road Cookies'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2008-10-28T03:28:07+00:00
 url: /2008/10/27/cake-mix-hack-rocky-road-cookies/

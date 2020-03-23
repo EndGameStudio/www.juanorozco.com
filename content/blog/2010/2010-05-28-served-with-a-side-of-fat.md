@@ -1,7 +1,7 @@
 ---
 title: Served with a side of fat.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-05-28T15:44:27+00:00
 url: /2010/05/28/served-with-a-side-of-fat/

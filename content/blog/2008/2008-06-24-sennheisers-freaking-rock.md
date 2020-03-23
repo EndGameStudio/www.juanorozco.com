@@ -1,7 +1,7 @@
 ---
 title: Sennheisers freaking rock…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2008-06-24T13:57:08+00:00
 url: /2008/06/24/sennheisers-freaking-rock/

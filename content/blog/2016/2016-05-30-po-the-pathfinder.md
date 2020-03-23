@@ -1,7 +1,7 @@
 ---
 title: 'Po the Pathfinder: origins'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2016-05-30T02:33:00+00:00
 url: /2016/05/30/po-the-pathfinder/

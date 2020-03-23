@@ -1,7 +1,7 @@
 ---
 title: Come on Square-Enix, are we in sideways …
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-08-22T01:25:15+00:00
 url: /2010/08/21/come-on-square-enix-are-we-in-sideways/

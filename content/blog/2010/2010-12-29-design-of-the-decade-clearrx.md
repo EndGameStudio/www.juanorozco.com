@@ -1,7 +1,7 @@
 ---
 title: This is what being a designer is about.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-12-29T13:53:43+00:00
 url: /2010/12/29/design-of-the-decade-clearrx/

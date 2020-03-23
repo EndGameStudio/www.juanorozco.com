@@ -1,7 +1,7 @@
 ---
 title: Wolf Blood Moon
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2019-01-22T15:33:31+00:00
 excerpt: Photos from Wolf Blood Moon (Total Lunar Eclipse), January 2019, near Raleigh NC

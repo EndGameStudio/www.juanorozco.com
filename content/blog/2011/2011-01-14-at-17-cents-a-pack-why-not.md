@@ -1,7 +1,7 @@
 ---
 title: At 17 cents a pack, why not?
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-01-14T21:19:50+00:00
 url: /2011/01/14/at-17-cents-a-pack-why-not/

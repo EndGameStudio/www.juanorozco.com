@@ -1,7 +1,7 @@
 ---
 title: Play the guitar with your teeth
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-09-11T04:33:13+00:00
 url: /2010/09/11/play-the-guitar-with-your-teeth/

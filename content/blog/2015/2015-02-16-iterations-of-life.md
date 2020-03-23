@@ -1,7 +1,7 @@
 ---
 title: Iterations of life
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2015-02-16T03:36:48+00:00
 url: /2015/02/16/iterations-of-life/

@@ -1,7 +1,7 @@
 ---
 title: Power Around My Neck
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-06-25T20:53:06+00:00
 url: /2010/06/25/power-around-my-neck/

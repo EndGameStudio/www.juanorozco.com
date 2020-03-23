@@ -1,7 +1,7 @@
 ---
 title: Queen Safari
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2015-07-20T02:42:00+00:00
 url: /2015/07/20/queen-safari/

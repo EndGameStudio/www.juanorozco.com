@@ -1,7 +1,7 @@
 ---
 title: Nom nom nom! TOYS!
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-07-17T17:35:11+00:00
 url: /2010/07/17/nom-nom-nom-toys/

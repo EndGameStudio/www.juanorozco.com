@@ -1,7 +1,7 @@
 ---
 title: It’sa me, Mario!
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2008-04-25T21:39:33+00:00
 url: /2008/04/25/itsa-me-mario/

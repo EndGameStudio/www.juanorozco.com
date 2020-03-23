@@ -1,7 +1,7 @@
 ---
 title: Mario Kart
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2008-05-06T18:48:44+00:00
 url: /2008/05/06/mario-kart/

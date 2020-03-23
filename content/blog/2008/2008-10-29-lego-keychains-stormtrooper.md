@@ -1,7 +1,7 @@
 ---
 title: 'Lego Keychains: Stormtrooper'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2008-10-29T16:00:38+00:00
 url: /2008/10/29/lego-keychains-stormtrooper/

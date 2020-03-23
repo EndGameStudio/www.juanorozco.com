@@ -1,7 +1,7 @@
 ---
 title: A little Nature Here And There
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-06-28T05:01:17+00:00
 url: /2010/06/28/a-little-nature-here-and-there/

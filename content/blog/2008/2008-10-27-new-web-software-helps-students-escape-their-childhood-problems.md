@@ -1,7 +1,7 @@
 ---
 title: New web software helps students escape their childhood problems.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2008-10-27T16:00:29+00:00
 url: /2008/10/27/new-web-software-helps-students-escape-their-childhood-problems/

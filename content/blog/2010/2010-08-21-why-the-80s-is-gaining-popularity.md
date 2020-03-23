@@ -1,7 +1,7 @@
 ---
 title: Why the 80’s is gaining popularity
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-08-21T15:53:04+00:00
 url: /2010/08/21/why-the-80s-is-gaining-popularity/

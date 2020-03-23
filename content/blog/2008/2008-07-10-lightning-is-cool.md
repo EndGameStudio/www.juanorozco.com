@@ -1,7 +1,7 @@
 ---
 title: Lightning is cool
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2008-07-10T12:57:57+00:00
 url: /2008/07/10/lightning-is-cool/

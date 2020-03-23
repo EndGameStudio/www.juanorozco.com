@@ -1,7 +1,7 @@
 ---
 title: 'Software Thoughts: Art Rage 2'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2008-06-07T01:00:51+00:00
 url: /2008/06/06/software-thoughts-art-rage-2/

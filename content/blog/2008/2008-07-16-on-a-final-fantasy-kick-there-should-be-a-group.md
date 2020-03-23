@@ -1,7 +1,7 @@
 ---
 title: On a Final Fantasy Kick, there should be a group…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2008-07-16T13:00:49+00:00
 url: /2008/07/16/on-a-final-fantasy-kick-there-should-be-a-group/

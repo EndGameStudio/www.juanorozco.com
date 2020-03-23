@@ -1,7 +1,7 @@
 ---
 title: A man and his keyboard
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2012-07-04T20:56:13+00:00
 url: /2012/07/04/a-man-and-his-keyboard/

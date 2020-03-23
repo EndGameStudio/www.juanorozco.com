@@ -1,7 +1,7 @@
 ---
 title: Bottlecaps
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-01-07T03:27:40+00:00
 url: /2010/01/06/bottlecaps/

@@ -1,7 +1,7 @@
 ---
 title: Game Boy DSi announced!
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2008-10-02T07:09:36+00:00
 url: /2008/10/02/game-boy-dsi-announced/

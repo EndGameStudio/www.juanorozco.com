@@ -1,7 +1,7 @@
 ---
 title: My First 5K / Mud Run
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2012-04-24T03:21:57+00:00
 url: /2012/04/23/my-first-5k-mud-run/

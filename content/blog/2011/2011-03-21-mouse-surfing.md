@@ -1,7 +1,7 @@
 ---
 title: Mouse surfing
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-03-21T15:17:46+00:00
 url: /2011/03/21/mouse-surfing/

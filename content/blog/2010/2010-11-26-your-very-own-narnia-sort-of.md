@@ -1,7 +1,7 @@
 ---
 title: Your very own Narnia. Sort of.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-11-26T18:49:09+00:00
 url: /2010/11/26/your-very-own-narnia-sort-of/

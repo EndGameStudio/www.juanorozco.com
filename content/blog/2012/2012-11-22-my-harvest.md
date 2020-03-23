@@ -1,7 +1,7 @@
 ---
 title: My harvest
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2012-11-23T02:00:32+00:00
 url: /2012/11/22/my-harvest/

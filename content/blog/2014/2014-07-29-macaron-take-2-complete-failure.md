@@ -1,7 +1,7 @@
 ---
 title: Macaron Take 2 – Complete Failure
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2014-07-29T14:59:56+00:00
 url: /2014/07/29/macaron-take-2-complete-failure/

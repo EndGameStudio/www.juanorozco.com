@@ -1,7 +1,7 @@
 ---
 title: Why I Like to Chop Onions
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2009-03-16T21:38:13+00:00
 url: /2009/03/16/why-i-like-to-chop-onions/

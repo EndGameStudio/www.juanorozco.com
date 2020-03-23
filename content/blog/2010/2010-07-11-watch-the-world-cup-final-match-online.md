@@ -1,7 +1,7 @@
 ---
 title: Watch the World Cup final match online. …
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-07-11T18:40:52+00:00
 url: /2010/07/11/watch-the-world-cup-final-match-online/

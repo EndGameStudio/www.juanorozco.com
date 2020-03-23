@@ -1,7 +1,7 @@
 ---
 title: Win. http://www.youtube.com/watch?v=1Zp4…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-11-24T17:09:14+00:00
 url: /2010/11/24/win-youtubehttpwww-youtube-comwat/

@@ -1,7 +1,7 @@
 ---
 title: If I were to get a tattoo it would be one of…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2008-06-09T17:02:47+00:00
 url: /2008/06/09/if-i-were-to-get-a-tattoo-it-would-be-one-of/

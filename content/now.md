@@ -1,7 +1,7 @@
 ---
 title: Now
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: page
 date: 2019-01-18T02:07:48+00:00
 amazonS3_cache:

@@ -1,7 +1,7 @@
 ---
 title: Hacking WordPress shortened links and Twitter Tools
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2009-06-01T17:22:04+00:00
 url: /2009/06/01/hacking-wordpress-shortened-links-and-twitter-tools/

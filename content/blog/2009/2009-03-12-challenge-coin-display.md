@@ -1,7 +1,7 @@
 ---
 title: Challenge Coin Display
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2009-03-12T04:47:21+00:00
 url: /2009/03/12/challenge-coin-display/

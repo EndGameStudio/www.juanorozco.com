@@ -1,7 +1,7 @@
 ---
 title: I need the emergency toy, STAT!
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-10-04T19:54:09+00:00
 url: /2010/10/04/i-need-the-emergency-toy-stat/

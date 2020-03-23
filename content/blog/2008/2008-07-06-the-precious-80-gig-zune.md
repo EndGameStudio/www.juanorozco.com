@@ -1,7 +1,7 @@
 ---
 title: 'The Precious: 80 Gig Zune'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2008-07-06T13:00:01+00:00
 url: /2008/07/06/the-precious-80-gig-zune/

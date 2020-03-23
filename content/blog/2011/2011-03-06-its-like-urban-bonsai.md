@@ -1,7 +1,7 @@
 ---
 title: It’s like urban bonsai.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-03-06T21:44:07+00:00
 url: /2011/03/06/its-like-urban-bonsai/

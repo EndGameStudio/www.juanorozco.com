@@ -1,7 +1,7 @@
 ---
 title: Quote from Samurai 7
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2009-07-06T01:24:02+00:00
 url: /2009/07/05/quote-from-samurai-7/

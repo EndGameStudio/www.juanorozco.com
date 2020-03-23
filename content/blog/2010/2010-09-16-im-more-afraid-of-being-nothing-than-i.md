@@ -1,7 +1,7 @@
 ---
 title: I’m more afraid of being nothing than I…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-09-17T02:13:55+00:00
 url: /2010/09/16/im-more-afraid-of-being-nothing-than-i/

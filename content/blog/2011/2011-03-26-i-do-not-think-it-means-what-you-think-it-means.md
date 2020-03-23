@@ -1,7 +1,7 @@
 ---
 title: I do not think it means what you think it means.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-03-26T12:40:43+00:00
 url: /2011/03/26/i-do-not-think-it-means-what-you-think-it-means/

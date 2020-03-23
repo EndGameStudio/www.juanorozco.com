@@ -1,7 +1,7 @@
 ---
 title: A new light on my heritage.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-05-01T02:40:40+00:00
 url: /2010/04/30/a-new-light-on-my-heritage-2/

@@ -1,7 +1,7 @@
 ---
 title: Interesting Find
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-08-09T05:25:11+00:00
 url: /2010/08/09/interesting-find/

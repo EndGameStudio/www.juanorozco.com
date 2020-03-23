@@ -1,7 +1,7 @@
 ---
 title: Door stop – It’s the little things…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-09-17T05:24:49+00:00
 url: /2011/09/17/door-stop-its-the-little-things/

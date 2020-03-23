@@ -1,7 +1,7 @@
 ---
 title: Die Empty or Die Happy?
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2009-11-08T04:49:21+00:00
 url: /2009/11/08/die-empty-or-die-happy/

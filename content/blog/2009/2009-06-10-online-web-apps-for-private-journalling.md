@@ -1,7 +1,7 @@
 ---
 title: Online Web Apps for private journaling.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2009-06-11T03:19:34+00:00
 url: /2009/06/10/online-web-apps-for-private-journalling/

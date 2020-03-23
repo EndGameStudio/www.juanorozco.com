@@ -1,7 +1,7 @@
 ---
 title: 'Flow: Outdoor Kiddie Pool | Creative and Flow'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-06-29T05:23:27+00:00
 url: /2010/06/29/flow-outdoor-kiddie-pool-creative-and-flow/

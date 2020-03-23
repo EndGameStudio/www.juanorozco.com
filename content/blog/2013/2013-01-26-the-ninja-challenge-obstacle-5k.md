@@ -1,7 +1,7 @@
 ---
 title: The Ninja Challenge Obstacle 5k – Scheduled
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2013-01-27T03:47:57+00:00
 url: /2013/01/26/the-ninja-challenge-obstacle-5k/

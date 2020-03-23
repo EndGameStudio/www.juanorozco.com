@@ -1,7 +1,7 @@
 ---
 title: Using Dropbox for versioning
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2012-08-08T02:37:39+00:00
 url: /2012/08/07/using-dropbox-for-versioning/

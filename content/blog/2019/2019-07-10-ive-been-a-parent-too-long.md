@@ -1,7 +1,7 @@
 ---
 title: I’ve been a parent too long…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2019-07-11T00:08:50+00:00
 url: /2019/07/10/ive-been-a-parent-too-long/

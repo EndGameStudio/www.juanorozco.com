@@ -1,7 +1,7 @@
 ---
 title: Going to try this at home. http://37sign…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-06-17T01:05:53+00:00
 url: /2010/06/16/going-to-try-this-at-home-http37sign/

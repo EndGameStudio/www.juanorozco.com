@@ -1,7 +1,7 @@
 ---
 title: Winnie the Wookie?
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-09-03T21:47:20+00:00
 url: /2010/09/03/winnie-the-wookie/

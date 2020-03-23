@@ -1,7 +1,7 @@
 ---
 title: Photoblog – Breakfast for lunch
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2013-03-02T17:06:44+00:00
 url: /2013/03/02/photoblog-breakfast-for-lunch/

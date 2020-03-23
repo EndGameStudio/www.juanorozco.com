@@ -1,7 +1,7 @@
 ---
 title: COPS, starring Earl in Chewsandswallows
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-08-04T01:17:09+00:00
 url: /2010/08/03/cops-starring-earl-in-chewsandswallows/

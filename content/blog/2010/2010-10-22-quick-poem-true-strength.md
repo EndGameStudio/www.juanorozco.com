@@ -1,7 +1,7 @@
 ---
 title: 'Quick Poem: True strength'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-10-22T21:20:36+00:00
 url: /2010/10/22/quick-poem-true-strength/

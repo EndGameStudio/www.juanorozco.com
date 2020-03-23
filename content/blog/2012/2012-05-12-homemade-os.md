@@ -1,7 +1,7 @@
 ---
 title: Homemade Os
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2012-05-13T01:27:03+00:00
 url: /2012/05/12/homemade-os/

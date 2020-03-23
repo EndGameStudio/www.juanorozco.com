@@ -1,7 +1,7 @@
 ---
 title: Warcraft 3, Oh yea.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-05-10T00:48:38+00:00
 url: /2011/05/09/warcraft-3-oh-yea/

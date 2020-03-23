@@ -1,7 +1,7 @@
 ---
 title: Attempt the… FRENCH MACARON
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2014-07-26T05:20:00+00:00
 url: /2014/07/26/attempt-the-french-macaron/

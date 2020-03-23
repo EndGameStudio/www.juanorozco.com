@@ -1,7 +1,7 @@
 ---
 title: I love slides.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-03-10T17:24:02+00:00
 url: /2011/03/10/i-love-slides/

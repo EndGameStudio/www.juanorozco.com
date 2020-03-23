@@ -1,7 +1,7 @@
 ---
 title: It’s been like this for two hours now. …
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-06-22T04:54:41+00:00
 url: /2010/06/22/its-been-like-this-for-two-hours-now/

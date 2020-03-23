@@ -1,7 +1,7 @@
 ---
 title: Picasa, Make and do stuff with your photos.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-01-09T07:23:00+00:00
 url: /2011/01/09/picasa-make-and-do-stuff-with-your-photos/

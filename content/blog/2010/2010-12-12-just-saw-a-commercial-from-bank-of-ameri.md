@@ -1,7 +1,7 @@
 ---
 title: Just saw a commercial from Bank of Ameri…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-12-12T07:06:16+00:00
 url: /2010/12/12/just-saw-a-commercial-from-bank-of-ameri/

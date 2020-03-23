@@ -1,7 +1,7 @@
 ---
 title: Chat
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: page
 date: 2019-08-04T12:13:02+00:00
 featured_image: https://m.juanorozco.com/wp-content/uploads/2019/08/04095656/nesa-by-makers-IgUR1iX0mqM-unsplash-1568x1045.jpg

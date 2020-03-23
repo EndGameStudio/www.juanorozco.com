@@ -1,7 +1,7 @@
 ---
 title: The Nissan Rogue
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2008-04-29T16:54:36+00:00
 url: /2008/04/29/the-nissan-rogue/

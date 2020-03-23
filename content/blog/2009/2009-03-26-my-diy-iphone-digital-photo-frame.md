@@ -1,7 +1,7 @@
 ---
 title: My DIY iPhone Digital Photo Frame
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2009-03-26T21:03:36+00:00
 url: /2009/03/26/my-diy-iphone-digital-photo-frame/

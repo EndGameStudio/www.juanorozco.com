@@ -1,7 +1,7 @@
 ---
 title: Boattail Racer | Uncrate
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-01-03T19:00:10+00:00
 url: /2011/01/03/boattail-racer-uncrate/

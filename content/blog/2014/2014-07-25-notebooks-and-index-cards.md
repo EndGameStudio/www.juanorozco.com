@@ -1,7 +1,7 @@
 ---
 title: Notebooks and Index Cards
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2014-07-25T18:50:34+00:00
 url: /2014/07/25/notebooks-and-index-cards/

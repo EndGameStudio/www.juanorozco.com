@@ -1,7 +1,7 @@
 ---
 title: Creativity and Art in My Family
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2009-05-04T14:14:04+00:00
 url: /2009/05/04/creativity-and-art-in-my-family/

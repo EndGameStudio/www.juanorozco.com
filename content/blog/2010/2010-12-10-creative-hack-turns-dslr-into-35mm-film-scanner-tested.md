@@ -1,7 +1,7 @@
 ---
 title: Creative Hack Turns DSLR into 35mm Film Scanner – Tested
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-12-11T04:59:15+00:00
 url: /2010/12/10/creative-hack-turns-dslr-into-35mm-film-scanner-tested/

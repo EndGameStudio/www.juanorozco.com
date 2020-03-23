@@ -1,7 +1,7 @@
 ---
 title: Photoblog – Looked bigger on Amazon photo…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2013-03-08T23:49:50+00:00
 url: /2013/03/08/photoblog-looked-bigger-on-amazon-photo/

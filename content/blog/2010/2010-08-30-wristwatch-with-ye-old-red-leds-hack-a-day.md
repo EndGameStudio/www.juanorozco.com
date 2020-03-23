@@ -1,7 +1,7 @@
 ---
 title: Wristwatch with ye old red LEDs – Hack a Day
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-08-30T11:56:43+00:00
 url: /2010/08/30/wristwatch-with-ye-old-red-leds-hack-a-day/

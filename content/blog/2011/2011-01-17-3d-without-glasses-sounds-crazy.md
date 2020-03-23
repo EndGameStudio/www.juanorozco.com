@@ -1,7 +1,7 @@
 ---
 title: 3D without glasses? Sounds crazy.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-01-17T05:49:25+00:00
 url: /2011/01/17/3d-without-glasses-sounds-crazy/

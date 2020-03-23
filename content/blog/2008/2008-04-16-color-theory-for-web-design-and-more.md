@@ -1,7 +1,7 @@
 ---
 title: Color Theory for Web Design and more.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2008-04-17T00:05:22+00:00
 url: /2008/04/16/color-theory-for-web-design-and-more/

@@ -1,7 +1,7 @@
 ---
 title: http://en.gravatar.com/creativeandflow
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-05-28T05:13:21+00:00
 url: /2010/05/28/httpen-gravatar-comcreativeandflow/

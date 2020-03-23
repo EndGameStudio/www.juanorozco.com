@@ -1,7 +1,7 @@
 ---
 title: 'CrossFit: Day One'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2015-04-07T17:33:52+00:00
 url: /2015/04/07/crossfit-day-one/

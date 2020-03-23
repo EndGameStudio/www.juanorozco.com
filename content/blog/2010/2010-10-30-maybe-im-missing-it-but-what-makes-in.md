@@ -1,7 +1,7 @@
 ---
 title: Maybe I’m missing it, but what makes In…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-10-31T01:07:50+00:00
 url: /2010/10/30/maybe-im-missing-it-but-what-makes-in/

@@ -1,7 +1,7 @@
 ---
 title: Make something. Enjoy it more. (via good thinking)
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-01-03T03:15:45+00:00
 url: /2011/01/02/make-something-enjoy-it-more-via-good-thinking/

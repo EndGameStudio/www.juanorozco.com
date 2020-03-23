@@ -1,7 +1,7 @@
 ---
 title: When we first moved in, we had one trash…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-11-04T03:46:37+00:00
 url: /2010/11/03/when-we-first-moved-in-we-had-one-trash/

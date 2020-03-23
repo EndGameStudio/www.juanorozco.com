@@ -1,7 +1,7 @@
 ---
 title: Sometimes a design isn’t working because…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-06-17T02:26:07+00:00
 url: /2010/06/16/sometimes-a-design-isnt-working-because/

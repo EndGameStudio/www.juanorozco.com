@@ -1,7 +1,7 @@
 ---
 title: Tombstone. Now with RSS!
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-11-16T20:14:19+00:00
 url: /2010/11/16/tombstone-now-with-rss/

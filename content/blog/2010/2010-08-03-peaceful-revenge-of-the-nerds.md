@@ -1,7 +1,7 @@
 ---
 title: Peaceful revenge of the nerds.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-08-03T04:38:19+00:00
 url: /2010/08/03/peaceful-revenge-of-the-nerds/

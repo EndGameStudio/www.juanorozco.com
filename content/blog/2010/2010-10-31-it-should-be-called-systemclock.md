@@ -1,7 +1,7 @@
 ---
 title: It should be called SystemClock.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-10-31T15:01:22+00:00
 url: /2010/10/31/it-should-be-called-systemclock/

@@ -1,7 +1,7 @@
 ---
 title: The Mechanized Digital Watch
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-06-25T20:33:15+00:00
 url: /2010/06/25/the-mechanized-digital-watch/

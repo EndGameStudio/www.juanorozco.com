@@ -1,7 +1,7 @@
 ---
 title: Move over Segway…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-02-14T00:52:16+00:00
 url: /2011/02/13/move-over-segway/

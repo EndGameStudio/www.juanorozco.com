@@ -1,7 +1,7 @@
 ---
 title: Mexico’s curse and the World Cup
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-06-28T17:20:28+00:00
 url: /2010/06/28/mexicos-curse-and-the-world-cup/

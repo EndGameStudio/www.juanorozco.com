@@ -1,7 +1,7 @@
 ---
 title: Southern California Goes Solar Plant
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-06-28T16:56:03+00:00
 url: /2010/06/28/southern-california-goes-solar-plant/

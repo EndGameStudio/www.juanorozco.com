@@ -1,7 +1,7 @@
 ---
 title: Best. Kids. Room. Ever.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-03-06T23:25:01+00:00
 url: /2011/03/06/best-kids-room-ever/

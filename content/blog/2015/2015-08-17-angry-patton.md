@@ -1,7 +1,7 @@
 ---
 title: Angry Patton
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2015-08-17T01:57:00+00:00
 url: /2015/08/17/angry-patton/

@@ -1,7 +1,7 @@
 ---
 title: 'Ikea hack: Slide projector, perhaps more?'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-03-06T22:16:12+00:00
 url: /2011/03/06/ikea-hack-slide-projector-perhaps-more/

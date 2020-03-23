@@ -1,7 +1,7 @@
 ---
 title: Photoblog – Pencils!
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2013-01-22T19:30:08+00:00
 url: /2013/01/22/photoblog-pencils/

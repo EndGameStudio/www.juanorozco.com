@@ -1,7 +1,7 @@
 ---
 title: Big Jambox is a big meh, that’s what it is…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2012-05-10T02:23:12+00:00
 url: /2012/05/09/big-jambox-is-a-big-meh-thats-what-it-is/

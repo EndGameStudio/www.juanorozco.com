@@ -1,7 +1,6 @@
 ---
 title: Notebooks
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco"
 type: post
 date: 2020-01-23T22:05:41+00:00
 url: /2020/01/23/notebooks/

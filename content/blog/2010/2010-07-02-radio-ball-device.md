@@ -1,7 +1,7 @@
 ---
 title: Radio Ball Device
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-07-02T04:46:59+00:00
 url: /2010/07/02/radio-ball-device/

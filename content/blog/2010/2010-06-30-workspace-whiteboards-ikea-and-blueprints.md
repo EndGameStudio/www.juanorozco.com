@@ -1,7 +1,7 @@
 ---
 title: Workspace – whiteboards, Ikea, and blueprints!
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-06-30T18:17:36+00:00
 url: /2010/06/30/workspace-whiteboards-ikea-and-blueprints/

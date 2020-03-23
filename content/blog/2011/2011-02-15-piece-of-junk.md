@@ -1,7 +1,7 @@
 ---
 title: Piece of junk.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-02-15T13:19:09+00:00
 url: /2011/02/15/piece-of-junk/

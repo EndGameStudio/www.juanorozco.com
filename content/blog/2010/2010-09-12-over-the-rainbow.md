@@ -1,7 +1,7 @@
 ---
 title: Over the Rainbow
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-09-13T01:58:07+00:00
 url: /2010/09/12/over-the-rainbow/

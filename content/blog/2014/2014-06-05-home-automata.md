@@ -1,7 +1,7 @@
 ---
 title: Home Automata
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2014-06-05T00:53:37+00:00
 url: /2014/06/05/home-automata/

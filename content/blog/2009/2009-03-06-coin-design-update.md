@@ -1,7 +1,7 @@
 ---
 title: Coin Design Update
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2009-03-06T05:31:46+00:00
 url: /2009/03/06/coin-design-update/

@@ -1,7 +1,7 @@
 ---
 title: $120 part… In the palm of your hand.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-10-02T13:55:09+00:00
 url: /2011/10/02/120-part-in-the-palm-of-your-hand/

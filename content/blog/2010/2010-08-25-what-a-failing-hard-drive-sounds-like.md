@@ -1,7 +1,7 @@
 ---
 title: What a failing hard drive sounds like.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-08-26T01:54:03+00:00
 url: /2010/08/25/what-a-failing-hard-drive-sounds-like/

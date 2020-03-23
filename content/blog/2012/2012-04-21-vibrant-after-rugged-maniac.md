@@ -1,7 +1,7 @@
 ---
 title: Vibrams after Rugged Maniac
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2012-04-22T01:01:51+00:00
 url: /2012/04/21/vibrant-after-rugged-maniac/

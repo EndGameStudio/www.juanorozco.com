@@ -1,7 +1,7 @@
 ---
 title: 'Mind dump: The last few months'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2015-10-29T03:27:13+00:00
 url: /2015/10/29/mind-dump-the-last-few-months/

@@ -1,7 +1,7 @@
 ---
 title: Anker USB-C Charger
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2019-08-06T01:08:07+00:00
 url: /2019/08/05/anker-usb-c-charger/

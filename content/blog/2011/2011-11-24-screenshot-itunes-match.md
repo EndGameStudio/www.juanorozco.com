@@ -1,7 +1,7 @@
 ---
 title: 'Screenshot- iTunes Match'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-11-24T18:44:42+00:00
 url: /2011/11/24/screenshot-itunes-match/

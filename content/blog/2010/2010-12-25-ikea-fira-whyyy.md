@@ -1,7 +1,7 @@
 ---
 title: 'Ikea Fira: WHYYY????'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-12-25T21:00:31+00:00
 url: /2010/12/25/ikea-fira-whyyy/

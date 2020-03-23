@@ -1,7 +1,7 @@
 ---
 title: Late hours on the computer
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-10-09T13:04:44+00:00
 url: /2011/10/09/late-hours-on-the-computer/

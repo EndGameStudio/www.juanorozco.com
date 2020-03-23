@@ -1,7 +1,7 @@
 ---
 title: The Hipstashop for your Hipstashots.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-09-15T01:31:33+00:00
 url: /2010/09/14/the-hipstashop-for-your-hipstashots/

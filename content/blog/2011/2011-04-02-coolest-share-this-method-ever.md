@@ -1,7 +1,7 @@
 ---
 title: Coolest “Share this” method ever.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-04-02T18:05:52+00:00
 url: /2011/04/02/coolest-share-this-method-ever/

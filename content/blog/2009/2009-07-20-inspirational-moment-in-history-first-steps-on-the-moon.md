@@ -1,7 +1,7 @@
 ---
 title: Inspirational Moment in History – First Steps on the Moon
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2009-07-21T03:45:55+00:00
 url: /2009/07/20/inspirational-moment-in-history-first-steps-on-the-moon/

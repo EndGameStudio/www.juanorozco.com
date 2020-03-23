@@ -1,7 +1,7 @@
 ---
 title: Itty bitty orange tree
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2015-07-08T02:41:00+00:00
 url: /2015/07/08/itty-bitty-orange-tree/

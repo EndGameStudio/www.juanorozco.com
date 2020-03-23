@@ -1,7 +1,7 @@
 ---
 title: 'Zune Software: FAIL.'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2008-09-27T21:36:21+00:00
 url: /2008/09/27/zune-software-fail/

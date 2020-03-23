@@ -1,7 +1,7 @@
 ---
 title: The first step to giving them ultimate control.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-08-23T15:43:05+00:00
 url: /2010/08/23/the-first-step-to-giving-them-ultimate-control/

@@ -1,7 +1,7 @@
 ---
 title: The temple of FRYS…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2015-08-16T02:36:00+00:00
 url: /2015/08/16/the-temple-of-frys/

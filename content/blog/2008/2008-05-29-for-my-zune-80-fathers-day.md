@@ -1,7 +1,7 @@
 ---
 title: For my Zune 80, Father’s Day?
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2008-05-29T16:07:14+00:00
 url: /2008/05/29/for-my-zune-80-fathers-day/

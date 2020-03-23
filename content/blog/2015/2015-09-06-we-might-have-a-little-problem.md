@@ -1,7 +1,7 @@
 ---
 title: We might have a little problem…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2015-09-06T02:43:00+00:00
 url: /2015/09/06/we-might-have-a-little-problem/

@@ -1,7 +1,7 @@
 ---
 title: What does that slider do!?
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-03-18T00:32:53+00:00
 url: /2011/03/17/what-does-that-slider-do/

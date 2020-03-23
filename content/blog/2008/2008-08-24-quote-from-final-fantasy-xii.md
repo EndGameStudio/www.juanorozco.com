@@ -1,7 +1,7 @@
 ---
 title: Quote from Final Fantasy XII
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2008-08-24T15:09:28+00:00
 url: /2008/08/24/quote-from-final-fantasy-xii/

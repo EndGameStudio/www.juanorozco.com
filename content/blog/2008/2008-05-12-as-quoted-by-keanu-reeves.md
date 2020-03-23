@@ -1,7 +1,7 @@
 ---
 title: As Quoted by Keanu Reeves
-authors:
-  - "juan-orozco"
+author: "Juan Orozco"
+
 type: post
 date: 2008-05-12T19:00:53+00:00
 url: /2008/05/12/as-quoted-by-keanu-reeves/

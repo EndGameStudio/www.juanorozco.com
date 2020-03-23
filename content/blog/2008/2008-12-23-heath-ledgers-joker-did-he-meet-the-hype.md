@@ -1,7 +1,7 @@
 ---
 title: 'Heath Ledger’s Joker: Did he meet the hype?'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2008-12-23T23:41:11+00:00
 url: /2008/12/23/heath-ledgers-joker-did-he-meet-the-hype/

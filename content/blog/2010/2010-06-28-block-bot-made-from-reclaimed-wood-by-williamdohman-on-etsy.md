@@ -1,7 +1,7 @@
 ---
 title: Block Bot made from reclaimed wood by WilliamDohman on Etsy
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-06-28T16:42:16+00:00
 url: /2010/06/28/block-bot-made-from-reclaimed-wood-by-williamdohman-on-etsy/

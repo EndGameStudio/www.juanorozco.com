@@ -1,7 +1,7 @@
 ---
 title: Now, recycle snow too!
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-07-04T02:36:36+00:00
 url: /2010/07/03/now-recycle-snow-too/

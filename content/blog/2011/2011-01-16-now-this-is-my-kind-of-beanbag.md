@@ -1,7 +1,7 @@
 ---
 title: Now this is my kind of beanbag
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-01-16T05:25:07+00:00
 url: /2011/01/16/now-this-is-my-kind-of-beanbag/

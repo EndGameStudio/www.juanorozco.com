@@ -1,7 +1,7 @@
 ---
 title: Best chowder recipe ever. http://www.coo…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-11-11T18:30:27+00:00
 url: /2010/11/11/best-chowder-recipe-ever-httpwww-coo/

@@ -1,7 +1,7 @@
 ---
 title: Real lenses for your mobile cameraphone
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-09-07T03:54:56+00:00
 url: /2010/09/06/real-lenses-for-your-mobile-cameraphone/

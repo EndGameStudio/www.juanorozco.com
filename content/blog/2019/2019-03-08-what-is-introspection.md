@@ -1,7 +1,7 @@
 ---
 title: What is introspection
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2019-03-09T04:23:38+00:00
 url: /2019/03/08/what-is-introspection/

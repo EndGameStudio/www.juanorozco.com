@@ -1,7 +1,7 @@
 ---
 title: My Canon AE-1 Program
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2008-09-09T19:00:26+00:00
 url: /2008/09/09/my-canon-ae-1-program/

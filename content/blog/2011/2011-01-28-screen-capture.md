@@ -1,7 +1,7 @@
 ---
 title: Screen capture
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-01-29T02:52:08+00:00
 url: /2011/01/28/screen-capture/

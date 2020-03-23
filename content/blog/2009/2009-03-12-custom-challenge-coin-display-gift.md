@@ -1,7 +1,7 @@
 ---
 title: Custom Challenge Coin Display Gift
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2009-03-13T02:27:51+00:00
 url: /2009/03/12/custom-challenge-coin-display-gift/

@@ -1,7 +1,7 @@
 ---
 title: Releasing Often
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2019-08-01T03:56:28+00:00
 url: /2019/07/31/releasing-often/

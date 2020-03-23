@@ -1,7 +1,7 @@
 ---
 title: Build your own thing
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2015-07-04T20:20:22+00:00
 url: /2015/07/04/build-your-own-thing/

@@ -1,7 +1,7 @@
 ---
 title: 'Thought: Intense focus'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2014-07-21T02:30:08+00:00
 url: /2014/07/21/thought-intense-focus/

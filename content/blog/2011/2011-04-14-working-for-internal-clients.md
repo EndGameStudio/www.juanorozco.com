@@ -1,7 +1,7 @@
 ---
 title: Working for “internal” clients
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-04-15T03:02:50+00:00
 url: /2011/04/14/working-for-internal-clients/

@@ -1,7 +1,7 @@
 ---
 title: Addicted to Splode
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-09-26T16:27:26+00:00
 url: /2010/09/26/addicted-to-splode/

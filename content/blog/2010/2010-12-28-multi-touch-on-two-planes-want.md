@@ -1,7 +1,7 @@
 ---
 title: Multi touch on two planes = Want.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-12-28T14:29:38+00:00
 url: /2010/12/28/multi-touch-on-two-planes-want/

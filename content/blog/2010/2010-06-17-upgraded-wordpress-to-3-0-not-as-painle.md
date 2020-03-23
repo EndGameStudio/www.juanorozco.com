@@ -1,7 +1,7 @@
 ---
 title: Upgraded WordPress to 3.0. Not as painle…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-06-18T02:57:39+00:00
 url: /2010/06/17/upgraded-wordpress-to-3-0-not-as-painle/

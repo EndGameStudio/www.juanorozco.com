@@ -1,7 +1,7 @@
 ---
 title: Another Branch
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-01-10T22:08:25+00:00
 url: /2010/01/10/another-branch/

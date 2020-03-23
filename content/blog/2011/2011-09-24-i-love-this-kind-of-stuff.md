@@ -1,7 +1,7 @@
 ---
 title: I love this kind of stuff.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-09-25T01:12:54+00:00
 url: /2011/09/24/i-love-this-kind-of-stuff/

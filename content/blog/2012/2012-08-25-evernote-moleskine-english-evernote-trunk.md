@@ -1,7 +1,7 @@
 ---
 title: Evernote Moleskine – English – Evernote Trunk
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2012-08-25T15:53:17+00:00
 url: /2012/08/25/evernote-moleskine-english-evernote-trunk/

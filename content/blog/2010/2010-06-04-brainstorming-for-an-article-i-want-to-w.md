@@ -1,7 +1,7 @@
 ---
 title: Brainstorming for an article I want to w…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-06-04T23:16:00+00:00
 url: /2010/06/04/brainstorming-for-an-article-i-want-to-w/

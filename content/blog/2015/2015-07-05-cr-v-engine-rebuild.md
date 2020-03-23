@@ -1,7 +1,7 @@
 ---
 title: CR-V Engine rebuild
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2015-07-05T02:36:00+00:00
 url: /2015/07/05/cr-v-engine-rebuild/

@@ -1,7 +1,7 @@
 ---
 title: 'Playing around with GT4 again: Nissan 300ZX'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-01-19T04:43:21+00:00
 url: /2011/01/18/playing-around-with-gt4-again-nissan-300zx/

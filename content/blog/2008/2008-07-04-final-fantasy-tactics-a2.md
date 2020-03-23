@@ -1,7 +1,7 @@
 ---
 title: 'Final Fantasy Tactics: A2'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2008-07-04T16:13:16+00:00
 url: /2008/07/04/final-fantasy-tactics-a2/

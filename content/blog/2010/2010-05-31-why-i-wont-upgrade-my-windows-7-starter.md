@@ -1,7 +1,7 @@
 ---
 title: Why I won’t upgrade my Windows 7 Starter
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-05-31T21:04:00+00:00
 url: /2010/05/31/why-i-wont-upgrade-my-windows-7-starter/

@@ -1,7 +1,7 @@
 ---
 title: Commitment Day 5k – Completed
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2013-01-27T03:34:35+00:00
 url: /2013/01/26/commitment-day-5k/

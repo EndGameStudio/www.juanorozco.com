@@ -1,7 +1,7 @@
 ---
 title: Dreamworks, Pixar and storytelling
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-06-26T00:51:13+00:00
 url: /2011/06/25/dreamworks-pixar-and-storytelling/

@@ -1,7 +1,7 @@
 ---
 title: Tactus Technology Can Make Physical Buttons Rise Up Out of Touchscreens – Core77
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2012-07-30T01:01:52+00:00
 url: /2012/07/29/tactus-technology-can-make-physical-buttons-rise-up-out-of-touchscreens-core77/

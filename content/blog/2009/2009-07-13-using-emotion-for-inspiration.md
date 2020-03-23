@@ -1,7 +1,7 @@
 ---
 title: Using emotion for inspiration
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2009-07-14T03:11:00+00:00
 url: /2009/07/13/using-emotion-for-inspiration/

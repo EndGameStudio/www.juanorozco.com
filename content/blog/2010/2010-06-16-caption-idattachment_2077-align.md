@@ -1,7 +1,7 @@
 ---
 title: '[caption id=”attachment_2077″ align=”…'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-06-16T04:11:20+00:00
 url: /2010/06/16/caption-idattachment_2077-align/

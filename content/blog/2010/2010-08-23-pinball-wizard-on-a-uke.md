@@ -1,7 +1,7 @@
 ---
 title: Pinball Wizard on a Uke
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-08-23T15:30:30+00:00
 url: /2010/08/23/pinball-wizard-on-a-uke/

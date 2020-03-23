@@ -1,7 +1,7 @@
 ---
 title: The Four Way Test
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2017-01-29T05:20:14+00:00
 url: /2017/01/29/the-four-way-test/

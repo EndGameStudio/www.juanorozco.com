@@ -1,7 +1,7 @@
 ---
 title: How to build a catapult
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-07-13T17:37:24+00:00
 url: /2010/07/13/how-to-build-a-catapult/

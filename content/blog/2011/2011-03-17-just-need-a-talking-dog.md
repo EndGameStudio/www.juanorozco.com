@@ -1,7 +1,7 @@
 ---
 title: Just need a talking dog…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-03-17T19:27:01+00:00
 url: /2011/03/17/just-need-a-talking-dog/

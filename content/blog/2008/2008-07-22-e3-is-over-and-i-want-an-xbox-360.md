@@ -1,7 +1,7 @@
 ---
 title: E3 is over, and I want an XBOX 360!
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2008-07-22T16:45:16+00:00
 url: /2008/07/22/e3-is-over-and-i-want-an-xbox-360/

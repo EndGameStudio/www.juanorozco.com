@@ -1,7 +1,7 @@
 ---
 title: Less than optimal lighting conditions wi…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-06-21T00:34:15+00:00
 url: /2010/06/20/less-than-optimal-lighting-conditions-wi/

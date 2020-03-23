@@ -1,7 +1,7 @@
 ---
 title: Moleskine Thoughts
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2012-04-07T20:54:45+00:00
 url: /2012/04/07/moleskine-thoughts/

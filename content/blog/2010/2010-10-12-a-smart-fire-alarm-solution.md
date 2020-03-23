@@ -1,7 +1,7 @@
 ---
 title: A smart fire alarm solution.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-10-13T01:11:51+00:00
 url: /2010/10/12/a-smart-fire-alarm-solution/

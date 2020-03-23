@@ -1,7 +1,7 @@
 ---
 title: The immature child in me giggles at this…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-10-27T18:38:22+00:00
 url: /2010/10/27/the-immature-child-in-me-giggles-at-this/

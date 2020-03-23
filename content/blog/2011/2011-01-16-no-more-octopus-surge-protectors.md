@@ -1,7 +1,7 @@
 ---
 title: No more octopus surge protectors
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-01-16T18:43:33+00:00
 url: /2011/01/16/no-more-octopus-surge-protectors/

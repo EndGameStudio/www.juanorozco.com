@@ -1,7 +1,7 @@
 ---
 title: “Stupid raisins, stay out of my cookies” – Food, Slogans T-shirt by Ross Sharkey
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-06-29T02:35:22+00:00
 url: /2010/06/28/stupid-raisins-stay-out-of-my-cookies-food-slogans-t-shirt-by-ross-sharkey/

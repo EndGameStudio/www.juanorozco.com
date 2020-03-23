@@ -1,7 +1,7 @@
 ---
 title: Apple iPhone user base on Flickr
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-08-21T15:23:12+00:00
 url: /2010/08/21/apple-iphone-user-base-on-flickr/

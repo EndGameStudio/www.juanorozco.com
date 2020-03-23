@@ -1,7 +1,7 @@
 ---
 title: My creativity and TED.com with Adam Savage
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2009-03-24T05:18:44+00:00
 url: /2009/03/24/my-creativity-and-tedcom-with-adam-savage/

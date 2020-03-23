@@ -1,7 +1,7 @@
 ---
 title: Quickie Post, My Favorite WebComics
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2008-11-21T21:00:39+00:00
 url: /2008/11/21/quickie-post-my-favorite-webcomics/

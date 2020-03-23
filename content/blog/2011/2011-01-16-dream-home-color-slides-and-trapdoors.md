@@ -1,7 +1,7 @@
 ---
 title: Dream home – color, slides, and trapdoors.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-01-16T05:18:12+00:00
 url: /2011/01/16/dream-home-color-slides-and-trapdoors/

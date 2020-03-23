@@ -1,7 +1,7 @@
 ---
 title: Easy color palette from a photo.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-01-13T05:08:12+00:00
 url: /2011/01/13/easy-color-palette-from-a-photo/

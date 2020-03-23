@@ -1,7 +1,7 @@
 ---
 title: Drawings of eyes…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2008-07-11T02:33:44+00:00
 url: /2008/07/10/drawings-of-eyes/

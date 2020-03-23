@@ -1,7 +1,7 @@
 ---
 title: Taking the Social Out of Social Media
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-02-05T05:35:34+00:00
 url: /2010/02/05/taking-the-social-out-of-social-media/

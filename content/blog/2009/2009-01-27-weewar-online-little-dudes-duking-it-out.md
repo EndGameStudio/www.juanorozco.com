@@ -1,7 +1,7 @@
 ---
 title: WeeWar Online – Little dudes duking it out.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2009-01-28T03:02:53+00:00
 url: /2009/01/27/weewar-online-little-dudes-duking-it-out/

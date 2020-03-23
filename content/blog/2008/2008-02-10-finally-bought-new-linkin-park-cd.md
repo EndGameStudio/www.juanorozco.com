@@ -1,7 +1,7 @@
 ---
 title: Finally Bought new Linkin Park CD
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2008-02-11T02:37:02+00:00
 url: /2008/02/10/finally-bought-new-linkin-park-cd/

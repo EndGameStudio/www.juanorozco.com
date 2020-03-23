@@ -1,7 +1,7 @@
 ---
 title: On Blockbuster
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-03-20T16:49:18+00:00
 url: /2011/03/20/on-blockbuster/

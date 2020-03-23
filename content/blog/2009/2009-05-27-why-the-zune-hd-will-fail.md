@@ -1,7 +1,7 @@
 ---
 title: Why the Zune HD will fail.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2009-05-27T16:28:43+00:00
 url: /2009/05/27/why-the-zune-hd-will-fail/

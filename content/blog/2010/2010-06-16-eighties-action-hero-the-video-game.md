@@ -1,7 +1,7 @@
 ---
 title: 'Eighties Action Hero: The Video Game'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-06-16T14:44:09+00:00
 url: /2010/06/16/eighties-action-hero-the-video-game/

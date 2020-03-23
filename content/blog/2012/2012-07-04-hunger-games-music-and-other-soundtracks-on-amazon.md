@@ -1,7 +1,7 @@
 ---
 title: Hunger Games music and other soundtracks on Amazon
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2012-07-05T00:17:01+00:00
 url: /2012/07/04/hunger-games-music-and-other-soundtracks-on-amazon/

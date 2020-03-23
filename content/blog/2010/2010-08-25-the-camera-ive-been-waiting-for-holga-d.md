@@ -1,7 +1,7 @@
 ---
 title: 'The camera I’ve been waiting for: Holga D'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-08-25T04:44:01+00:00
 url: /2010/08/25/the-camera-ive-been-waiting-for-holga-d/

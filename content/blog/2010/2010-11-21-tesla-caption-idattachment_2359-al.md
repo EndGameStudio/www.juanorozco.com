@@ -1,7 +1,7 @@
 ---
 title: 'Tesla [caption id=”attachment_2359″ al…'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-11-22T03:02:01+00:00
 url: /2010/11/21/tesla-caption-idattachment_2359-al/

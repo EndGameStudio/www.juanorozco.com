@@ -1,7 +1,7 @@
 ---
 title: Puss In Boots? Like, a prequel?
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-06-25T18:05:15+00:00
 url: /2011/06/25/puss-in-boots-like-a-prequel/

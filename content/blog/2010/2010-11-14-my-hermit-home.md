@@ -1,7 +1,7 @@
 ---
 title: My Hermit Home.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-11-14T06:30:24+00:00
 url: /2010/11/14/my-hermit-home/

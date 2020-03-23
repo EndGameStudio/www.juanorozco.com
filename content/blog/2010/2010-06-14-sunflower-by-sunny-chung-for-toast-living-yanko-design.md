@@ -1,7 +1,7 @@
 ---
 title: Sunflower by Sunny Chung for Toast Living » Yanko Design
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-06-15T01:16:50+00:00
 url: /2010/06/14/sunflower-by-sunny-chung-for-toast-living-yanko-design/

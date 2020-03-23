@@ -1,7 +1,7 @@
 ---
 title: Beach Stars
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2016-09-19T02:02:00+00:00
 url: /2016/09/19/beach-stars/

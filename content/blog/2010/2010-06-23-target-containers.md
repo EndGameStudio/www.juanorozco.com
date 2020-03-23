@@ -1,7 +1,7 @@
 ---
 title: Target containers
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-06-23T04:14:22+00:00
 url: /2010/06/23/target-containers/

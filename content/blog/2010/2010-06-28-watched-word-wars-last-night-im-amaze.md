@@ -1,7 +1,7 @@
 ---
 title: Watched Word Wars last night. I’m amaze…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-06-28T16:52:05+00:00
 url: /2010/06/28/watched-word-wars-last-night-im-amaze/

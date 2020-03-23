@@ -1,7 +1,7 @@
 ---
 title: Real or not real…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2012-04-15T03:52:47+00:00
 url: /2012/04/14/real-or-not-real/

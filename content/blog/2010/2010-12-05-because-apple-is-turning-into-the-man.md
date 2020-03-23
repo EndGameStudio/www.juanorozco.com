@@ -1,7 +1,7 @@
 ---
 title: Because Apple is turning into the Man….
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-12-05T07:35:19+00:00
 url: /2010/12/05/because-apple-is-turning-into-the-man/

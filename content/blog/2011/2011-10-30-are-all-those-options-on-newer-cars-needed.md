@@ -1,7 +1,7 @@
 ---
 title: Are all those options on newer cars needed?
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-10-31T00:19:08+00:00
 url: /2011/10/30/are-all-those-options-on-newer-cars-needed/

@@ -1,7 +1,7 @@
 ---
 title: Nintendo speaker stands
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-09-28T02:43:30+00:00
 url: /2010/09/27/nintendo-speaker-stands/

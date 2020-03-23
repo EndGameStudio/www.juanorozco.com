@@ -1,7 +1,7 @@
 ---
 title: Chicago Noms
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2015-08-22T02:35:00+00:00
 url: /2015/08/22/chicago-noms/

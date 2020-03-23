@@ -1,7 +1,7 @@
 ---
 title: Make one thing a day.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-01-02T05:12:52+00:00
 url: /2011/01/02/make-one-thing-a-day/

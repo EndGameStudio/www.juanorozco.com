@@ -1,7 +1,7 @@
 ---
 title: 'Lich King is out…  *Drools*'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2008-11-15T17:12:31+00:00
 url: /2008/11/15/lich-king-is-out-drools/

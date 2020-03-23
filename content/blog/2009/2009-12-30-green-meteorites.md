@@ -1,7 +1,7 @@
 ---
 title: Green meteorites
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2009-12-30T05:52:42+00:00
 url: /2009/12/30/green-meteorites/

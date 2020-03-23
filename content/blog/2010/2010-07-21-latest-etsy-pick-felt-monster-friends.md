@@ -1,7 +1,7 @@
 ---
 title: 'Latest Etsy Pick: Felt Monster Friends'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-07-21T04:38:06+00:00
 url: /2010/07/21/latest-etsy-pick-felt-monster-friends/

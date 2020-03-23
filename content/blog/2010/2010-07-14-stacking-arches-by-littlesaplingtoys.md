@@ -1,7 +1,7 @@
 ---
 title: STACKING ARCHES by littlesaplingtoys
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-07-14T04:28:48+00:00
 url: /2010/07/14/stacking-arches-by-littlesaplingtoys/

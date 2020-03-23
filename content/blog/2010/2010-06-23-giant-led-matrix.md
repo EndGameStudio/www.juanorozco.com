@@ -1,7 +1,7 @@
 ---
 title: Giant LED matrix
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-06-23T22:52:41+00:00
 url: /2010/06/23/giant-led-matrix/

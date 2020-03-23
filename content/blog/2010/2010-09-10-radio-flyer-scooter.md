@@ -1,7 +1,7 @@
 ---
 title: Radio Flyer “scooter”
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-09-11T02:48:41+00:00
 url: /2010/09/10/radio-flyer-scooter/

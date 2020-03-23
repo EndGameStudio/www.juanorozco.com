@@ -1,7 +1,7 @@
 ---
 title: Beautiful leather case for drafting tools
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-02-12T18:48:00+00:00
 url: /2011/02/12/leather-writing-case/

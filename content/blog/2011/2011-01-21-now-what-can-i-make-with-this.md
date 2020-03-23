@@ -1,7 +1,7 @@
 ---
 title: Now what can I make with this.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-01-21T21:57:21+00:00
 url: /2011/01/21/now-what-can-i-make-with-this/

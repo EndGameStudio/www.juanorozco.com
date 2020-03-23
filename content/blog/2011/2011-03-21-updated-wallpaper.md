@@ -1,7 +1,7 @@
 ---
 title: Updated wallpaper
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-03-21T20:34:09+00:00
 url: /2011/03/21/updated-wallpaper/

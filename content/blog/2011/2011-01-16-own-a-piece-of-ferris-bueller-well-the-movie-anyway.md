@@ -1,7 +1,7 @@
 ---
 title: Own a piece of Ferris Bueller, well the movie anyway…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-01-16T05:03:23+00:00
 url: /2011/01/16/own-a-piece-of-ferris-bueller-well-the-movie-anyway/

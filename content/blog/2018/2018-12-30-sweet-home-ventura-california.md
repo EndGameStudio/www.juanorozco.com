@@ -1,7 +1,7 @@
 ---
 title: Sweet Home Ventura, California
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: -001-11-30T00:00:00+00:00
 draft: true

@@ -1,7 +1,7 @@
 ---
 title: Paddle Boarding Class
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2015-08-07T02:41:00+00:00
 url: /2015/08/07/paddle-boarding-class/

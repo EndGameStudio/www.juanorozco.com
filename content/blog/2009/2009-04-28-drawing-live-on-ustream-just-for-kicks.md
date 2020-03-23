@@ -1,7 +1,7 @@
 ---
 title: Drawing live on UStream, just for kicks.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2009-04-29T03:47:52+00:00
 url: /2009/04/28/drawing-live-on-ustream-just-for-kicks/

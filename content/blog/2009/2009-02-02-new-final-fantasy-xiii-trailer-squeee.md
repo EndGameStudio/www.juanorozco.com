@@ -1,7 +1,7 @@
 ---
 title: New Final Fantasy XIII Trailer! Squeee!
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2009-02-02T21:46:11+00:00
 url: /2009/02/02/new-final-fantasy-xiii-trailer-squeee/

@@ -1,7 +1,7 @@
 ---
 title: Oh no! It’s been doing nothing but runn…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-08-26T01:07:36+00:00
 url: /2010/08/25/oh-no-its-been-doing-nothing-but-runn/

@@ -1,7 +1,7 @@
 ---
 title: Remembering Mutant League Football
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2009-02-05T13:00:49+00:00
 url: /2009/02/05/remembering-mutant-league-football/

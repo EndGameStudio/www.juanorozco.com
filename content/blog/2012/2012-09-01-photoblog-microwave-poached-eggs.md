@@ -1,7 +1,7 @@
 ---
 title: Photoblog – Microwave poached eggs
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2012-09-01T15:09:40+00:00
 url: /2012/09/01/photoblog-microwave-poached-eggs/

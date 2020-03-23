@@ -1,7 +1,7 @@
 ---
 title: Veterans Day
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2018-11-11T16:34:34+00:00
 url: /2018/11/11/veterans-day/

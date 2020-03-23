@@ -1,7 +1,7 @@
 ---
 title: Post WordCamp RDU Thoughts.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2009-06-15T03:02:51+00:00
 url: /2009/06/14/post-wordcamp-rdu-thoughts/

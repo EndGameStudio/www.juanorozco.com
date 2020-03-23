@@ -1,7 +1,7 @@
 ---
 title: I want this book! Especially for the Leo…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-06-04T15:39:41+00:00
 url: /2010/06/04/i-want-this-book-especially-for-the-leo/

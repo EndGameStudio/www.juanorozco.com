@@ -1,7 +1,7 @@
 ---
 title: The Favicons are multiplying!
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-09-01T21:25:56+00:00
 url: /2010/09/01/the-favicons-are-multiplying/

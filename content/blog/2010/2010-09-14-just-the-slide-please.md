@@ -1,7 +1,7 @@
 ---
 title: Just the slide please.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-09-15T02:30:05+00:00
 url: /2010/09/14/just-the-slide-please/

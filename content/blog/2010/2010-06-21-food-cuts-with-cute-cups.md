@@ -1,7 +1,7 @@
 ---
 title: Food Cuts with Cute Cups
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-06-22T01:37:16+00:00
 url: /2010/06/21/food-cuts-with-cute-cups/

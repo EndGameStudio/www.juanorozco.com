@@ -1,7 +1,7 @@
 ---
 title: Little Printer – Almost a personal thermal printer
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2012-03-04T20:05:24+00:00
 url: /2012/03/04/little-printer-almost-a-personal-thermal-printer/

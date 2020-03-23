@@ -1,7 +1,7 @@
 ---
 title: View of Endeavor’s launch
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-05-20T18:43:28+00:00
 url: /2011/05/20/view-of-endeavors-launch/

@@ -1,7 +1,7 @@
 ---
 title: Happy Birthday Zelda!
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-03-14T00:14:07+00:00
 url: /2011/03/13/happy-birthday-zelda/

@@ -1,7 +1,7 @@
 ---
 title: The CAT 5e diet.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-04-20T18:49:10+00:00
 url: /2011/04/20/the-cat-5e-diet/

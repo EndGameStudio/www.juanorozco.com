@@ -1,7 +1,7 @@
 ---
 title: Ribba Hot Wheels Display Case
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-12-15T05:19:18+00:00
 url: /2010/12/15/ribba-hot-wheels-display-case/

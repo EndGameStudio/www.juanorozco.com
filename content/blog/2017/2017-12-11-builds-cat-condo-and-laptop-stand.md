@@ -1,7 +1,7 @@
 ---
 title: 'Builds: Cat Condo and Laptop Stand'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2017-12-11T15:00:00+00:00
 url: /2017/12/11/builds-cat-condo-and-laptop-stand/

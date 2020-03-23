@@ -1,7 +1,7 @@
 ---
 title: Ma’ Birthday’s Comin’
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2009-05-02T14:02:29+00:00
 url: /2009/05/02/ma-birthdays-comin/

@@ -1,7 +1,7 @@
 ---
 title: The Miyazaki Effect
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-09-25T22:52:02+00:00
 url: /2011/09/25/the-miyazaki-effect/

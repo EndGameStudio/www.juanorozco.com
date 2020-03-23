@@ -1,7 +1,7 @@
 ---
 title: 'Cubecraft: Leon'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-01-03T04:42:51+00:00
 url: /2011/01/02/cubecraft-leon/

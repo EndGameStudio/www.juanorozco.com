@@ -1,7 +1,7 @@
 ---
 title: Quicky Note – I made a webapp!
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-01-27T18:17:21+00:00
 url: /2011/01/27/quicky-note-i-made-a-webapp/

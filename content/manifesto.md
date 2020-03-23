@@ -1,7 +1,7 @@
 ---
 title: Manifesto
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: page
 date: 2019-01-18T01:40:58+00:00
 amazonS3_cache:

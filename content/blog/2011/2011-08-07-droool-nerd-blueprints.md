@@ -1,7 +1,7 @@
 ---
 title: Droool… nerd blueprints…
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-08-08T01:41:36+00:00
 url: /2011/08/07/droool-nerd-blueprints/

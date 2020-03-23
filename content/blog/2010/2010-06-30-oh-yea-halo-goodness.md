@@ -1,7 +1,7 @@
 ---
 title: Oh yea, Halo goodness.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-07-01T02:35:48+00:00
 url: /2010/06/30/oh-yea-halo-goodness/

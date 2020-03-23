@@ -1,7 +1,7 @@
 ---
 title: 'November, you, me: Ireland.'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-08-25T01:41:12+00:00
 url: /2010/08/24/november-you-me-ireland/

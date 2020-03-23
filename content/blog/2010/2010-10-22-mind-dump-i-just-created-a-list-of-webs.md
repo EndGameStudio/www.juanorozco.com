@@ -1,7 +1,7 @@
 ---
 title: 'Mind dump: I just created a list of webs…'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2010-10-22T15:01:08+00:00
 url: /2010/10/22/mind-dump-i-just-created-a-list-of-webs/

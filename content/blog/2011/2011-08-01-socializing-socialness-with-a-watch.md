@@ -1,7 +1,7 @@
 ---
 title: Socializing socialness with a watch?
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-08-02T00:04:12+00:00
 url: /2011/08/01/socializing-socialness-with-a-watch/

@@ -1,7 +1,7 @@
 ---
 title: 'Shipping Container home: Blue Guest House'
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-03-06T21:48:28+00:00
 url: /2011/03/06/shipping-container-home-blue-guest-house/

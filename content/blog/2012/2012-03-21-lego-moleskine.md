@@ -1,7 +1,7 @@
 ---
 title: Lego Moleskine!
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2012-03-21T16:57:30+00:00
 url: /2012/03/21/lego-moleskine/

@@ -1,7 +1,7 @@
 ---
 title: 50k words, or bust.
-authors: 
-  - "juan-orozco"
+author: "Juan Orozco" 
+
 type: post
 date: 2011-09-26T03:00:48+00:00
 url: /2011/09/25/50k-words-or-bust/
