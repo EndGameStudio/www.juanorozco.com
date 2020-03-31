@@ -27,7 +27,7 @@ upload_dir: juan-orozco-com
 public_path: https://res.cloudinary.com/deo07tbou/image/upload
 front_matter_path: ''
 use_front_matter_path: 
-file_template: ":filename:"
+file_template: ":year:/:month:/:filename:"
 build:
   preview_env:
   - HUGO_ENV=staging
