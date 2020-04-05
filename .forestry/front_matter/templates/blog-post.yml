@@ -17,5 +17,17 @@ fields:
     display_utc: false
   label: Date
   default: now
+- name: author
+  type: select
+  default: Juan Orozco
+  config:
+    required: true
+    options: []
+    source:
+      type: documents
+      section: authors
+      file: data/author.toml
+      path: 
+  label: Author
 pages:
 - content/blog/2020/covid-19-update.md
