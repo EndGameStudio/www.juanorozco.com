@@ -17,3 +17,5 @@ fields:
     display_utc: false
   label: Date
   default: now
+pages:
+- content/blog/2020/covid-19-update.md
