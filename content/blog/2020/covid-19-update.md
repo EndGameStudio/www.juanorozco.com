@@ -1,6 +1,8 @@
 +++
 author = "Juan Orozco"
+caption = "Photo by Bekir Dönmez on Unsplash"
 date = 2020-04-05T03:17:51Z
+feature = "https://res.cloudinary.com/deo07tbou/image/upload/v1586092532/juan-orozco-com/2020/04/bekir-donmez-eofm5R5f9Kw-unsplash_lwoubc.jpg"
 title = "COVID-19 Update"
 type = "post"
 
