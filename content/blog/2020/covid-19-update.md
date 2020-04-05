@@ -1,7 +1,6 @@
 +++
 author = "Juan Orozco"
 date = 2020-04-05T03:17:51Z
-draft = true
 title = "COVID-19 Update"
 
 +++
