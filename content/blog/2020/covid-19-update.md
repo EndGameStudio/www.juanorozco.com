@@ -2,6 +2,7 @@
 author = "Juan Orozco"
 date = 2020-04-05T03:17:51Z
 title = "COVID-19 Update"
+type = "post"
 
 +++
 The scariest part of this crisis is how bad it is _now_ and knowing that it will soon get worse.
