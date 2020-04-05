@@ -23,6 +23,8 @@ sections:
   label: Blog
   create: all
   match: "**/*"
+  templates:
+  - blog-post
 upload_dir: juan-orozco-com
 public_path: https://res.cloudinary.com/deo07tbou/image/upload
 front_matter_path: ''
