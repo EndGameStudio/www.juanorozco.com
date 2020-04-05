@@ -29,5 +29,12 @@ fields:
       file: data/author.toml
       path: 
   label: Author
+- name: type
+  type: text
+  config:
+    required: true
+  label: Type
+  default: post
+  hidden: true
 pages:
 - content/blog/2020/covid-19-update.md
