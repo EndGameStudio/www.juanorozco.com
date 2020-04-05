@@ -14,17 +14,25 @@ sections:
   templates:
   - status-post
 - type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
   path: content/blog
   label: Blog
   create: all
   match: "**/*"
   templates:
   - blog-post
+- type: heading
+  label: Pages
+- type: directory
+  path: content
+  label: Pages
+  create: all
+  match: "*"
+- type: heading
+  label: Authors
+- type: document
+  path: data/author.toml
+  label: Authors
+  match: "**/*"
 upload_dir: juan-orozco-com
 public_path: https://res.cloudinary.com/deo07tbou/image/upload
 front_matter_path: ''
