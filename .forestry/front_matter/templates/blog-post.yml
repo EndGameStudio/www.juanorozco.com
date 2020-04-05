@@ -35,6 +35,6 @@ fields:
     required: true
   label: Type
   default: post
-  hidden: true
+  hidden: false
 pages:
 - content/blog/2020/covid-19-update.md
