@@ -2,7 +2,6 @@
 author = "Juan Orozco"
 caption = "Photo by Susan Yin on Unsplash"
 date = 2020-05-05T18:30:23Z
-draft = true
 feature = "https://res.cloudinary.com/deo07tbou/image/upload/v1588703500/juan-orozco-com/2020/05/susan-yin-2JIvboGLeho-unsplash_hodtay.jpg"
 tags = []
 title = "Books 2019"
