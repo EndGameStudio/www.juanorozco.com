@@ -13,8 +13,8 @@
   <link rel="canonical" href="https://www.juanorozco.com/">
   <link rel="alternate" type="application/atom+xml" href="https://www.juanorozco.com/feed.atom" hreflang="en-us"/>
   
-<link rel="preload" as="style" href="/app.css?v=1588705026" media="all">
-<link rel="stylesheet" href="/app.css?v=1588705026" media="all">
+<link rel="preload" as="style" href="/app.css?v=1588705036" media="all">
+<link rel="stylesheet" href="/app.css?v=1588705036" media="all">
 
 
 <title> : Juan Orozco</title>
@@ -30,12 +30,12 @@
 <meta property="og:locale" content="en_us">
 <meta property="og:description" content="">
 <meta name="description" content="">
-<meta property="og:updated_time" content="2020-04-05T03:17:51Z">
+<meta property="og:updated_time" content="2020-05-05T18:30:23Z">
 <meta property="fb:app_id" content="">
 <meta name="author" content="">
 <meta property="article:author" content="https://www.juanorozco.com">
-<meta property="article:published_time" content="2020-04-05T03:17:51Z">
-<meta property="article:modified_time" content="2020-04-05T03:17:51Z">
+<meta property="article:published_time" content="2020-05-05T18:30:23Z">
+<meta property="article:modified_time" content="2020-05-05T18:30:23Z">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -60,14 +60,14 @@
       "url": "https://www.juanorozco.com/images/brand/icon-1-1.png"
     }
   },
-  "datePublished": "2020-04-05T03:17:51Z",
-  "dateModified": "2020-04-05T03:17:51Z",
+  "datePublished": "2020-05-05T18:30:23Z",
+  "dateModified": "2020-05-05T18:30:23Z",
   "articleBody": ""
 }
 </script>
 
   
-<link rel="preload" as="script" href="/app.js?v=1588705026">
+<link rel="preload" as="script" href="/app.js?v=1588705036">
 
 <link rel="preconnect" href="https://www.google-analytics.com">
 <link rel="preconnect" href="https://stats.g.doubleclick.net">
@@ -137,6 +137,54 @@
 </ul>
 
         
+        
+          <div class="mt-8">
+            <main><div class="mt-8 mx-4 md:mx-8">
+    <div class="mx-auto w-full max-w-2xlp">
+      <article class="cdata">
+        <h1><a href="/2009/06/01/hacking-wordpress-shortened-links-and-twitter-tools/">Hacking WordPress shortened links and Twitter Tools</a></h1>
+
+        <div class="mt-4 flex items-center">
+          <div class="w-full">
+            
+<div class="flex items-center">
+  <div class="flex-shrink-0">
+    <img
+    class="w-14 h-14 object-cover p-05 rounded-full border border-blue-300"
+    src="/images/author/juan-orozco.jpg"
+    alt="Juan Orozco">
+  </div>
+  <div class="flex-shrink-0 ml-2 leading-tight font-content-sans">
+    <a class="block text-base text-raven-800 hover:text-raven-900 hover:underline focus:underline" target="_blank" rel="noopener nofollow" title="Juan Orozco" href="https://juanorozco.com/">Juan Orozco</a>
+    <time class="text-base text-raven-500" datetime="2009-06-01T17:22:04Z">Jun 1, 2009</time>
+  </div>
+</div>
+
+          </div>
+        </div>
+
+        <p>This shortened URL business really has gotten out of hand.  <a href="http://www.morningtoast.com/" target="_blank" rel="noopener noreferrer">Morning Toast</a> <a href="http://www.morningtoast.com/2009/05/why-tiny-urls-change-how-we-design/" target="_blank" rel="noopener noreferrer">wrote a rant</a> about it a few days ago and it got me thinking about their usefulness.  He also twittered about <a href="http://www.flickr.com/groups/flickrideas/discuss/72157616526758077/" target="_blank" rel="noopener noreferrer">Flickr's own URL shortener</a> as well.  Although Flickr uses a different domain name for these shortened URLs, the link is still obvious about it's context; it is a Flickr image.</p>
+<p>I found out about this idea of using &quot;<a href="http://revcanonical.appspot.com/">rev=canonical</a>&quot; within a link.  I'm still trying to understand the whole concept: essentially if a link is created, a shortener service checks if the link owner has already shortened it.  If the owner has indeed shortened it, the shortener service will provide the owner's short URL to the request-or.  That's way to complicated for me, but it would be nice have my own shortened links when I post them to a service like Twitter.</p>
+<p>Then it hit me.</p>
+<p>I remembered that when you first install WordPress, &quot;pretty&quot; permalinks are deactivated.  Running in this default mode, a post link looks like this: <a href="http://guamaso.com/?p=293">http://guamaso.com/?p=293</a>.  It still doesn't have the context of the post itself, but at least now you know that it is related to The Guamaso.  It may not be shorter than <a href="http://bit.ly/1m4Qp">http://bit.ly/1m4Qp</a>, but the added context is worth it to me.</p>
+<p>So how do I implement this &quot;built-in shortener?&quot;  I use Twitter Tools to automatically send a blog post to Twitter.  Why not use Twitter Tools to send the short URL instead of the pretty URL!  I changed a few things on line 466:</p>
+<p>**$shorturl = get_bloginfo('url');</p>
+<p>$shorturl .= &quot;/?p=&quot;;</p>
+<p>$shorturl .= $post_id;**</p>
+<p>LINE 466: $url = apply_filters('tweet_blog_post_url', <strong>$shorturl</strong>);</p>
+<p><strong>UPDATE: The items in bold are what I changed / added.</strong></p>
+<p>I sent a a test &quot;twit&quot; to Twitter earlier and it worked (actually, I initially forgot to add the &quot;p&quot; but it's in there now.).  So instead of passing the full permalink that will get shortened by Twitter anyway, it now sends the shorter WordPress URL that starts with my domain name.  Boom.</p>
+<p>I don't think a reader can find the post's ID without direct access to the Admin area, so providing this short link for the reader to use is the <em>key</em> to making this method successful.  I'd also like to see more plugins that use these shorter links when posting to Twitter.  It makes way more sense then letting Twitter make the decision.  On the other hand, blogs that post 10+ entries a day may out grow it in a few years... but hey, maybe by then we'll jump to the next social trend anyway.</p>
+<p><strong>UPDATE 2: Scratch everything I just said!  Don't edit Twitter Tools, instead download the <a title="Twitter Friendly Links Plug In" href="http://kovshenin.com/wordpress/plugins/twitter-friendly-links/" target="_blank" rel="noopener noreferrer">Twitter Friendly Links plug-in</a>.  It works with rev=canonical, Twitter Tools, and it will also add the short link on your posts for your readers.  The best part is it will make the link shorter than with the hack I explained above.  Instead of <a href="../?p=293">http://guamaso.com/?p=293</a> it will be [][2]<a href="/293">http://guamaso.com/293</a>. Good plugin, give it a try!</strong></p>
+
+      </article>
+      
+
+    </div>
+  </div>
+</main>
+
+          </div>
         
           <div class="mt-8">
             <main><div class="mt-8 mx-4 md:mx-8">
@@ -220,50 +268,6 @@
 
           </div>
         
-          <div class="mt-8">
-            <main><div class="mt-8 mx-4 md:mx-8">
-    <div class="mx-auto w-full max-w-2xlp">
-      <article class="cdata">
-        <h1><a href="/2009/05/02/ma-birthdays-comin/">Ma’ Birthday’s Comin’</a></h1>
-
-        <div class="mt-4 flex items-center">
-          <div class="w-full">
-            
-<div class="flex items-center">
-  <div class="flex-shrink-0">
-    <img
-    class="w-14 h-14 object-cover p-05 rounded-full border border-blue-300"
-    src="/images/author/juan-orozco.jpg"
-    alt="Juan Orozco">
-  </div>
-  <div class="flex-shrink-0 ml-2 leading-tight font-content-sans">
-    <a class="block text-base text-raven-800 hover:text-raven-900 hover:underline focus:underline" target="_blank" rel="noopener nofollow" title="Juan Orozco" href="https://juanorozco.com/">Juan Orozco</a>
-    <time class="text-base text-raven-500" datetime="2009-05-02T14:02:29Z">May 2, 2009</time>
-  </div>
-</div>
-
-          </div>
-        </div>
-
-        <p>It's wishlist time. Last year was a pretty successful year for my annual personal holiday, I got Mario Kart, my sub-woofer, and a few other doo-dads. This year is a tough one for many people including my family and friends. I never expect gifts from them but they always ask what I want. It's also fun to just list the things I am excited about.</p>
-<figure id="attachment_1703" aria-describedby="caption-attachment-1703" style="width: 150px" class="wp-caption alignleft">[<img class="size-thumbnail wp-image-1703" title="protocd100" src="https://i2.wp.com/guamaso.com/wp-content/uploads/2009/05/protocd100-150x150.jpg?resize=150%2C150" alt="Protomen" width="150" height="150" data-recalc-dims="1" />][1]<figcaption id="caption-attachment-1703" class="wp-caption-text">Protomen</figcaption></figure>
-<p>One of my biggest things this year is creativity and art focused around the things I grew up around: video games, puzzles, and toys. One of my favorite art forms to indulge myself with is music. Lately, when I am on my computer, I'll be listening to Last.FM's video game channel. I discovered an awesome band called <a href="http://www.protomen.com/" target="_blank" rel="noopener noreferrer">The Protomen</a>. They're widely popular right now - and rightly so - their music is based on the Mega Man universe and has a real dark apocalyptic tone to it. Beautiful music. <a href="http://www.zambooie.com/stores/Detail.tpl?cart=12412698193666992&st_id=236&sku=PROTOCD100" target="_blank" rel="noopener noreferrer">Me want</a>.</p>
-<p>I'm also trying to return to my electrical-geek days by making my own USB powered LED lights. I bought a big bag of random LED's off of eBay some time ago thinking my parents still had my electronics toolkit that I left behind. Nope. My Dad must of taken it years ago. The only thing I really need right now is a <a href="http://astore.amazon.com/guamaso-20/detail/B0002ZPU6C" target="_blank" rel="noopener noreferrer">breadboard</a>. I'd love to get a new soldering iron, a bag of random resistors, and some perfboard... but that's for later.</p>
-<p>While I am on the subject of electronics, I have been itching to play with one of those <a href="http://www.robotshop.us/arduino-usb-microcontroller-board.html" target="_blank" rel="noopener noreferrer">Arduino boards</a>. I like the LED email alert widget that can sit on a desk. I long time ago, I wanted to make a unit that attaches to the trash can that will send me a text message when the trash can is not on the street Monday night. It's an expensive idea that really outweighs any benefit I get from it, but that's how this geek rolls!</p>
-<figure id="attachment_1705" aria-describedby="caption-attachment-1705" style="width: 150px" class="wp-caption alignleft">[<img class="size-thumbnail wp-image-1705" title="ventura" src="https://i0.wp.com/guamaso.com/wp-content/uploads/2009/05/ventura-150x150.jpg?resize=150%2C150" alt="ventura" width="150" height="150" data-recalc-dims="1" />][2]<figcaption id="caption-attachment-1705" class="wp-caption-text">Ventura County Photgraphy</figcaption></figure>
-<p>I have enjoyed photography for decades. I can't even say when I really started to love it - that's how far back it goes. I never took classes on photography, instead I learned and gained inspiration through the works of others. I bought photography books left and right. Today, I am doing the same with drawing and art. I'll take any good books on <a href="http://www.amazon.com/s/ref=nb_ss_b?url=search-alias%3Dstripbooks&field-keywords=photography&x=0&y=0" target="_blank" rel="noopener noreferrer">photography</a>, <a href="http://www.amazon.com/s/ref=nb_ss_b?url=search-alias%3Dstripbooks&field-keywords=watercolor&x=0&y=0" target="_blank" rel="noopener noreferrer">watercoloring</a>, <a href="http://www.amazon.com/s/ref=nb_ss_b?url=search-alias%3Dstripbooks&field-keywords=pencil+sketching&x=0&y=0" target="_blank" rel="noopener noreferrer">pencil sketching</a>... anything. Books on <a href="http://www.amazon.com/s/ref=nb_ss_gw?url=search-alias%3Dstripbooks&field-keywords=graphic+design&x=0&y=0" target="_blank" rel="noopener noreferrer">graphic design</a>, <a href="http://www.amazon.com/s/ref=nb_ss_gw?url=search-alias%3Dstripbooks&field-keywords=typography&x=0&y=0" target="_blank" rel="noopener noreferrer">typography</a>, <a href="http://www.amazon.com/s/ref=nb_ss_b?url=search-alias%3Dstripbooks&field-keywords=web+design&x=0&y=0" target="_blank" rel="noopener noreferrer">web design</a>, and pretty much anything design is also on my list. I'm absorbing knowledge like a friggin' Sham-Wow right now.</p>
-<p>The last thing on my list are gift cards, specifically for downloadable content. I am really into the iPhone apps and WiiWare downloads, more-so than buying actual games at the store right now.  I think <a href="http://store.apple.com/us/browse/home/giftcards/itunes/gallery" target="_blank" rel="noopener noreferrer">iTunes gift cards</a> work with the app store and <a href="http://astore.amazon.com/guamaso-20/detail/B000IMYL0U" target="_blank" rel="noopener noreferrer">Wii Points cards</a> are everywhere.</p>
-<p>I'm trying to be good this year. Ciri says it's really hard to shop for me because everything I want is <a href="http://guamaso.com/2008/07/22/e3-is-over-and-i-want-an-xbox-360">very</a> <a href="http://guamaso.com/2008/06/24/sennheisers-freaking-rock">expensive.</a> As you can see, not one gift passes the $50 mark!  Yay me!</p>
-
-      </article>
-      
-
-    </div>
-  </div>
-</main>
-
-          </div>
-        
         
 <ul class="pagination">
   
@@ -297,7 +301,7 @@
 
 </footer>
 
-<script src="/app.js?v=1588705026"></script>
+<script src="/app.js?v=1588705036"></script>
 
 </body>
 </html>
