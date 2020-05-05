@@ -8,7 +8,6 @@ title = "Books 2019"
 type = "post"
 
 +++
-
 * Patriot Games by Tom Clancy
 * The Fall of Hyperion by Dan Simmons
 * World War Z by  Max Brooks
@@ -20,10 +19,10 @@ type = "post"
 * Every Tool's a Hammer by Adam Savage
 * [How to Think Like a Roman Emperor](https://us.macmillan.com/books/9781250196620) by Donald Robertson
 
-Scattered was my favorite book in 2019. I learned a lot about myself and my son. I'd like to think that it's helped me cope with my own symptoms but also my short fuse in dealing with my son's symptoms. It's also a very interesting read into what goes on in the human mind as a child. 
+Scattered was my favorite book in 2019. I learned a lot about myself and my son. I'd like to think that it's helped me cope with my own symptoms but also improved my relationship with my son. I understand him a lot more and can therefore approach him with love instead of frustration. It's also a very interesting read into what goes on in the mind of a growing child.
 
-Dare to Lead was my second favorite. Brene has _exploded_ in popularity in recent years with her research on vulnerability. She's awesome and her work echoes in my soul so deeply.
+Dare to Lead was my second favorite. Brene has _exploded_ in popularity in recent years with her research on vulnerability. She's awesome and her work echoes so deeply in my soul.
 
-How to Think Like a Roman Emperor, I think, was a good Stoicism 101. I've been interested in Stoicism for some time now but never really educated myself on it like I've wanted to. This is the start and it came at a great time.
+How to Think Like a Roman Emperor, I think, is a good Stoicism 101. I've been interested in Stoicism for some time now but never really educated myself on it like I've wanted to. This is the start and it came at a great time.
 
 Honorable mention to Fall of Hyperion. Oh my glob. Dan Simmons is amazeballs. Long books but perfect lengths for my drives to/from the office when I was at Cisco. 👨🏽‍🍳👌🏽
