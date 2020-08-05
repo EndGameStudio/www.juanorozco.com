@@ -18,7 +18,7 @@ paginate = 3
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [permalinks]
-post = "/:filename"
+post = "/:year/:month/:slug/"
 
 [params]
 mainSections = ["post"]
@@ -37,7 +37,7 @@ search = true
 # disqusUser = "na"
 
 [params.path]
-image = "images/"
+image = ""
 video = "video/"
 author = "images/author/"
 brand = "images/brand/"
@@ -45,7 +45,7 @@ font = "font/"
 pdf = "pdf/"
 
 [params.cdn]
-provider = "local"
+provider = "cloudinary"
 type = "image"
 
 [params.cloudinary]
