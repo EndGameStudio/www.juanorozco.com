@@ -1,23 +1,24 @@
 name: Push to GitHub Pages on push to master
 
-on: push
+on:
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
-    name: Deploy
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout master
-        uses: actions/checkout@v2.0.0
+        uses: actions/checkout@v3
+        with:
+          submodules: true
+          fetch-depth: 0
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "0.63.1"
-
-      - name: Checkout submodules
-        run: |
-          git submodule sync && git submodule update --init
+          hugo-version: '0.63.1'
 
       - name: Build
         run: |
@@ -25,10 +26,8 @@ jobs:
           echo www.juanorozco.com > ./public/CNAME
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v2
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.ref == 'refs/heads/main' }}
         with:
-          emptyCommits: false
-        env:
-          ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          PUBLISH_BRANCH: gh-pages
-          PUBLISH_DIR: ./public
+          github_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          publish_dir: ./public
