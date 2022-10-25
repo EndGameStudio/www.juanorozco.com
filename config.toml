@@ -134,12 +134,8 @@ url = "/now/"
 name = "Now"
 weight = 20
 [[menu.main]]
-url = "/chat/"
-name = "Chat"
-weight = 30
-[[menu.main]]
-url = "/manifesto/"
-name = "Manifesto"
+url = "/docs/"
+name = "Docs"
 weight = 40
 
 [[menu.mobile]]
