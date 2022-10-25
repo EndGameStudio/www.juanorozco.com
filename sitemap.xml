@@ -5,11 +5,11 @@
     <lastmod>2020-05-05T18:30:23Z</lastmod>
   </url>
   <url>
-    <loc>https://www.juanorozco.com/blog/2020/books-2019/</loc>
+    <loc>https://www.juanorozco.com/</loc>
     <lastmod>2020-05-05T18:30:23Z</lastmod>
   </url>
   <url>
-    <loc>https://www.juanorozco.com/</loc>
+    <loc>https://www.juanorozco.com/blog/2020/books-2019/</loc>
     <lastmod>2020-05-05T18:30:23Z</lastmod>
   </url>
   <url>
@@ -1258,6 +1258,14 @@
   </url>
   <url>
     <loc>https://www.juanorozco.com/blog/</loc>
-    <priority>0</priority>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/docs/</loc>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/docs/homelab/</loc>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/docs/synology-ds216j/</loc>
   </url>
 </urlset>
