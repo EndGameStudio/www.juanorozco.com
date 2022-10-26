@@ -1,7 +1,5 @@
 ---
-title: A Powerful Hugo Theme
-subtitle: Axiom is a powerful, high performance, modular Hugo theme, built with Tailwind CSS and Alpine JS.
-description: Axiom is a powerful, high performance, modular Hugo theme, designed to make the readers of your content and the search engines happy.
+title: Juan Orozco
 ---
 
 {{< blocks/section class="mt-8" >}}
