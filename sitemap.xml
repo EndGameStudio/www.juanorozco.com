@@ -5,15 +5,15 @@
     <lastmod>2020-05-05T18:30:23Z</lastmod>
   </url>
   <url>
-    <loc>https://www.juanorozco.com/</loc>
-    <lastmod>2020-05-05T18:30:23Z</lastmod>
-  </url>
-  <url>
     <loc>https://www.juanorozco.com/blog/</loc>
     <lastmod>2020-05-05T18:30:23Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/blog/2020/books-2019/</loc>
+    <lastmod>2020-05-05T18:30:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/</loc>
     <lastmod>2020-05-05T18:30:23Z</lastmod>
   </url>
   <url>
@@ -1261,15 +1261,24 @@
     <lastmod>2008-02-11T02:37:02Z</lastmod>
   </url>
   <url>
-    <loc>https://www.juanorozco.com/docs/lenovo-m910q/</loc>
-  </url>
-  <url>
     <loc>https://www.juanorozco.com/docs/</loc>
   </url>
   <url>
     <loc>https://www.juanorozco.com/docs/homelab/</loc>
   </url>
   <url>
-    <loc>https://www.juanorozco.com/docs/synology-ds216j/</loc>
+    <loc>https://www.juanorozco.com/docs/hardware/lenovo-m910q/</loc>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/docs/hardware/rpi-2/</loc>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/docs/hardware/rpi-3/</loc>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/docs/rv-subsystems/</loc>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/docs/hardware/synology-ds216j/</loc>
   </url>
 </urlset>
