@@ -18,7 +18,18 @@ I started my Homelab unknowingly when I purchased my Synology NAS so I could sto
 - [Raspberry Pi 3](/docs/hardware/rpi-3)
 - [Raspberry Pi 2](/docs/hardware/rpi-2)
 
+### Networking
+
+Living in an RV full time poses many challenges. Trying to make it a "smart" home or host some sort of home lab adds even more challenges.
+
+Running wires is difficult, especially to slideouts. Some existing wiring, like 12 volt or TV cabling, is run through the ceiling. It might be easier running wire through the underbody where storage tanks are located - but opening up the belly of the RV is intimidating.
+
+Finding storage space for all the homelab is another challenge. The TV area was the initial choice but it is very cramped and not well vented.
+
+Lastly, Wifi signals do not pass around the RV very well due to its aluminum framing.
+
 ### Wishlist
 
 - Managed switch
 - Dedicated router (PFSense?)
+- PoE Wifi Access points, one for the front, one for the center, and an external unit that would mount just inside the garage door.
