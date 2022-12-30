@@ -40,7 +40,10 @@ I bought this to continue my goal of self-hosting and learning. The less I have 
 - Uptime Kuma
 - Impostor Server
 - Minecraft Server
+- Miniflux (RSS)
+- Kavita (Ebook hosting)
+- LanCache
 
 ### Gaming
 
-I haven't tried hosting a Minescraft or Impostor server yet but I know it is possible. I am more curious if I can run some emulation software to play my old games.
+I haven't tried hosting a Minecraft or Impostor server yet but I know it is possible. I am more curious if I can run some emulation software to play my old games.

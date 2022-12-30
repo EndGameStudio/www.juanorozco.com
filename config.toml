@@ -22,7 +22,7 @@ post = "/:year/:month/:slug/"
 
 [params]
 mainSections = ["post"]
-copyrightYear = 2000
+copyrightYear = 2022
 search = true
 
 [params.services]

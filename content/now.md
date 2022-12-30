@@ -10,8 +10,10 @@ amazonS3_cache: []
 
 <img src="https://i0.wp.com/en.gravatar.com/userimage/8033531/88372deb53ce1bd8c2a3740c226fb9a9.jpg?w=580&ssl=1" alt="Juan" data-recalc-dims="1" />
 
-Last updated: Oct 25th, 2022.
+Last updated: Dec 29th, 2022.
 
-- **Senior Front End Engineer at Shortcut Software**: We make project management software that brings you joy. I’ve been at Shortcut for a couple years now and in that time I’ve helped build some cool things like Threaded Comments, Custom Fields, and our document tool, Docs. Currently, working on our Docs tool - helping to make it better and more helpful.
-- **Photography**: I try to make time for photography whenever I can. Although, right now, I’m trying to get my Part 107 license so I have more freedom in flying my drone. There’s been so many places where I thought about certain shots but they’re not possible without my license.
+- **Senior Front End Engineer at Shortcut Software**: We make project management software that brings you joy. Still working on our Docs tool - I'm currently helping improve our "Collections" feature, basically making them wayyy easier and more useful!
+- **Photography**: Really proud of [this photo I took at Pebble Beach](/blog/2022/pebble-beach/) in Crescent City, CA.
 - **Nomadic but parked**: We're currently parked in Northern California hiding in the old tall trees.
+- **Self Hosting and Home Networking**: I recently bought a micro PC and install Docker on it. I've recently been into Self Hosting and Home Networking. I'm starting to document my experiments and ideas in [Docs](/docs/homelab/).
+- **Steam Gaming**: This is the year that I got back into gaming. Find [me on Steam](https://steamcommunity.com/id/exitzaero/)!
