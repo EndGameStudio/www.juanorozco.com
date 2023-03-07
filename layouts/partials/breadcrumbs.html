@@ -1,16 +1,20 @@
-<ol class="flex nav navbar-nav">
-    {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
+<ol class="flex nav navbar-nav breadcrumbs">
+    {{ template "breadcrumbnav" (dict "page" . "currentPage" .) }}
 </ol>
 {{ define "breadcrumbnav" }}
-  {{ if .p1.Parent }}
-    {{ template "breadcrumbnav" (dict "p1" .p1.Parent "p2" .p2 )  }}
-  {{ else if not .p1.IsHome }}
-    {{ template "breadcrumbnav" (dict "p1" .p1.Site.Home "p2" .p2 )  }}
+  {{ if .page.Parent }}
+    {{ template "breadcrumbnav" (dict "page" .page.Parent "currentPage" .currentPage )  }}
+  {{ else if not .page.IsHome }}
+    {{ template "breadcrumbnav" (dict "page" .page.Site.Home "currentPage" .currentPage )  }}
   {{ end }}
-  {{ if not .p1.IsHome }}
-  <li style="padding: 0 0.3rem;" {{ if eq .p1 .p2 }}class="active" aria-current="page" {{ end }}>
-    {{ if eq .p1 .p2 }}&gt;{{ end }}
-    <a href="{{ .p1.Permalink }}">{{ .p1.Title }}</a>
+
+  {{ if and (not .page.IsHome) (ne .currentPage .page.FirstSection) }}
+  <li style="padding: 0 0.3rem;" {{ if eq .page .currentPage }}class="active" aria-current="page" {{ end }}>
+    {{ if eq .page .currentPage }}
+      <span>{{ .page.Title }}</span>
+    {{else}}
+      <a href="{{ .page.Permalink }}">{{ .page.Title }}</a>
+    {{ end }}
   </li>
   {{ end }}
 {{ end }}

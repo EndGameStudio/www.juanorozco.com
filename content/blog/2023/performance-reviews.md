@@ -2,7 +2,8 @@
 title: Performance Reviews Problems
 author: "Juan Orozco"
 type: post
-date: 2022-01-23T22:05:41+00:00
+date: 2023-01-23T22:05:41+00:00
+draft: true
 categories:
   - Thoughts
   - Work

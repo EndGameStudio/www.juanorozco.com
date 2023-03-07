@@ -1,5 +1,6 @@
 ---
 title: Homelab
+hidePagination: true
 ---
 
 I started my Homelab unknowingly when I purchased my Synology NAS so I could store and back up my photos. Fast forward to our current lifestyle roaming the States in an RV and it's started to grow finally.
@@ -12,11 +13,11 @@ I started my Homelab unknowingly when I purchased my Synology NAS so I could sto
 
 ### Current gear
 
-- [Synology DS216J](/docs/hardware/synology-ds216j)
+- [Synology DS216J](/docs/homelab/hardware/synology-ds216j)
   - Two WD Red 3 TB drives
-- [Lenovo m910q](/docs/hardware/lenovo-m910q)
-- [Raspberry Pi 3](/docs/hardware/rpi-3)
-- [Raspberry Pi 2](/docs/hardware/rpi-2)
+- [Lenovo m910q](/docs/homelab/hardware/lenovo-m910q)
+- [Raspberry Pi 3](/docs/homelab/hardware/rpi-3)
+- [Raspberry Pi 2](/docs/homelab/hardware/rpi-2)
 
 ### Networking
 

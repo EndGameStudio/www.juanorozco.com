@@ -1,0 +1,15 @@
+.breadcrumbs a {
+    color: #444;
+}
+.breadcrumbs li:not(.breadcrumbs li:first-of-type):before {
+    content: '>'
+}
+
+.breadcrumbs li.active span {
+    color: #073e2f;
+    font-weight: 700;
+}
+
+.breadcrumbs li a:hover {
+    text-decoration: underline;
+}
