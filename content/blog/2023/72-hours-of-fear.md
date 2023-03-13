@@ -19,7 +19,7 @@ I'm in a particularly difficult retro as we are discussing some heavy topics. We
 
 Slack dings. An "@everyone" ping from the general channel. It's our CEO. SVB just shut down. All our money is in that bank. Our entire runway. Our next paycheck. Suddenly, it becomes challenging to focus on the retro discussion. 
 
-I can't do anything about that financial decision, but I _can_ give this retro and my team my complete attention. Besides, our CEO is on it and will keep us updated. I trust him.
+I can't do anything about our financial situation, but I _can_ give this retro and my team my complete attention. Besides, our CEO is on it and will keep us updated. I trust him.
 
 I hear a voice in between the retro chatter, a very familiar voice. It sounds like... me. Me, but from 2008. "We're in danger! A bank shutting down is a VERY bad thing! Do something! AVENGE ME!" Me from 2008 is incredibly dramatic, but is he wrong?
 
