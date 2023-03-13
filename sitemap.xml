@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.juanorozco.com/blog/2022/</loc>
-    <lastmod>2022-12-20T22:05:41Z</lastmod>
+    <loc>https://www.juanorozco.com/blog/2023/</loc>
+    <lastmod>2023-03-13T05:05:41Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/blog/2023/72-hours-of-fear/</loc>
+    <lastmod>2023-03-13T05:05:41Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/blog/</loc>
-    <lastmod>2022-12-20T22:05:41Z</lastmod>
+    <lastmod>2023-03-13T05:05:41Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/</loc>
+    <lastmod>2023-03-13T05:05:41Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/blog/2022/</loc>
     <lastmod>2022-12-20T22:05:41Z</lastmod>
   </url>
   <url>
@@ -1267,9 +1275,6 @@
   <url>
     <loc>https://www.juanorozco.com/2008/02/10/finally-bought-new-linkin-park-cd/</loc>
     <lastmod>2008-02-11T02:37:02Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.juanorozco.com/blog/2023/</loc>
   </url>
   <url>
     <loc>https://www.juanorozco.com/docs/</loc>
