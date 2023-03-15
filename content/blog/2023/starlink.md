@@ -6,7 +6,7 @@ date: 2023-03-06T22:05:41+00:00
 draft: true
 categories:
   - Thoughts
-  - Interlink
+  - Internet
   - Starlink
 ---
 
