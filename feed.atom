@@ -1,15 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
   <title>Juan Orozco</title>
-  <subtitle>Wonderer and Wanderer Love spending time with my wife, kids, and pets. Senior Frontend Engineer at Shortcut Software Photography Hobbyist Nomad. We sold our house and moved into an RV for that full timer&#39;s life. Sorta put thoughts on paper in a coherent way.</subtitle>
+  <subtitle>Wonderer and Wanderer Love spending time with my wife, kids, and pets. Senior Full Stack Engineer, looking for a new role! Photography Hobbyist Nomad. We sold our house and moved into an RV for that full timer&#39;s life. Sorta put thoughts on paper in a coherent way.</subtitle>
   <id>https://www.juanorozco.com/</id>
   <author>
     <name>Juan Orozco</name>
     <uri>https://www.juanorozco.com/</uri>
   </author>
-  <updated>2023-03-15T04:20:35Z</updated>
+  <updated>2023-06-03T17:09:27Z</updated>
   <link rel="self" type="application/atom+xml" href="https://www.juanorozco.com/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://www.juanorozco.com/" hreflang="en-us"/>
+  <entry>
+    <title>Free Agent</title>
+    <author>
+      <name>Juan Orozco</name>
+      <uri>https://juanorozco.com/</uri>
+    </author>
+    <id>https://www.juanorozco.com/blog/2023/free-agent/</id>
+    <updated>2023-05-08T15:00:00Z</updated>
+    <published>2023-05-08T15:00:00Z</published>
+    <content type="html"><![CDATA[<p>Last week, the company I worked for, Shortcut, underwent another round of layoffs.</p>
+<p>First of all, I had a <em>lot</em> of fun at Shortcut. I learned a ton. And we built some cool shit. In the two and half years I was there, I started on our monetization team, adding growth features like our Labs feature and then switching gears to work on billing architecture. I eventually moved to our Docs team, where I helped bring our Docs product out of beta so teams could document knowledge and decisions better. I'm incredibly proud of my time at Shortcut and highly grateful for all the opportunities I had to improve myself. I left Shortcut being a better person, a better technical knowledge worker, and a better leader. I'm really excited about that next adventure.</p>
+<p>The economy is crazy right now, and where there isn't a good time to ever be laid off, right now is especially tough for software engineers. I think it is hard to truly know the state of the market in terms of job count, yet it is clear that a LOT of people are looking for work. I'm optimistic, though - the world needs software engineers.</p>
+<p>And I don't mean to brag, but I'm kinda lucky when it matters. I've never won the lottery; I win things that matter to me. I got my health and family, and I can still do things that bring me joy.</p>
+<p>I'm really excited to see what opportunity this challenge turns into.</p>]]></content>
+  </entry>
   <entry>
     <title>72 Hours of Fear</title>
     <author>
@@ -1753,22 +1768,5 @@
     <published>2011-03-18T00:32:53Z</published>
     <content type="html"><![CDATA[<p>Seriously, is it volume? It's in the Settings app.</p>
 <p><a href="http://juanthedesigner.files.wordpress.com/2011/03/20110317-083154.jpg?w=580"><img src="http://juanthedesigner.files.wordpress.com/2011/03/20110317-083154.jpg?w=580" alt="20110317-083154.jpg" class="alignnone size-full" data-recalc-dims="1" /></a></p>]]></content>
-  </entry>
-  <entry>
-    <title>Just need a talking dog…</title>
-    <author>
-      <name>Juan Orozco</name>
-      <uri>https://juanorozco.com/</uri>
-    </author>
-    <id>https://www.juanorozco.com/2011/03/17/just-need-a-talking-dog/</id>
-    <updated>2011-03-17T19:27:01Z</updated>
-    <published>2011-03-17T19:27:01Z</published>
-    <content type="html"><![CDATA[<p> </p>
-<p style="text-align:center;">
-  <a href="http://feedproxy.google.com/~r/dornob/~3/r8q16fAh1Xc/"><img src='http://juanthedesigner.files.wordpress.com/2011/03/real-movie-up-home.jpg?w=580' alt='' data-recalc-dims="1" /></a>
-</p>
-<p> </p>
-<p>I am showing this to my kids first thing when I get home! Cool! Follow the link, there's more pics and video.</p>
-<p>via Dornob  <a href="http://feedproxy.google.com/~r/dornob/~3/r8q16fAh1Xc/">300 Helium Balloons Float Real ‘Up’ House 10,000 Feet High</a>.</p>]]></content>
   </entry>
 </feed>
