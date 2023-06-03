@@ -4,8 +4,9 @@ subtitle: Proxmox VM Host, currently just hosting Docker VMs
 ---
 
 - Intel Core i7 6700T 2.8 GHz
-- 16GB (2 x 8GB SODIMM)
+- 32GB (2 x 16GB SODIMM)
 - 500GB Toshiba NVMe Drive
+- 1TB Western Digital Blue SSD Drive
 
 Running Proxmox, learning how to virtualize servers.
 
@@ -17,10 +18,10 @@ The cost of this device for what I got felt great. I feel a bit bummed out that 
 
 Things to upgrade:
 
-- CPU: i7 7700T
-- RAM: 2 16GB DDR4-2400 SODIMM
-- Drives: 1TB NVMe and 1TB SSD
-- USB NIC
+- [ ] CPU: i7 7700T
+- [x] RAM: 2 16GB DDR4-2400 SODIMM
+- [x] Drives: 1TB NVMe and 1TB SSD
+- [ ] USB NIC
 
 ## Uses
 
