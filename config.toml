@@ -21,7 +21,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 post = "/:year/:month/:slug/"
 
 [params]
-mainSections = ["post"]
+mainSections = ["post", "photography"]
 copyrightYear = 2022
 search = true
 
@@ -57,7 +57,7 @@ video = "video/upload/"
 
 [params.cloudinary.presets]
 base = "f_auto,q_auto/"
-page = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
+page = "dpr_auto,c_scale,h_800,f_auto,q_auto:best,w_1200/"
 feature = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
 summary = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
 
@@ -118,8 +118,8 @@ tabWidth = 2
 [menu]
 [[menu.main]]
 url = "/blog/"
-name = "Archive"
-weight = 50
+name = "Blog"
+weight = 30
 [[menu.main]]
 url = "/now/"
 name = "Now"
@@ -128,6 +128,10 @@ weight = 20
 url = "/docs/"
 name = "Docs"
 weight = 40
+[[menu.main]]
+url = "/photography/"
+name = "Photography"
+weight = 50
 
 [[menu.mobile]]
 url = "/blog/"

@@ -1,0 +1,36 @@
+---
+title: NCMMC Releases
+author: "Juan Orozco"
+type: photography
+date: 2023-07-02T10:05:41-07:00
+categories:
+  - NCMMC
+  - Seals
+  - Animals
+---
+
+[North Coast Marine Mammal Center](https://northcoastmmc.org/) promotes conservation through rescue and rehab in Crescent City, California. Ciri donates her time there and we attend the releases of their seals.
+
+My favorite releases are of these chonky water puppers. They are the cutest things when they wobble around and then look at you with their big dark eyes.
+
+{{< alert message="Remember that these are wild animals and should be treated as such. Never pet or approach a wild animal." type="alert" badge="Yikes!" >}}
+
+{{< figure src="juan-orozco-com/seal-rescue/cyyd77ho1hh5o6oa66cr" >}}
+{{< figure src="juan-orozco-com/seal-rescue/vp2frjyl7dkaggr1xlso" >}}
+{{< figure src="juan-orozco-com/seal-rescue/fcagmljwd0le2hu9ihab" >}}
+{{< figure src="juan-orozco-com/seal-rescue/d9vmqtfjrodaxnepagdf" >}}
+{{< figure src="juan-orozco-com/seal-rescue/hjsg5l12tvgukeq4g2qx" >}}
+{{< figure src="juan-orozco-com/seal-rescue/qpiuylmzgbucyitsyi44" >}}
+{{< figure src="juan-orozco-com/seal-rescue/g7ufsqldiigajzt9iyqv" >}}
+{{< figure src="juan-orozco-com/seal-rescue/onohanje0b6qfvpiuk1c" >}}
+{{< figure src="juan-orozco-com/seal-rescue/fub08ov1s4l8ybjetqks" >}}
+{{< figure src="juan-orozco-com/seal-rescue/hsvhw7sfhmklhwhmmbcs" >}}
+{{< figure src="juan-orozco-com/seal-rescue/oeeya4uoi8abxqvioobu" >}}
+{{< figure src="juan-orozco-com/seal-rescue/rxwbhivtvvby46ucdn5t" >}}
+{{< figure src="juan-orozco-com/seal-rescue/gvbnbtd2e1yjibiemxit" >}}
+{{< figure src="juan-orozco-com/seal-rescue/sspjf94vr5nv3nq9f5ba" >}}
+{{< figure src="juan-orozco-com/seal-rescue/p0tzfxivqdhnuj4ru2nn" >}}
+{{< figure src="juan-orozco-com/seal-rescue/kjd6ugbaigc0vkforilc" >}}
+{{< figure src="juan-orozco-com/seal-rescue/kezxkbipnqmpqzo4n8d2" >}}
+{{< figure src="juan-orozco-com/seal-rescue/gefqvdgmgacumdnrnuyf" >}}
+{{< figure src="juan-orozco-com/seal-rescue/dmvdzisizz9mofhjvnxg" >}}
