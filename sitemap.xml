@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.juanorozco.com/</loc>
+    <lastmod>2023-07-02T17:05:41Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/photography/ncmmc-releases/</loc>
+    <lastmod>2023-07-02T17:05:41Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/photography/</loc>
+    <lastmod>2023-07-02T17:05:41Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/blog/2023/</loc>
     <lastmod>2023-05-08T15:00:00Z</lastmod>
   </url>
@@ -10,10 +22,6 @@
   </url>
   <url>
     <loc>https://www.juanorozco.com/blog/2023/free-agent/</loc>
-    <lastmod>2023-05-08T15:00:00Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.juanorozco.com/</loc>
     <lastmod>2023-05-08T15:00:00Z</lastmod>
   </url>
   <url>
