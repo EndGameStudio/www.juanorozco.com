@@ -10,8 +10,8 @@ feature: "https://res.cloudinary.com/deo07tbou/image/upload/c_crop,g_faces:auto,
 
 I really enjoy photographing the seal releases. I'm documenting the best photos I take below:
 
-- [July 1st, 2023](/photography/release-2023-07-02/)
-- [June 22, 2023](/photography/release-2023-06-22/)
-- [June 17, 2023](/photography/release-2023-06-17/)
-- [May 2nd, 2023](/photography/release-2023-05-02/)
-- [December 17th, 2022](/photography/release-2022-12-17/)
+{{% summary "/photography/release-2023-07-02" %}}
+{{% summary "/photography/release-2023-06-22" %}}
+{{% summary "/photography/release-2023-06-17" %}}
+{{% summary "/photography/release-2023-05-02" %}}
+{{% summary "/photography/release-2022-12-17" %}}
