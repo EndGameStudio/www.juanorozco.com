@@ -7,7 +7,7 @@
     <name>Juan Orozco</name>
     <uri>https://www.juanorozco.com/</uri>
   </author>
-  <updated>2023-07-03T06:32:02Z</updated>
+  <updated>2023-07-03T17:43:27Z</updated>
   <link rel="self" type="application/atom+xml" href="https://www.juanorozco.com/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://www.juanorozco.com/" hreflang="en-us"/>
   <entry>
@@ -190,13 +190,71 @@ src="https://res.cloudinary.com/deo07tbou/image/upload/dpr_auto,c_limit,h_800,f_
     <published>2023-07-02T17:00:00Z</published>
     <content type="html"><![CDATA[<p><a href="https://northcoastmmc.org/">North Coast Marine Mammal Center</a> promotes conservation through rescue and rehab in Crescent City, California. Ciri donates her time there and we attend the releases of their seals.</p>
 <p>I really enjoy photographing the seal releases. I'm documenting the best photos I take below:</p>
-<ul>
-<li><a href="/photography/release-2023-07-02/">July 1st, 2023</a></li>
-<li><a href="/photography/release-2023-06-22/">June 22, 2023</a></li>
-<li><a href="/photography/release-2023-06-17/">June 17, 2023</a></li>
-<li><a href="/photography/release-2023-05-02/">May 2nd, 2023</a></li>
-<li><a href="/photography/release-2022-12-17/">December 17th, 2022</a></li>
-</ul>]]></content>
+<div class="summary sm:flex">
+  <div class="summary-image sm:flex-shrink-0 mb-4 sm:mb-0 sm:mr-10">
+    <a class="block" href="/photography/release-2023-07-02/"><img
+    class="sm:w-40 sm:h-40 mx-auto object-cover"
+    src="https://res.cloudinary.com/deo07tbou/image/upload/c_crop,g_faces:auto,h_800,q_auto:good,w_800,x_400,y_400/v1688330822/juan-orozco-com/seal-rescue/oeeya4uoi8abxqvioobu.jpg"
+    alt="July 2nd Seal Release"></a>
+  </div>
+  <div class="summary-content font-content-sans">
+    <a class="summary-title block font-semibold leading-tightly tracking-tightly text-2xl text-raven-800 hover:text-raven-900" href="/photography/release-2023-07-02/">July 2nd Seal Release</a>
+    <a class="summary-excerpt mt-2 block font-normal leading-tight tracking-normal text-base text-raven-500 hover:text-raven-600" href="/photography/release-2023-07-02/">Yikes! Remember that these are wild animals and should be treated as such. Never pet or approach a wild animal. For more releases and the North Coast Marine Mammal Center, see...</a>
+    <aside class="summary-meta mt-6 font-normal leading-snug tracking-normal text-sm text-raven-500"><time datetime="2023-07-02T17:05:41Z">Jul 2, 2023 5:05PM</time></aside>
+  </div>
+</div>
+<div class="summary sm:flex">
+  <div class="summary-image sm:flex-shrink-0 mb-4 sm:mb-0 sm:mr-10">
+    <a class="block" href="/photography/release-2023-06-22/"><img
+    class="sm:w-40 sm:h-40 mx-auto object-cover"
+    src="https://res.cloudinary.com/deo07tbou/image/upload/c_crop,g_faces:auto,h_800,q_auto:good,w_800,x_400,y_400/v1688330822/juan-orozco-com/seal-rescue/nsqndhnzpfwjmnbftbo1.jpg"
+    alt="June 22nd Seal Release"></a>
+  </div>
+  <div class="summary-content font-content-sans">
+    <a class="summary-title block font-semibold leading-tightly tracking-tightly text-2xl text-raven-800 hover:text-raven-900" href="/photography/release-2023-06-22/">June 22nd Seal Release</a>
+    <a class="summary-excerpt mt-2 block font-normal leading-tight tracking-normal text-base text-raven-500 hover:text-raven-600" href="/photography/release-2023-06-22/">Yikes! Remember that these are wild animals and should be treated as such. Never pet or approach a wild animal. For more releases and the North Coast Marine Mammal Center, see...</a>
+    <aside class="summary-meta mt-6 font-normal leading-snug tracking-normal text-sm text-raven-500"><time datetime="2023-06-23T17:00:00Z">Jun 23, 2023 5:00PM</time></aside>
+  </div>
+</div>
+<div class="summary sm:flex">
+  <div class="summary-image sm:flex-shrink-0 mb-4 sm:mb-0 sm:mr-10">
+    <a class="block" href="/photography/release-2023-06-17/"><img
+    class="sm:w-40 sm:h-40 mx-auto object-cover"
+    src="https://res.cloudinary.com/deo07tbou/image/upload/c_crop,g_faces:auto,h_800,q_auto:good,w_800,x_400,y_400/v1688330822/juan-orozco-com/seal-rescue/DSC05989.jpg"
+    alt="June 17th Seal Release"></a>
+  </div>
+  <div class="summary-content font-content-sans">
+    <a class="summary-title block font-semibold leading-tightly tracking-tightly text-2xl text-raven-800 hover:text-raven-900" href="/photography/release-2023-06-17/">June 17th Seal Release</a>
+    <a class="summary-excerpt mt-2 block font-normal leading-tight tracking-normal text-base text-raven-500 hover:text-raven-600" href="/photography/release-2023-06-17/">Yikes! Remember that these are wild animals and should be treated as such. Never pet or approach a wild animal. For more releases and the North Coast Marine Mammal Center, see...</a>
+    <aside class="summary-meta mt-6 font-normal leading-snug tracking-normal text-sm text-raven-500"><time datetime="2023-06-18T17:00:00Z">Jun 18, 2023 5:00PM</time></aside>
+  </div>
+</div>
+<div class="summary sm:flex">
+  <div class="summary-image sm:flex-shrink-0 mb-4 sm:mb-0 sm:mr-10">
+    <a class="block" href="/photography/release-2023-05-02/"><img
+    class="sm:w-40 sm:h-40 mx-auto object-cover"
+    src="https://res.cloudinary.com/deo07tbou/image/upload/c_crop,g_faces:auto,h_800,q_auto:good,w_800,x_400,y_400/v1688330822/juan-orozco-com/seal-rescue/DSC05722.jpg"
+    alt="May 2nd Seal Release"></a>
+  </div>
+  <div class="summary-content font-content-sans">
+    <a class="summary-title block font-semibold leading-tightly tracking-tightly text-2xl text-raven-800 hover:text-raven-900" href="/photography/release-2023-05-02/">May 2nd Seal Release</a>
+    <a class="summary-excerpt mt-2 block font-normal leading-tight tracking-normal text-base text-raven-500 hover:text-raven-600" href="/photography/release-2023-05-02/">Yikes! Remember that these are wild animals and should be treated as such. Never pet or approach a wild animal. For more releases and the North Coast Marine Mammal Center, see...</a>
+    <aside class="summary-meta mt-6 font-normal leading-snug tracking-normal text-sm text-raven-500"><time datetime="2023-05-02T17:00:00Z">May 2, 2023 5:00PM</time></aside>
+  </div>
+</div>
+<div class="summary sm:flex">
+  <div class="summary-image sm:flex-shrink-0 mb-4 sm:mb-0 sm:mr-10">
+    <a class="block" href="/photography/release-2022-12-17/"><img
+    class="sm:w-40 sm:h-40 mx-auto object-cover"
+    src="https://res.cloudinary.com/deo07tbou/image/upload/c_crop,g_faces:auto,h_800,q_auto:good,w_800,x_400,y_400/v1688330822/juan-orozco-com/seal-rescue/DSC05304.jpg"
+    alt="December 17th Seal Release"></a>
+  </div>
+  <div class="summary-content font-content-sans">
+    <a class="summary-title block font-semibold leading-tightly tracking-tightly text-2xl text-raven-800 hover:text-raven-900" href="/photography/release-2022-12-17/">December 17th Seal Release</a>
+    <a class="summary-excerpt mt-2 block font-normal leading-tight tracking-normal text-base text-raven-500 hover:text-raven-600" href="/photography/release-2022-12-17/">Yikes! Remember that these are wild animals and should be treated as such. Never pet or approach a wild animal. For more releases and the North Coast Marine Mammal Center, see...</a>
+    <aside class="summary-meta mt-6 font-normal leading-snug tracking-normal text-sm text-raven-500"><time datetime="2022-12-18T17:00:00Z">Dec 18, 2022 5:00PM</time></aside>
+  </div>
+</div>]]></content>
   </entry>
   <entry>
     <title>June 22nd Seal Release</title>
