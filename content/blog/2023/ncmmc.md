@@ -12,3 +12,6 @@ I really enjoy photographing the seal releases. I'm documenting the best photos 
 
 - [July 1st, 2023](/photography/release-2023-07-02/)
 - [June 22, 2023](/photography/release-2023-06-22/)
+- [June 17, 2023](/photography/release-2023-06-17/)
+- [May 2nd, 2023](/photography/release-2023-05-02/)
+- [December 17th, 2022](/photography/release-2022-12-17/)

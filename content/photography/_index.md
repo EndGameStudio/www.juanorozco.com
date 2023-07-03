@@ -1,3 +1,5 @@
 ---
 title: Photography
 ---
+
+# Galleries

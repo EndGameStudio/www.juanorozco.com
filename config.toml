@@ -13,7 +13,7 @@ summaryLength = 40
 enableRobotsTXT = true
 pluralizelisttitles = false
 footnoteReturnLinkContents = "&#8617;"
-paginate = 3
+paginate = 5
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
@@ -57,7 +57,7 @@ video = "video/upload/"
 
 [params.cloudinary.presets]
 base = "f_auto,q_auto/"
-page = "dpr_auto,c_scale,h_800,f_auto,q_auto:best,w_1200/"
+page = "dpr_auto,c_limit,h_800,f_auto,q_auto:best,w_800/"
 feature = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
 summary = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
 
@@ -145,7 +145,7 @@ weight = 2
 
 [[menu.foot]]
 url = "/blog/"
-name = "Archive"
+name = "Blog"
 weight = 1
 
 [[menu.foot]]
