@@ -18,14 +18,6 @@
     </div>
   </div>
 
-  {{- if .Params.feature }}
-  <div class="ax-feature ax-l-o">
-    <div class="ax-l-i{{ printf " %s" (.Params.maxWidthFeature | default "max-w-5xl") }}">
-      {{- partial "feature" . }}
-    </div>
-  </div>
-  {{- end -}}
-
   <div class="ax-content ax-l-o">
     <div class="ax-l-i{{ printf " %s" (.Params.maxWidthContent | default "max-w-680") }}">
       <article class="cdata">

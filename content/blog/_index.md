@@ -2,4 +2,4 @@
 title: Blog
 ---
 
-{{< recent-pages 5 >}}
+{{< recent-pages limit=5 sections="post" >}}

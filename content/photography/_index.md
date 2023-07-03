@@ -2,4 +2,4 @@
 title: Photography
 ---
 
-{{< recent-pages 5 >}}
+{{< recent-pages limit=5 sections="photography" >}}

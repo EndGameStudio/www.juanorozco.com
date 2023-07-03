@@ -18,5 +18,5 @@ title: Juan Orozco
 
 ## Latest Thoughts
 
-{{< recent-pages 3 >}}
+{{< recent-pages limit=5 sections="post" >}}
 {{< /blocks/section >}}

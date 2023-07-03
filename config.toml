@@ -21,7 +21,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 post = "/:year/:month/:slug/"
 
 [params]
-mainSections = ["post", "photography"]
+mainSections = ["post", "docs", "photography"]
 copyrightYear = 2022
 search = true
 
@@ -109,7 +109,7 @@ typographer = false
 unsafe = true
 [markup.goldmark.parser]
 attribute = false
-autoHeadingID = false
+autoHeadingID = true
 [markup.highlight]
 codeFences = false
 noClasses = false
