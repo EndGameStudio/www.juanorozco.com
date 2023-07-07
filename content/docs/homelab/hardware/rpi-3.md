@@ -7,5 +7,6 @@ I purchased some Raspberry Pi Zeros and a Cluster HAT. I wanted to learn Kuberne
 
 ### Previously used as...
 
+- OctoPi server
 - Home Assistant: Moved to Docker on the [Lenovo box](/docs/homelab/hardware/lenovo-m910q/)
 - Speedify networking device: The NIC and processor are just too slow to deliver a good connection.

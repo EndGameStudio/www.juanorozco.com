@@ -13,11 +13,12 @@ I started my Homelab unknowingly when I purchased my Synology NAS so I could sto
 
 ### Current gear
 
-- [Synology DS216J](/docs/homelab/hardware/synology-ds216j)
+- [Synology DS216J]({{< ref "/docs/homelab/hardware/synology-ds216j" >}})
   - Two WD Red 3 TB drives
-- [Lenovo m910q](/docs/homelab/hardware/lenovo-m910q)
-- [Raspberry Pi 3](/docs/homelab/hardware/rpi-3)
-- [Raspberry Pi 2](/docs/homelab/hardware/rpi-2)
+- [Lenovo m910q]({{< ref "/docs/homelab/hardware/lenovo-m910q" >}})
+- [Raspberry Pi 4]({{< ref "/docs/homelab/hardware/rpi-4" >}})
+- [Raspberry Pi 3 - Cluster]({{< ref "/docs/homelab/hardware/rpi-3" >}})
+- [Raspberry Pi 2]({{< ref "/docs/homelab/hardware/rpi-2" >}})
 
 ### Networking
 

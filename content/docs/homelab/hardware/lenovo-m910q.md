@@ -12,9 +12,9 @@ Running Proxmox, learning how to virtualize servers.
 
 ## Hardware Thoughts
 
-The cost of this device for what I got felt great. I feel a bit bummed out that the SSD drive tray was missing in this unit I think it will still last me a very long time. I can upgrade the CPU to a 7th gen, max out the ram to 32 GB, and, once I get an SSD tray, add another hard drive. I can't, unfortunately, add any PCI devices like another NIC.
+Purchased on eBay for a pretty good price, although it was missing the SSD drive tray. I can upgrade the CPU to a 7th gen, max out the ram to 32 GB, and, with the purchase of an SSD tray, add another hard drive. No ability to add other cards like a NIC, though.
 
-> I understand that the M920 has a PCI port that accepts some uprades and it also has USB-C ports. That might be a better option although a bit more expensive.
+> I understand that the M920 has a PCI port that accepts some uprades and it also has USB-C ports.
 
 Things to upgrade:
 
