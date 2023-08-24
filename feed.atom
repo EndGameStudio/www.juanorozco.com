@@ -1,15 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
   <title>Juan Orozco</title>
-  <subtitle>Wonderer and Wanderer Love spending time with my wife, kids, and pets. Senior Full Stack Engineer, looking for a new role! Photography Hobbyist Sorta put thoughts on paper in a coherent way. Latest Thoughts NCMMC North Coast Marine Mammal Center promotes conservation through rescue and rehab in Crescent City, California.</subtitle>
+  <subtitle>Wonderer and Wanderer Love spending time with my wife, kids, and pets. Senior Full Stack Engineer, looking for a new role! Photography Hobbyist Sorta put thoughts on paper in a coherent way. Latest Thoughts Long Term Power Outage Using a Raspberry Pi as a DNS server is not a good idea.</subtitle>
   <id>https://www.juanorozco.com/</id>
   <author>
     <name>Juan Orozco</name>
     <uri>https://www.juanorozco.com/</uri>
   </author>
-  <updated>2023-07-07T17:01:57Z</updated>
+  <updated>2023-08-24T06:29:04Z</updated>
   <link rel="self" type="application/atom+xml" href="https://www.juanorozco.com/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://www.juanorozco.com/" hreflang="en-us"/>
+  <entry>
+    <title>Long Term Power Outage</title>
+    <author>
+      <name>Juan Orozco</name>
+      <uri>https://juanorozco.com/</uri>
+    </author>
+    <id>https://www.juanorozco.com/blog/2023/long-term-power-outage/</id>
+    <updated>2023-08-24T04:53:00Z</updated>
+    <published>2023-08-24T04:53:00Z</published>
+    <content type="html"><![CDATA[<p>Using a Raspberry Pi as a DNS server is not a good idea. Most computers have an internal clock, or a &quot;Real Time Clock&quot;. <strong>Pi's don't.</strong> So, say a natural disaster leads to an extended power outage, the iternal clock will be off and that can cause some fun DNS issues.</p>
+<p>&quot;So? Just update the clock,&quot; I hear. Well, yea, that's what I ended up doing ... once we got power back after four days. The problem is, though, that when local DNS goes down for the family internet, people are liable to get realy grumpy. <em>Especially</em> after already dealing with no power, no hot water, and no internet.</p>
+<div class="flex items-center justify-center font-content-sans rounded bg-blue-100 px-4 py-4" role="alert">
+  <span class="text-xs font-bold uppercase leading-none rounded-full text-blue-100 bg-blue-500 px-2 py-1 mr-3">Hrm...</span>
+  <span class="font-semibold text-blue-700">There are people that have lost homes and more in the recent fires. I don't mean to compare my silly DNS issues to their pain; this is just something I would like to document with a lighthearted story and I hope everyone affected is safe and sound.</span>
+</div>
+
+<p>Local disaster relief efforts located industrial generators that are no powering our small town. Once they turned the grid back on, I was able to reboot all my hardware. That's when I found that all requests to the internet were failing.</p>
+<h2 id="identifying-the-problem">Identifying the problem</h2>
+<p>The first thing I did was check the logs in the Starlink advanced tab - it reported that it could access the internet. I then checked my router and pinged google, also good. That's when I knew the issue was with Pihole and DNS.</p>
+<p>I changed the DNS server on my machine to Google's DNS, <code>8.8.8.8</code> and the internet started to work again! I made the change at the router and restarted everything again. At this point, I wasn't sure why the Pi was failing to resolve DNS but to make sure my kids didn't revolt on me, I just went ahead and got things working.</p>
+<p>Once that was back up, I could now spend the time to investigate why Pihole was acting up. I've had issues with DNS servers having the wrong clock before and this felt very familiar.</p>
+<p>I ssh'd into the Pi and checked its current time by running <code>date</code>. The power was cut on the 18th around 4:30 pm pacific time and that's exactly what the Pi was reporting as the current time.</p>
+<h2 id="fixing-the-problem">Fixing the problem</h2>
+<p>I made sure that timezone was correct by using <code>raspi-config</code> and then tried to run an update. <code>update</code> failed with an odd message - again, making me feel like the time was the issue. So, I went ahead and overwrote the Pi's time:</p>
+<pre><code class="language-shell"># Turn off ntpupdate first otherwise set-time will fail
+sudo timedatectl set-ntp no
+sudo timedatectl set-time “2023-08-23 20:15:00”
+sudo timedatectl set-ntp yes
+</code></pre>
+<p>With this done, I ran update for Raspbian, updated Pihole, and added it back to my computer's DNS server. Et viola, it worked again!</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>It's really interesting running into this problem - we don't really get power outages that last more than a few hours now-a-days. If the clock was off by a few hours, it probably would have been fine. Being off by days wreaked a lot of havoc on my home network. My TP-Link Deco's, for example, without DNS, would not load the Deco app. I love my Deco's but that was really frustrating to see &quot;Deco not found&quot;.</p>
+<p>A Raspberry Pi, especially an old Pi 2, makes for a great DNS widget and since the power grid is mostly robust, the lack of a Real Time Clock isn't always a problem. Still, being able to <a href="#fixing-the-problem">quickly fix the time</a> or maybe adding one of <a href="https://learn.adafruit.com/adding-a-real-time-clock-to-raspberry-pi/overview">these RTC modules</a> would prevent this issue in the future.</p>]]></content>
+  </entry>
   <entry>
     <title>July 2nd Seal Release</title>
     <author>
@@ -2343,16 +2377,5 @@ src="https://res.cloudinary.com/deo07tbou/image/upload/dpr_auto,c_limit,h_800,f_
 <p>First, and probably most important, never dismiss their thoughts and opinions.  It’s hard enough to think of new and exciting ideas by yourself, why would you block possible inspiration?  Hear them out to the end, tell them you’ll take it under consideration and then ACTUALLY consider their ideas.  Whether the ideas get used or not depends on the project, but one must always be open to outside influences lest become stale.</p>
 <p>Second, although these clients are considered coworkers, they still require your services.  Treating everyone with the same respect will go a long way professionally and personally.  Also, getting tasks done is easier and, dare I say, enjoyable when people are in friendlier moods. So, speak respectfully, regardless of how little they know about the service you offer.  Our job is to filter through their request and find the problems and solutions, that means understanding the client too.</p>
 <p>I know customers/clients can be a pain and I’m not below making fun of some of the silly ones, or talking a little smack about the aggravating ones (not in public, ever.).  I still respect them - in the end it’s their requests that keeps me working.</p>]]></content>
-  </entry>
-  <entry>
-    <title>Giggidy</title>
-    <author>
-      <name>Juan Orozco</name>
-      <uri>https://juanorozco.com/</uri>
-    </author>
-    <id>https://www.juanorozco.com/2011/04/07/giggidy/</id>
-    <updated>2011-04-07T22:55:01Z</updated>
-    <published>2011-04-07T22:55:01Z</published>
-    <content type="html"><![CDATA[<p><a href="http://juanthedesigner.files.wordpress.com/2011/04/20110407-075438.jpg?w=580"><img src="http://juanthedesigner.files.wordpress.com/2011/04/20110407-075438.jpg?w=580" alt="20110407-075438.jpg" class="alignnone size-full" data-recalc-dims="1" /></a></p>]]></content>
   </entry>
 </feed>
