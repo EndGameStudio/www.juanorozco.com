@@ -10,10 +10,7 @@ amazonS3_cache: []
 
 <img src="https://i0.wp.com/en.gravatar.com/userimage/8033531/88372deb53ce1bd8c2a3740c226fb9a9.jpg?w=580&ssl=1" alt="Juan" data-recalc-dims="1" />
 
-Last updated: Jun 3, 2023.
+Last updated: Aug 23, 2023.
 
-- **Ex-Shortcut Engineer**: [Recently laid off](/blog/2023/free-agent/) from my role at Shortcut, [looking](https://www.linkedin.com/in/juan-orozco/) for that next adventure!
-- **Photography**: Really proud of [this photo I took at Pebble Beach](/blog/2022/pebble-beach/) in Crescent City, CA.
-- **Nomadic but parked**: We're currently parked in Northern California hiding in the old tall trees.
-- **Self Hosting and Home Networking**: I recently bought a micro PC and install Docker on it. I've recently been into Self Hosting and Home Networking. I'm starting to document my experiments and ideas in [Docs](/docs/homelab/).
-- **Steam Gaming**: This is the year that I got back into gaming. Find [me on Steam](https://steamcommunity.com/id/exitzaero/)!
+- **Senior Frontend Engineer**: Although [recently laid off](/blog/2023/free-agent/) from my role at Shortcut, I found a new role working at Forward Networks!
+- **Smith River Fire Complex**: We are currently far from harm but the large fire currently known as the Smith River Fire Complex has forced us to experience our first disaster living in the Pacific Northwest. We're no stranger to fires or disasters in general - growing up in southern California and living on the east coast for over 15 years, we have definitely seen some shit. Still, we've never been without power for this long.
