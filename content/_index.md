@@ -7,7 +7,7 @@ title: Juan Orozco
 ## Wonderer and Wanderer
 
 - Love spending time with my **wife, kids, and pets**.
-- Senior Full Stack Engineer, [looking for a new role](/blog/2023/free-agent/)!
+- Staff Frontend Engineer building design systems!
 - [**Photography**](/photography) Hobbyist
 - Sorta put [thoughts on paper](/blog) in a coherent way.
 

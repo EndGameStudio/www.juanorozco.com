@@ -12,5 +12,5 @@ amazonS3_cache: []
 
 Last updated: Aug 23, 2023.
 
-- **Senior Frontend Engineer**: Although [recently laid off](/blog/2023/free-agent/) from my role at Shortcut, I found a new role working at Forward Networks!
-- **Smith River Fire Complex**: We are currently far from harm but the large fire currently known as the Smith River Fire Complex has forced us to experience our first disaster living in the Pacific Northwest. We're no stranger to fires or disasters in general - growing up in southern California and living on the east coast for over 15 years, we have definitely seen some shit. Still, we've never been without power for this long.
+- **Staff Frontend Engineer**: Although [laid off earlier this year](/blog/2023/free-agent/), I have landed a new role at Act Blue where I'll help build out their Design System!
+- I've been volunteering at the local group that cares for one of our two lighthouses. I've been updating [the website](https://www.saintgeorgereeflight.org/) and helping them spread the word about their preservation efforts.
