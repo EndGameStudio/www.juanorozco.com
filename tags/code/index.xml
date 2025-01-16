@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on Juan Orozco</title>
+    <link>https://www.juanorozco.com/tags/code/</link>
+    <description>Recent content in Code on Juan Orozco</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Jan 2011 18:17:21 +0000</lastBuildDate>
+    <atom:link href="https://www.juanorozco.com/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quicky Note – I made a webapp!</title>
+      <link>https://www.juanorozco.com/2011/01/27/quicky-note-i-made-a-webapp/</link>
+      <pubDate>Thu, 27 Jan 2011 18:17:21 +0000</pubDate>
+      <guid>https://www.juanorozco.com/2011/01/27/quicky-note-i-made-a-webapp/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://flitterize.com/quickynote/&#34;&gt;&lt;img class=&#34;alignleft&#34; src=&#34;https://i1.wp.com/flitterize.com/quickynote/iphone-icon.png?resize=57%2C57&#34; alt=&#34;&#34; width=&#34;57&#34; height=&#34;57&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;/a&gt;A few weeks ago I wrote down some notes on a Post-it note at my desk. When I got up, I stuck the notes to my phone so I wouldn&#39;t forget to take them with me.  I use Evernote extensively, so I felt a little silly when i went to pick up my phone.  But then i actually gave it some though, why didn&#39;t I type my note into Evernote, or some other note taking app on my phone?  The answer came quickly, because they are just to darn slow!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

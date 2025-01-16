@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weather on Juan Orozco</title>
+    <link>https://www.juanorozco.com/tags/weather/</link>
+    <description>Recent content in Weather on Juan Orozco</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Jul 2008 12:57:57 +0000</lastBuildDate>
+    <atom:link href="https://www.juanorozco.com/tags/weather/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lightning is cool</title>
+      <link>https://www.juanorozco.com/2008/07/10/lightning-is-cool/</link>
+      <pubDate>Thu, 10 Jul 2008 12:57:57 +0000</pubDate>
+      <guid>https://www.juanorozco.com/2008/07/10/lightning-is-cool/</guid>
+      <description>&lt;p&gt;Last night we had a CRAZY storm.   HUGE.   I&#39;ve noticed when we get storms, they come out of nowhere, pour down gallons of water, and then leave within minutes.   The only evidence of a storm is steam coming off the street.   Every now and then they&#39;ll throw a little lightning, but usually, just rain.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

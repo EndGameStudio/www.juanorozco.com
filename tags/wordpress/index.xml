@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress on Juan Orozco</title>
+    <link>https://www.juanorozco.com/tags/wordpress/</link>
+    <description>Recent content in Wordpress on Juan Orozco</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Jun 2010 02:57:39 +0000</lastBuildDate>
+    <atom:link href="https://www.juanorozco.com/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Upgraded WordPress to 3.0. Not as painle…</title>
+      <link>https://www.juanorozco.com/2010/06/17/upgraded-wordpress-to-3-0-not-as-painle/</link>
+      <pubDate>Fri, 18 Jun 2010 02:57:39 +0000</pubDate>
+      <guid>https://www.juanorozco.com/2010/06/17/upgraded-wordpress-to-3-0-not-as-painle/</guid>
+      <description>&lt;p&gt;Upgraded WordPress to 3.0. Not as painless as some have said but I think mine was an especially weird case.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Post WordCamp RDU Thoughts.</title>
+      <link>https://www.juanorozco.com/2009/06/14/post-wordcamp-rdu-thoughts/</link>
+      <pubDate>Mon, 15 Jun 2009 03:02:51 +0000</pubDate>
+      <guid>https://www.juanorozco.com/2009/06/14/post-wordcamp-rdu-thoughts/</guid>
+      <description>&lt;figure style=&#34;width: 240px&#34; class=&#34;wp-caption alignleft&#34;&gt;&lt;img title=&#34;WordPress cake&#34; src=&#34;https://i1.wp.com/farm4.static.flickr.com/3538/3622048739_3c38050318_m.jpg?resize=240%2C180&#34; alt=&#34;WordPress is a piece of cake. XD&#34; width=&#34;240&#34; height=&#34;180&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;figcaption class=&#34;wp-caption-text&#34;&gt;WordPress is a piece of cake. XD&lt;/figcaption&gt;&lt;/figure&gt;&#xA;&lt;p&gt;Yesterday was &lt;a href=&#34;http://wordcamprdu.com/2009/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;WordCamp RDU&lt;/a&gt; at NCCU&#39;s School of Education.  Being my first Camp of any kind, the night before I searched for ideas and tips on &lt;a href=&#34;http://themeplayground.com/2009/community/wordcamp-prep/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;what I should prepare&lt;/a&gt; for.  The first article I found had three basic points.  The most important to me was something I didn&#39;t think of: be prepared with questions for the speaker.  I knew I would get to ask questions, but I didn&#39;t think to have them prepared beforehand.  It&#39;s the simple things that we miss.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Online Web Apps for private journaling.</title>
+      <link>https://www.juanorozco.com/2009/06/10/online-web-apps-for-private-journalling/</link>
+      <pubDate>Thu, 11 Jun 2009 03:19:34 +0000</pubDate>
+      <guid>https://www.juanorozco.com/2009/06/10/online-web-apps-for-private-journalling/</guid>
+      <description>&lt;p&gt;I&#39;ve started up my personal journal again.  (Yes, I am writing a diary...)  Only this time, I thought I&#39;d try a virtual journal in the hopes that I would continue writing in it longer than a few months.  I enjoy writing and chronicling my thoughts, but writing in a book never worked out for me.  I would jot down my thoughts and ideas more often if I could write from anywhere and anytime.  What better way to write on the go than with my iPhone?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hacking WordPress shortened links and Twitter Tools</title>
+      <link>https://www.juanorozco.com/2009/06/01/hacking-wordpress-shortened-links-and-twitter-tools/</link>
+      <pubDate>Mon, 01 Jun 2009 17:22:04 +0000</pubDate>
+      <guid>https://www.juanorozco.com/2009/06/01/hacking-wordpress-shortened-links-and-twitter-tools/</guid>
+      <description>&lt;p&gt;This shortened URL business really has gotten out of hand.  &lt;a href=&#34;http://www.morningtoast.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Morning Toast&lt;/a&gt; &lt;a href=&#34;http://www.morningtoast.com/2009/05/why-tiny-urls-change-how-we-design/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;wrote a rant&lt;/a&gt; about it a few days ago and it got me thinking about their usefulness.  He also twittered about &lt;a href=&#34;http://www.flickr.com/groups/flickrideas/discuss/72157616526758077/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Flickr&#39;s own URL shortener&lt;/a&gt; as well.  Although Flickr uses a different domain name for these shortened URLs, the link is still obvious about it&#39;s context; it is a Flickr image.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

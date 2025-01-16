@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Juan Orozco</title>
+    <link>https://www.juanorozco.com/categories/blog/</link>
+    <description>Recent content in Blog on Juan Orozco</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Aug 2023 21:53:00 -0700</lastBuildDate>
+    <atom:link href="https://www.juanorozco.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Long Term Power Outage</title>
+      <link>https://www.juanorozco.com/blog/2023/long-term-power-outage/</link>
+      <pubDate>Wed, 23 Aug 2023 21:53:00 -0700</pubDate>
+      <guid>https://www.juanorozco.com/blog/2023/long-term-power-outage/</guid>
+      <description>&lt;p&gt;Using a Raspberry Pi as a DNS server is not a good idea. Most computers have an internal clock, or a &amp;quot;Real Time Clock&amp;quot;. &lt;strong&gt;Pi&#39;s don&#39;t.&lt;/strong&gt; So, say a natural disaster leads to an extended power outage, the iternal clock will be off and that can cause some fun DNS issues.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

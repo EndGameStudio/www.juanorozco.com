@@ -1,20 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.juanorozco.com/blog/2023/</loc>
-    <lastmod>2023-08-24T04:53:00Z</lastmod>
+    <loc>https://www.juanorozco.com/blog/2024/</loc>
+    <lastmod>2024-01-20T03:00:00Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/blog/</loc>
-    <lastmod>2023-08-24T04:53:00Z</lastmod>
+    <lastmod>2024-01-20T03:00:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/index/</loc>
+    <lastmod>2024-01-20T03:00:00Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/</loc>
+    <lastmod>2024-01-20T03:00:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/blog/2023/</loc>
+    <lastmod>2023-12-31T18:30:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/categories/blog/</loc>
+    <lastmod>2023-08-24T04:53:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/categories/homelab/</loc>
     <lastmod>2023-08-24T04:53:00Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/blog/2023/long-term-power-outage/</loc>
     <lastmod>2023-08-24T04:53:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/categories/animals/</loc>
+    <lastmod>2023-07-02T17:05:41Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/photography/release-2023-07-02/</loc>
@@ -41,6 +61,14 @@
     <lastmod>2023-05-08T15:00:00Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/categories/journal/</loc>
+    <lastmod>2023-05-08T15:00:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/categories/work/</loc>
+    <lastmod>2023-05-08T15:00:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/photography/release-2023-05-02/</loc>
     <lastmod>2023-05-02T17:00:00Z</lastmod>
   </url>
@@ -49,11 +77,19 @@
     <lastmod>2023-03-13T05:05:41Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/categories/thoughts/</loc>
+    <lastmod>2023-03-13T05:05:41Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/blog/2022/</loc>
     <lastmod>2022-12-20T22:05:41Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/blog/2022/pebble-beach/</loc>
+    <lastmod>2022-12-20T22:05:41Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/categories/photography/</loc>
     <lastmod>2022-12-20T22:05:41Z</lastmod>
   </url>
   <url>
@@ -93,7 +129,19 @@
     <lastmod>2020-01-23T22:05:41Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/productivity/</loc>
+    <lastmod>2020-01-23T22:05:41Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/blog/2019/</loc>
+    <lastmod>2019-11-30T00:00:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/categories/quote/</loc>
+    <lastmod>2019-09-16T03:20:27Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/quotes/</loc>
     <lastmod>2019-09-16T03:20:27Z</lastmod>
   </url>
   <url>
@@ -102,6 +150,10 @@
   </url>
   <url>
     <loc>https://www.juanorozco.com/2019/08/05/anker-usb-c-charger/</loc>
+    <lastmod>2019-08-06T01:08:07Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/categories/reviews/</loc>
     <lastmod>2019-08-06T01:08:07Z</lastmod>
   </url>
   <url>
@@ -117,6 +169,10 @@
     <lastmod>2019-07-11T00:08:50Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/categories/uncategorized/</loc>
+    <lastmod>2019-07-11T00:08:50Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2019/05/22/puppies/</loc>
     <lastmod>2019-05-23T00:15:40Z</lastmod>
   </url>
@@ -125,16 +181,40 @@
     <lastmod>2019-03-16T04:21:00Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/failure/</loc>
+    <lastmod>2019-03-09T04:23:38Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2019/03/08/what-is-introspection/</loc>
     <lastmod>2019-03-09T04:23:38Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/movies/</loc>
+    <lastmod>2019-02-28T03:36:50Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2019/02/27/quick-movie-reviews-annihilation-and-automata/</loc>
     <lastmod>2019-02-28T03:36:50Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/reviews/</loc>
+    <lastmod>2019-02-28T03:36:50Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2019/02/08/burn-out/</loc>
     <lastmod>2019-02-08T12:34:33Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/blood-moon/</loc>
+    <lastmod>2019-01-22T15:33:31Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/lunar-eclipse/</loc>
+    <lastmod>2019-01-22T15:33:31Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/photography/</loc>
+    <lastmod>2019-01-22T15:33:31Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2019/01/22/wolf-blood-moon/</loc>
@@ -153,8 +233,16 @@
     <lastmod>2018-11-11T16:34:34Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/journal/</loc>
+    <lastmod>2018-11-11T16:34:34Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2018/11/11/veterans-day/</loc>
     <lastmod>2018-11-11T16:34:34Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/photoblog/</loc>
+    <lastmod>2018-01-21T05:15:27Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2018/01/21/snowpocalypse-2018/</loc>
@@ -165,8 +253,16 @@
     <lastmod>2017-12-11T15:00:00Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/builds/</loc>
+    <lastmod>2017-12-11T15:00:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2017/12/11/builds-cat-condo-and-laptop-stand/</loc>
     <lastmod>2017-12-11T15:00:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/philosophy/</loc>
+    <lastmod>2017-01-29T05:20:14Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2017/01/29/the-four-way-test/</loc>
@@ -185,6 +281,10 @@
     <lastmod>2016-05-30T02:33:00Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/things/</loc>
+    <lastmod>2016-05-30T02:33:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2016/05/28/i-heart-pens/</loc>
     <lastmod>2016-05-28T04:17:33Z</lastmod>
   </url>
@@ -197,11 +297,19 @@
     <lastmod>2015-10-29T03:27:13Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/minddump/</loc>
+    <lastmod>2015-10-29T03:27:13Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2015/09/27/balloon/</loc>
     <lastmod>2015-09-27T02:01:00Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2015/09/07/affogato/</loc>
+    <lastmod>2015-09-07T01:55:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/food/</loc>
     <lastmod>2015-09-07T01:55:00Z</lastmod>
   </url>
   <url>
@@ -257,6 +365,10 @@
     <lastmod>2015-04-07T17:33:52Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/fitness/</loc>
+    <lastmod>2015-04-07T17:33:52Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2015/02/16/iterations-of-life/</loc>
     <lastmod>2015-02-16T03:36:48Z</lastmod>
   </url>
@@ -302,6 +414,10 @@
   </url>
   <url>
     <loc>https://www.juanorozco.com/blog/2013/</loc>
+    <lastmod>2013-12-15T15:30:04Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/categories/link/</loc>
     <lastmod>2013-03-16T01:47:58Z</lastmod>
   </url>
   <url>
@@ -309,11 +425,47 @@
     <lastmod>2013-03-16T01:47:58Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/flickr/</loc>
+    <lastmod>2013-03-08T23:49:50Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/ifttt/</loc>
+    <lastmod>2013-03-08T23:49:50Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/lego/</loc>
+    <lastmod>2013-03-08T23:49:50Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/moleskine/</loc>
+    <lastmod>2013-03-08T23:49:50Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/categories/photoblog/</loc>
+    <lastmod>2013-03-08T23:49:50Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2013/03/08/photoblog-looked-bigger-on-amazon-photo/</loc>
     <lastmod>2013-03-08T23:49:50Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/plain/</loc>
+    <lastmod>2013-03-08T23:49:50Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/chorizo/</loc>
+    <lastmod>2013-03-02T17:06:44Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/eggs/</loc>
+    <lastmod>2013-03-02T17:06:44Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2013/03/02/photoblog-breakfast-for-lunch/</loc>
+    <lastmod>2013-03-02T17:06:44Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/tg/</loc>
     <lastmod>2013-03-02T17:06:44Z</lastmod>
   </url>
   <url>
@@ -321,19 +473,59 @@
     <lastmod>2013-01-27T04:03:42Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/categories/to-done/</loc>
+    <lastmod>2013-01-27T04:03:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/ninja-run/</loc>
+    <lastmod>2013-01-27T03:47:57Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2013/01/26/the-ninja-challenge-obstacle-5k/</loc>
     <lastmod>2013-01-27T03:47:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/commitment-day/</loc>
+    <lastmod>2013-01-27T03:34:35Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2013/01/26/commitment-day-5k/</loc>
     <lastmod>2013-01-27T03:34:35Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/running/</loc>
+    <lastmod>2013-01-27T03:34:35Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/5k/</loc>
+    <lastmod>2013-01-27T02:57:51Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2013/01/26/color-mania-5k/</loc>
     <lastmod>2013-01-27T02:57:51Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/color-run/</loc>
+    <lastmod>2013-01-27T02:57:51Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/outdoors/</loc>
+    <lastmod>2013-01-27T02:57:51Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/flickriosappfilternofilter/</loc>
+    <lastmod>2013-01-22T19:30:08Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/pencil/</loc>
+    <lastmod>2013-01-22T19:30:08Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2013/01/22/photoblog-pencils/</loc>
+    <lastmod>2013-01-22T19:30:08Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/uploadedbyflickrmobile/</loc>
     <lastmod>2013-01-22T19:30:08Z</lastmod>
   </url>
   <url>
@@ -345,8 +537,28 @@
     <lastmod>2012-11-23T02:00:32Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/categories/post/</loc>
+    <lastmod>2012-11-23T02:00:32Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2012/09/23/i-just-heard-th/</loc>
     <lastmod>2012-09-23T19:25:48Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/categories/status/</loc>
+    <lastmod>2012-09-23T19:25:48Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/iphone/</loc>
+    <lastmod>2012-09-01T15:09:40Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/iphoneography/</loc>
+    <lastmod>2012-09-01T15:09:40Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/iphonography/</loc>
+    <lastmod>2012-09-01T15:09:40Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2012/09/01/photoblog-microwave-poached-eggs/</loc>
@@ -361,11 +573,39 @@
     <lastmod>2012-08-25T15:53:17Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/dropbox/</loc>
+    <lastmod>2012-08-08T02:37:39Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/revision/</loc>
+    <lastmod>2012-08-08T02:37:39Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/software-development/</loc>
+    <lastmod>2012-08-08T02:37:39Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/source-control/</loc>
+    <lastmod>2012-08-08T02:37:39Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2012/08/07/using-dropbox-for-versioning/</loc>
     <lastmod>2012-08-08T02:37:39Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/versioning/</loc>
+    <lastmod>2012-08-08T02:37:39Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2012/07/29/tactus-technology-can-make-physical-buttons-rise-up-out-of-touchscreens-core77/</loc>
+    <lastmod>2012-07-30T01:01:52Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/technology/</loc>
+    <lastmod>2012-07-30T01:01:52Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/usability/</loc>
     <lastmod>2012-07-30T01:01:52Z</lastmod>
   </url>
   <url>
@@ -381,6 +621,18 @@
     <lastmod>2012-06-06T23:57:16Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/notebook/</loc>
+    <lastmod>2012-06-06T23:57:16Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/project/</loc>
+    <lastmod>2012-06-06T23:57:16Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/volant/</loc>
+    <lastmod>2012-06-06T23:57:16Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2012/05/18/moleskine-through-an-olloclip/</loc>
     <lastmod>2012-05-18T23:41:10Z</lastmod>
   </url>
@@ -393,8 +645,40 @@
     <lastmod>2012-05-10T02:23:12Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/five-finger/</loc>
+    <lastmod>2012-04-24T03:21:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/kso/</loc>
+    <lastmod>2012-04-24T03:21:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/mud-run/</loc>
+    <lastmod>2012-04-24T03:21:57Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2012/04/23/my-first-5k-mud-run/</loc>
     <lastmod>2012-04-24T03:21:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/rugged-maniac/</loc>
+    <lastmod>2012-04-24T03:21:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/trail/</loc>
+    <lastmod>2012-04-24T03:21:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/vibram/</loc>
+    <lastmod>2012-04-24T03:21:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/mud/</loc>
+    <lastmod>2012-04-22T01:01:51Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/shoes/</loc>
+    <lastmod>2012-04-22T01:01:51Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2012/04/21/vibrant-after-rugged-maniac/</loc>
@@ -409,11 +693,31 @@
     <lastmod>2012-04-07T20:54:45Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/paper-quality/</loc>
+    <lastmod>2012-04-07T20:54:45Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/rant/</loc>
+    <lastmod>2012-04-07T20:54:45Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2012/03/21/lego-moleskine/</loc>
     <lastmod>2012-03-21T16:57:30Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/industrial-design/</loc>
+    <lastmod>2012-03-04T20:05:24Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/little-printer/</loc>
+    <lastmod>2012-03-04T20:05:24Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2012/03/04/little-printer-almost-a-personal-thermal-printer/</loc>
+    <lastmod>2012-03-04T20:05:24Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/product/</loc>
     <lastmod>2012-03-04T20:05:24Z</lastmod>
   </url>
   <url>
@@ -425,6 +729,14 @@
     <lastmod>2011-12-10T18:37:05Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/podcasts/</loc>
+    <lastmod>2011-12-10T18:37:05Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/tv/</loc>
+    <lastmod>2011-12-10T18:37:05Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2011/11/24/screenshot-itunes-match/</loc>
     <lastmod>2011-11-24T18:44:42Z</lastmod>
   </url>
@@ -433,7 +745,27 @@
     <lastmod>2011-10-31T00:19:08Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/autonomy/</loc>
+    <lastmod>2011-10-31T00:19:08Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/cars/</loc>
+    <lastmod>2011-10-31T00:19:08Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/design/</loc>
+    <lastmod>2011-10-31T00:19:08Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/random-thought/</loc>
+    <lastmod>2011-10-31T00:19:08Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2011/10/09/late-hours-on-the-computer/</loc>
+    <lastmod>2011-10-09T13:04:44Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/morning/</loc>
     <lastmod>2011-10-09T13:04:44Z</lastmod>
   </url>
   <url>
@@ -445,6 +777,18 @@
     <lastmod>2011-09-26T03:00:48Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/nanowrimo/</loc>
+    <lastmod>2011-09-26T03:00:48Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/poll/</loc>
+    <lastmod>2011-09-26T03:00:48Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/kids/</loc>
+    <lastmod>2011-09-25T22:52:02Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2011/09/25/the-miyazaki-effect/</loc>
     <lastmod>2011-09-25T22:52:02Z</lastmod>
   </url>
@@ -453,19 +797,63 @@
     <lastmod>2011-09-25T01:12:54Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/short/</loc>
+    <lastmod>2011-09-25T01:12:54Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/space/</loc>
+    <lastmod>2011-09-25T01:12:54Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2011/09/17/door-stop-its-the-little-things/</loc>
     <lastmod>2011-09-17T05:24:49Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/blueprints/</loc>
+    <lastmod>2011-08-08T01:41:36Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/book/</loc>
+    <lastmod>2011-08-08T01:41:36Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2011/08/07/droool-nerd-blueprints/</loc>
     <lastmod>2011-08-08T01:41:36Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/star-wars/</loc>
+    <lastmod>2011-08-08T01:41:36Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/children/</loc>
+    <lastmod>2011-08-02T00:04:12Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2011/08/01/socializing-socialness-with-a-watch/</loc>
     <lastmod>2011-08-02T00:04:12Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/toy/</loc>
+    <lastmod>2011-08-02T00:04:12Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/watch/</loc>
+    <lastmod>2011-08-02T00:04:12Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/dreamworks/</loc>
+    <lastmod>2011-06-26T00:51:13Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2011/06/25/dreamworks-pixar-and-storytelling/</loc>
+    <lastmod>2011-06-26T00:51:13Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/opinion/</loc>
+    <lastmod>2011-06-26T00:51:13Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/pixar/</loc>
     <lastmod>2011-06-26T00:51:13Z</lastmod>
   </url>
   <url>
@@ -473,8 +861,32 @@
     <lastmod>2011-06-25T18:05:15Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/clouds/</loc>
+    <lastmod>2011-05-20T18:43:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/endeavour/</loc>
+    <lastmod>2011-05-20T18:43:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/shuttle/</loc>
+    <lastmod>2011-05-20T18:43:28Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2011/05/20/view-of-endeavors-launch/</loc>
     <lastmod>2011-05-20T18:43:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/game/</loc>
+    <lastmod>2011-05-10T00:48:38Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/screenshot/</loc>
+    <lastmod>2011-05-10T00:48:38Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/warcraft/</loc>
+    <lastmod>2011-05-10T00:48:38Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2011/05/09/warcraft-3-oh-yea/</loc>
@@ -483,6 +895,22 @@
   <url>
     <loc>https://www.juanorozco.com/2011/04/20/the-cat-5e-diet/</loc>
     <lastmod>2011-04-20T18:49:10Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/customer-service/</loc>
+    <lastmod>2011-04-15T03:02:50Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/internal-clients/</loc>
+    <lastmod>2011-04-15T03:02:50Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/support/</loc>
+    <lastmod>2011-04-15T03:02:50Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/tips/</loc>
+    <lastmod>2011-04-15T03:02:50Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2011/04/14/working-for-internal-clients/</loc>
@@ -497,7 +925,15 @@
     <lastmod>2011-04-02T18:05:52Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/foursquare/</loc>
+    <lastmod>2011-03-26T12:40:43Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2011/03/26/i-do-not-think-it-means-what-you-think-it-means/</loc>
+    <lastmod>2011-03-26T12:40:43Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/wait-what/</loc>
     <lastmod>2011-03-26T12:40:43Z</lastmod>
   </url>
   <url>
@@ -505,12 +941,60 @@
     <lastmod>2011-03-21T20:34:09Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/wallpaper/</loc>
+    <lastmod>2011-03-21T20:34:09Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/workspace/</loc>
+    <lastmod>2011-03-21T20:34:09Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/bored/</loc>
+    <lastmod>2011-03-21T15:17:46Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2011/03/21/mouse-surfing/</loc>
     <lastmod>2011-03-21T15:17:46Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/office/</loc>
+    <lastmod>2011-03-21T15:17:46Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/toad/</loc>
+    <lastmod>2011-03-21T15:17:46Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/blockbuster/</loc>
+    <lastmod>2011-03-20T16:49:18Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/business/</loc>
+    <lastmod>2011-03-20T16:49:18Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2011/03/20/on-blockbuster/</loc>
     <lastmod>2011-03-20T16:49:18Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/app/</loc>
+    <lastmod>2011-03-18T00:32:53Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/ios/</loc>
+    <lastmod>2011-03-18T00:32:53Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/shoutcast/</loc>
+    <lastmod>2011-03-18T00:32:53Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/ui/</loc>
+    <lastmod>2011-03-18T00:32:53Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/ux/</loc>
+    <lastmod>2011-03-18T00:32:53Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2011/03/17/what-does-that-slider-do/</loc>
@@ -525,7 +1009,27 @@
     <lastmod>2011-03-14T00:14:07Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/video/</loc>
+    <lastmod>2011-03-14T00:14:07Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/zelda/</loc>
+    <lastmod>2011-03-14T00:14:07Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/architecture/</loc>
+    <lastmod>2011-03-10T17:24:02Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2011/03/10/i-love-slides/</loc>
+    <lastmod>2011-03-10T17:24:02Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/interior/</loc>
+    <lastmod>2011-03-10T17:24:02Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/slide/</loc>
     <lastmod>2011-03-10T17:24:02Z</lastmod>
   </url>
   <url>
@@ -533,23 +1037,79 @@
     <lastmod>2011-03-06T23:25:01Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/imagination/</loc>
+    <lastmod>2011-03-06T23:25:01Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/kids-room/</loc>
+    <lastmod>2011-03-06T23:25:01Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/pirates.-interior-design/</loc>
+    <lastmod>2011-03-06T23:25:01Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2011/03/06/ikea-hack-slide-projector-perhaps-more/</loc>
     <lastmod>2011-03-06T22:16:12Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/home/</loc>
+    <lastmod>2011-03-06T21:48:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/shipping-container/</loc>
+    <lastmod>2011-03-06T21:48:28Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2011/03/06/shipping-container-home-blue-guest-house/</loc>
     <lastmod>2011-03-06T21:48:28Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/hack/</loc>
+    <lastmod>2011-03-06T21:44:07Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2011/03/06/its-like-urban-bonsai/</loc>
     <lastmod>2011-03-06T21:44:07Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/planter/</loc>
+    <lastmod>2011-03-06T21:44:07Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/plants/</loc>
+    <lastmod>2011-03-06T21:44:07Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/books/</loc>
+    <lastmod>2011-03-06T18:53:44Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/chess/</loc>
+    <lastmod>2011-03-06T18:53:44Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2011/03/06/chess-problems/</loc>
     <lastmod>2011-03-06T18:53:44Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/google/</loc>
+    <lastmod>2011-03-06T18:53:44Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/nintendo/</loc>
+    <lastmod>2011-02-22T01:37:24Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2011/02/21/no-way/</loc>
+    <lastmod>2011-02-22T01:37:24Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/sony/</loc>
+    <lastmod>2011-02-22T01:37:24Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/video-games/</loc>
     <lastmod>2011-02-22T01:37:24Z</lastmod>
   </url>
   <url>
@@ -557,7 +1117,23 @@
     <lastmod>2011-02-15T13:19:09Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/whining/</loc>
+    <lastmod>2011-02-15T13:19:09Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/chopper/</loc>
+    <lastmod>2011-02-14T00:52:16Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2011/02/13/move-over-segway/</loc>
+    <lastmod>2011-02-14T00:52:16Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/scooter/</loc>
+    <lastmod>2011-02-14T00:52:16Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/segway/</loc>
     <lastmod>2011-02-14T00:52:16Z</lastmod>
   </url>
   <url>
@@ -565,28 +1141,152 @@
     <lastmod>2011-02-13T14:16:26Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/furniture/</loc>
+    <lastmod>2011-02-13T14:16:26Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/space-invaders/</loc>
+    <lastmod>2011-02-13T14:16:26Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/sprite/</loc>
+    <lastmod>2011-02-13T14:16:26Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2011/02/12/leather-writing-case/</loc>
     <lastmod>2011-02-12T18:48:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/case/</loc>
+    <lastmod>2011-02-12T18:48:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/drafting/</loc>
+    <lastmod>2011-02-12T18:48:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/leather/</loc>
+    <lastmod>2011-02-12T18:48:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/tools/</loc>
+    <lastmod>2011-02-12T18:48:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/writing/</loc>
+    <lastmod>2011-02-12T18:48:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/amazon/</loc>
+    <lastmod>2011-01-29T02:52:08Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/anime/</loc>
+    <lastmod>2011-01-29T02:52:08Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/calendar/</loc>
+    <lastmod>2011-01-29T02:52:08Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/doa/</loc>
+    <lastmod>2011-01-29T02:52:08Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2011/01/28/screen-capture/</loc>
     <lastmod>2011-01-29T02:52:08Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/code/</loc>
+    <lastmod>2011-01-27T18:17:21Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/evernote/</loc>
+    <lastmod>2011-01-27T18:17:21Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/note-taking/</loc>
+    <lastmod>2011-01-27T18:17:21Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/postaweek/</loc>
+    <lastmod>2011-01-27T18:17:21Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2011/01/27/quicky-note-i-made-a-webapp/</loc>
     <lastmod>2011-01-27T18:17:21Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/webapp/</loc>
+    <lastmod>2011-01-27T18:17:21Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/electronics/</loc>
+    <lastmod>2011-01-21T21:57:21Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2011/01/21/now-what-can-i-make-with-this/</loc>
     <lastmod>2011-01-21T21:57:21Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/radio-shack/</loc>
+    <lastmod>2011-01-21T21:57:21Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/300zx/</loc>
+    <lastmod>2011-01-19T04:43:21Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/games/</loc>
+    <lastmod>2011-01-19T04:43:21Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/gt4/</loc>
+    <lastmod>2011-01-19T04:43:21Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/nissan/</loc>
+    <lastmod>2011-01-19T04:43:21Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2011/01/18/playing-around-with-gt4-again-nissan-300zx/</loc>
     <lastmod>2011-01-19T04:43:21Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/ps2/</loc>
+    <lastmod>2011-01-19T04:43:21Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/3d/</loc>
+    <lastmod>2011-01-17T05:49:25Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2011/01/17/3d-without-glasses-sounds-crazy/</loc>
     <lastmod>2011-01-17T05:49:25Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/glasses/</loc>
+    <lastmod>2011-01-17T05:49:25Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/invention/</loc>
+    <lastmod>2011-01-17T05:49:25Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/protoype/</loc>
+    <lastmod>2011-01-17T05:49:25Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/chevrolet/</loc>
+    <lastmod>2011-01-16T20:33:10Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/concept/</loc>
+    <lastmod>2011-01-16T20:33:10Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/corvette/</loc>
+    <lastmod>2011-01-16T20:33:10Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2011/01/16/yum/</loc>
@@ -597,12 +1297,36 @@
     <lastmod>2011-01-16T18:43:33Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/power/</loc>
+    <lastmod>2011-01-16T18:43:33Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/bean-bag/</loc>
+    <lastmod>2011-01-16T05:25:07Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2011/01/16/now-this-is-my-kind-of-beanbag/</loc>
+    <lastmod>2011-01-16T05:25:07Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/pokemon/</loc>
+    <lastmod>2011-01-16T05:25:07Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/snorlax/</loc>
     <lastmod>2011-01-16T05:25:07Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2011/01/16/dream-home-color-slides-and-trapdoors/</loc>
     <lastmod>2011-01-16T05:18:12Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/ferris-bueller/</loc>
+    <lastmod>2011-01-16T05:03:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/movie/</loc>
+    <lastmod>2011-01-16T05:03:23Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2011/01/16/own-a-piece-of-ferris-bueller-well-the-movie-anyway/</loc>
@@ -613,15 +1337,71 @@
     <lastmod>2011-01-14T21:19:50Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/instant-noodles/</loc>
+    <lastmod>2011-01-14T21:19:50Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/ramen/</loc>
+    <lastmod>2011-01-14T21:19:50Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/soup/</loc>
+    <lastmod>2011-01-14T21:19:50Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/art/</loc>
+    <lastmod>2011-01-14T21:00:10Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2011/01/14/photo/</loc>
     <lastmod>2011-01-14T21:00:10Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/adobe/</loc>
+    <lastmod>2011-01-13T05:08:12Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/color/</loc>
+    <lastmod>2011-01-13T05:08:12Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2011/01/13/easy-color-palette-from-a-photo/</loc>
     <lastmod>2011-01-13T05:08:12Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/ideas/</loc>
+    <lastmod>2011-01-13T05:08:12Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/inspiration/</loc>
+    <lastmod>2011-01-13T05:08:12Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/swatch/</loc>
+    <lastmod>2011-01-13T05:08:12Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/collage/</loc>
+    <lastmod>2011-01-09T07:23:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/makeaweek/</loc>
+    <lastmod>2011-01-09T07:23:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/photo/</loc>
+    <lastmod>2011-01-09T07:23:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/picasa/</loc>
+    <lastmod>2011-01-09T07:23:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2011/01/09/picasa-make-and-do-stuff-with-your-photos/</loc>
+    <lastmod>2011-01-09T07:23:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/print/</loc>
     <lastmod>2011-01-09T07:23:00Z</lastmod>
   </url>
   <url>
@@ -629,12 +1409,36 @@
     <lastmod>2011-01-03T19:00:10Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/cubecraft/</loc>
+    <lastmod>2011-01-03T04:42:51Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2011/01/02/cubecraft-leon/</loc>
+    <lastmod>2011-01-03T04:42:51Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/leon/</loc>
+    <lastmod>2011-01-03T04:42:51Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/makeaday/</loc>
+    <lastmod>2011-01-03T04:42:51Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/papercraft/</loc>
     <lastmod>2011-01-03T04:42:51Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2011/01/02/make-something-enjoy-it-more-via-good-thinking/</loc>
     <lastmod>2011-01-03T03:15:45Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/craft/</loc>
+    <lastmod>2011-01-02T05:12:52Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/make/</loc>
+    <lastmod>2011-01-02T05:12:52Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2011/01/02/make-one-thing-a-day/</loc>
@@ -645,11 +1449,35 @@
     <lastmod>2010-12-29T13:53:43Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/clearrx/</loc>
+    <lastmod>2010-12-29T13:53:43Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/creative-process/</loc>
+    <lastmod>2010-12-29T13:53:43Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/target/</loc>
+    <lastmod>2010-12-29T13:53:43Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/12/29/design-of-the-decade-clearrx/</loc>
     <lastmod>2010-12-29T13:53:43Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/multi-touch/</loc>
+    <lastmod>2010-12-28T14:29:38Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/12/28/multi-touch-on-two-planes-want/</loc>
+    <lastmod>2010-12-28T14:29:38Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/prototype/</loc>
+    <lastmod>2010-12-28T14:29:38Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/screen/</loc>
     <lastmod>2010-12-28T14:29:38Z</lastmod>
   </url>
   <url>
@@ -661,19 +1489,63 @@
     <lastmod>2010-12-25T18:29:55Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/display/</loc>
+    <lastmod>2010-12-15T05:19:18Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/hot-wheels/</loc>
+    <lastmod>2010-12-15T05:19:18Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/ikea/</loc>
+    <lastmod>2010-12-15T05:19:18Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/12/15/ribba-hot-wheels-display-case/</loc>
     <lastmod>2010-12-15T05:19:18Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/toys/</loc>
+    <lastmod>2010-12-15T05:19:18Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/duh-moment/</loc>
+    <lastmod>2010-12-12T07:06:16Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2010/12/12/just-saw-a-commercial-from-bank-of-ameri/</loc>
     <lastmod>2010-12-12T07:06:16Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/camera/</loc>
+    <lastmod>2010-12-11T04:59:15Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/12/10/creative-hack-turns-dslr-into-35mm-film-scanner-tested/</loc>
     <lastmod>2010-12-11T04:59:15Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/dslr/</loc>
+    <lastmod>2010-12-11T04:59:15Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/film/</loc>
+    <lastmod>2010-12-11T04:59:15Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/scanner/</loc>
+    <lastmod>2010-12-11T04:59:15Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/apple/</loc>
+    <lastmod>2010-12-05T07:35:19Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/12/05/because-apple-is-turning-into-the-man/</loc>
+    <lastmod>2010-12-05T07:35:19Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/jailbreak/</loc>
     <lastmod>2010-12-05T07:35:19Z</lastmod>
   </url>
   <url>
@@ -681,19 +1553,43 @@
     <lastmod>2010-11-26T18:49:09Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/psyduck/</loc>
+    <lastmod>2010-11-24T17:09:14Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/11/24/win-youtubehttpwww-youtube-comwat/</loc>
     <lastmod>2010-11-24T17:09:14Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/tesla/</loc>
+    <lastmod>2010-11-22T03:02:01Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2010/11/21/tesla-caption-idattachment_2359-al/</loc>
     <lastmod>2010-11-22T03:02:01Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/afterlife/</loc>
+    <lastmod>2010-11-16T20:14:19Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/archiving/</loc>
+    <lastmod>2010-11-16T20:14:19Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/11/16/tombstone-now-with-rss/</loc>
     <lastmod>2010-11-16T20:14:19Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/container-home/</loc>
+    <lastmod>2010-11-14T06:30:24Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/11/14/my-hermit-home/</loc>
+    <lastmod>2010-11-14T06:30:24Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/tiny-home/</loc>
     <lastmod>2010-11-14T06:30:24Z</lastmod>
   </url>
   <url>
@@ -701,8 +1597,16 @@
     <lastmod>2010-11-11T18:30:27Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/cooking/</loc>
+    <lastmod>2010-11-11T18:30:27Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/11/09/toy-story-3-screenwriter-talks-toys-with-the-daily-tufts-daily/</loc>
     <lastmod>2010-11-09T05:08:34Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/goldeneye/</loc>
+    <lastmod>2010-11-06T19:27:33Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2010/11/06/wishlist/</loc>
@@ -713,6 +1617,14 @@
     <lastmod>2010-11-06T17:19:24Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/hippie-moment/</loc>
+    <lastmod>2010-11-04T03:46:37Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/recycling/</loc>
+    <lastmod>2010-11-04T03:46:37Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/11/03/when-we-first-moved-in-we-had-one-trash/</loc>
     <lastmod>2010-11-04T03:46:37Z</lastmod>
   </url>
@@ -721,12 +1633,28 @@
     <lastmod>2010-10-31T15:01:22Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/tron/</loc>
+    <lastmod>2010-10-31T15:01:22Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/instagram/</loc>
+    <lastmod>2010-10-31T01:07:50Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/10/30/maybe-im-missing-it-but-what-makes-in/</loc>
+    <lastmod>2010-10-31T01:07:50Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/question/</loc>
     <lastmod>2010-10-31T01:07:50Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2010/10/27/the-immature-child-in-me-giggles-at-this/</loc>
     <lastmod>2010-10-27T18:38:22Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/poem/</loc>
+    <lastmod>2010-10-22T21:20:36Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2010/10/22/quick-poem-true-strength/</loc>
@@ -741,6 +1669,10 @@
     <lastmod>2010-10-13T01:11:51Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/safety/</loc>
+    <lastmod>2010-10-13T01:11:51Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/10/04/i-need-the-emergency-toy-stat/</loc>
     <lastmod>2010-10-04T19:54:09Z</lastmod>
   </url>
@@ -749,7 +1681,15 @@
     <lastmod>2010-09-28T02:43:30Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/silly/</loc>
+    <lastmod>2010-09-28T02:43:30Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/09/26/addicted-to-splode/</loc>
+    <lastmod>2010-09-26T16:27:26Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/mobile/</loc>
     <lastmod>2010-09-26T16:27:26Z</lastmod>
   </url>
   <url>
@@ -757,7 +1697,15 @@
     <lastmod>2010-09-24T03:40:28Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/modular/</loc>
+    <lastmod>2010-09-24T03:40:28Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/09/22/but-does-it-have-traffic-view/</loc>
+    <lastmod>2010-09-23T01:34:38Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/play/</loc>
     <lastmod>2010-09-23T01:34:38Z</lastmod>
   </url>
   <url>
@@ -769,8 +1717,20 @@
     <lastmod>2010-09-15T02:30:05Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/hipstamatic/</loc>
+    <lastmod>2010-09-15T01:31:33Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/09/14/the-hipstashop-for-your-hipstashots/</loc>
     <lastmod>2010-09-15T01:31:33Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/cover/</loc>
+    <lastmod>2010-09-13T01:58:07Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/music/</loc>
+    <lastmod>2010-09-13T01:58:07Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2010/09/12/over-the-rainbow/</loc>
@@ -781,12 +1741,32 @@
     <lastmod>2010-09-11T04:33:13Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/toddler/</loc>
+    <lastmod>2010-09-11T04:33:13Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/wood/</loc>
+    <lastmod>2010-09-11T04:33:13Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/09/10/radio-flyer-scooter/</loc>
+    <lastmod>2010-09-11T02:48:41Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/trike/</loc>
+    <lastmod>2010-09-11T02:48:41Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/vespa/</loc>
     <lastmod>2010-09-11T02:48:41Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2010/09/07/every-now-and-then-i-get-a-wild-hair-and/</loc>
     <lastmod>2010-09-07T04:16:44Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/accessories/</loc>
+    <lastmod>2010-09-07T03:54:56Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2010/09/06/real-lenses-for-your-mobile-cameraphone/</loc>
@@ -805,20 +1785,60 @@
     <lastmod>2010-09-03T21:47:20Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/data-visualization/</loc>
+    <lastmod>2010-09-01T21:25:56Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/internet/</loc>
+    <lastmod>2010-09-01T21:25:56Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/09/01/the-favicons-are-multiplying/</loc>
     <lastmod>2010-09-01T21:25:56Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/diy/</loc>
+    <lastmod>2010-08-30T11:56:43Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/led/</loc>
+    <lastmod>2010-08-30T11:56:43Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2010/08/30/wristwatch-with-ye-old-red-leds-hack-a-day/</loc>
     <lastmod>2010-08-30T11:56:43Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/audio/</loc>
+    <lastmod>2010-08-26T01:54:03Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/fail/</loc>
+    <lastmod>2010-08-26T01:54:03Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/hard-drive/</loc>
+    <lastmod>2010-08-26T01:54:03Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/08/25/what-a-failing-hard-drive-sounds-like/</loc>
     <lastmod>2010-08-26T01:54:03Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/ibook/</loc>
+    <lastmod>2010-08-26T01:07:36Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/iframe/</loc>
+    <lastmod>2010-08-26T01:07:36Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/08/25/oh-no-its-been-doing-nothing-but-runn/</loc>
     <lastmod>2010-08-26T01:07:36Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/holga/</loc>
+    <lastmod>2010-08-25T04:44:01Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2010/08/25/the-camera-ive-been-waiting-for-holga-d/</loc>
@@ -833,8 +1853,20 @@
     <lastmod>2010-08-25T01:41:12Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/tv-shows/</loc>
+    <lastmod>2010-08-25T01:41:12Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/08/24/rays/</loc>
     <lastmod>2010-08-24T04:12:21Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/case-mod/</loc>
+    <lastmod>2010-08-23T15:43:05Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/mecha/</loc>
+    <lastmod>2010-08-23T15:43:05Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2010/08/23/the-first-step-to-giving-them-ultimate-control/</loc>
@@ -842,6 +1874,10 @@
   </url>
   <url>
     <loc>https://www.juanorozco.com/2010/08/23/pinball-wizard-on-a-uke/</loc>
+    <lastmod>2010-08-23T15:30:30Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/ukulele/</loc>
     <lastmod>2010-08-23T15:30:30Z</lastmod>
   </url>
   <url>
@@ -853,6 +1889,14 @@
     <lastmod>2010-08-22T01:25:15Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/web-design/</loc>
+    <lastmod>2010-08-22T01:25:15Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/theory/</loc>
+    <lastmod>2010-08-21T15:53:04Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/08/21/why-the-80s-is-gaining-popularity/</loc>
     <lastmod>2010-08-21T15:53:04Z</lastmod>
   </url>
@@ -861,8 +1905,20 @@
     <lastmod>2010-08-21T15:23:12Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/thoughts/</loc>
+    <lastmod>2010-08-21T15:23:12Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/08/09/interesting-find/</loc>
     <lastmod>2010-08-09T05:25:11Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/moblog/</loc>
+    <lastmod>2010-08-09T05:25:11Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/restaurant/</loc>
+    <lastmod>2010-08-07T02:26:52Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2010/08/06/smithfields-baby-oh-yea/</loc>
@@ -881,12 +1937,24 @@
     <lastmod>2010-08-04T01:17:09Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/parody/</loc>
+    <lastmod>2010-08-04T01:17:09Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/comic-con/</loc>
+    <lastmod>2010-08-03T04:38:19Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/08/03/peaceful-revenge-of-the-nerds/</loc>
     <lastmod>2010-08-03T04:38:19Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2010/07/22/tron/</loc>
     <lastmod>2010-07-23T02:54:11Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/etsy/</loc>
+    <lastmod>2010-07-21T04:38:06Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2010/07/21/latest-etsy-pick-felt-monster-friends/</loc>
@@ -901,11 +1969,23 @@
     <lastmod>2010-07-14T04:28:48Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/catapult/</loc>
+    <lastmod>2010-07-13T17:37:24Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/fun/</loc>
+    <lastmod>2010-07-13T17:37:24Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/07/13/how-to-build-a-catapult/</loc>
     <lastmod>2010-07-13T17:37:24Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2010/07/11/watch-the-world-cup-final-match-online/</loc>
+    <lastmod>2010-07-11T18:40:52Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/world-cup/</loc>
     <lastmod>2010-07-11T18:40:52Z</lastmod>
   </url>
   <url>
@@ -917,16 +1997,40 @@
     <lastmod>2010-07-04T02:36:36Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/snow/</loc>
+    <lastmod>2010-07-04T02:36:36Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/home-electronics/</loc>
+    <lastmod>2010-07-04T02:26:17Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/07/03/logitech-squeezebox-radio/</loc>
     <lastmod>2010-07-04T02:26:17Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/green-tech/</loc>
+    <lastmod>2010-07-04T02:20:40Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2010/07/03/its-so-obvious/</loc>
     <lastmod>2010-07-04T02:20:40Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/radio/</loc>
+    <lastmod>2010-07-02T04:46:59Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/07/02/radio-ball-device/</loc>
     <lastmod>2010-07-02T04:46:59Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/halo/</loc>
+    <lastmod>2010-07-01T02:35:48Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/netdlix/</loc>
+    <lastmod>2010-07-01T02:35:48Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2010/06/30/oh-yea-halo-goodness/</loc>
@@ -937,12 +2041,28 @@
     <lastmod>2010-06-30T18:17:36Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/creative-and-flow/</loc>
+    <lastmod>2010-06-29T05:23:27Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/06/29/flow-outdoor-kiddie-pool-creative-and-flow/</loc>
+    <lastmod>2010-06-29T05:23:27Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/podcast/</loc>
     <lastmod>2010-06-29T05:23:27Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2010/06/28/stupid-raisins-stay-out-of-my-cookies-food-slogans-t-shirt-by-ross-sharkey/</loc>
     <lastmod>2010-06-29T02:35:22Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/t-shirt/</loc>
+    <lastmod>2010-06-29T02:35:22Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/mexico/</loc>
+    <lastmod>2010-06-28T17:20:28Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2010/06/28/mexicos-curse-and-the-world-cup/</loc>
@@ -953,6 +2073,18 @@
     <lastmod>2010-06-28T16:56:03Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/documentary/</loc>
+    <lastmod>2010-06-28T16:52:05Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/netflix/</loc>
+    <lastmod>2010-06-28T16:52:05Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/review/</loc>
+    <lastmod>2010-06-28T16:52:05Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/06/28/watched-word-wars-last-night-im-amaze/</loc>
     <lastmod>2010-06-28T16:52:05Z</lastmod>
   </url>
@@ -961,7 +2093,19 @@
     <lastmod>2010-06-28T16:42:16Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/robots/</loc>
+    <lastmod>2010-06-28T16:42:16Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/06/28/a-little-nature-here-and-there/</loc>
+    <lastmod>2010-06-28T05:01:17Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/green/</loc>
+    <lastmod>2010-06-28T05:01:17Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/plant/</loc>
     <lastmod>2010-06-28T05:01:17Z</lastmod>
   </url>
   <url>
@@ -977,6 +2121,10 @@
     <lastmod>2010-06-24T17:16:32Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/weird/</loc>
+    <lastmod>2010-06-24T17:16:32Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/06/23/httpwww-yankodesign-com20100330go/</loc>
     <lastmod>2010-06-23T22:58:14Z</lastmod>
   </url>
@@ -989,11 +2137,19 @@
     <lastmod>2010-06-23T04:14:22Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/ios4/</loc>
+    <lastmod>2010-06-22T04:54:41Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/06/22/its-been-like-this-for-two-hours-now/</loc>
     <lastmod>2010-06-22T04:54:41Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2010/06/21/food-cuts-with-cute-cups/</loc>
+    <lastmod>2010-06-22T01:37:16Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/kitchen/</loc>
     <lastmod>2010-06-22T01:37:16Z</lastmod>
   </url>
   <url>
@@ -1005,11 +2161,23 @@
     <lastmod>2010-06-18T02:57:39Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/wordpress/</loc>
+    <lastmod>2010-06-18T02:57:39Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/06/16/sometimes-a-design-isnt-working-because/</loc>
     <lastmod>2010-06-17T02:26:07Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/true/</loc>
+    <lastmod>2010-06-17T02:26:07Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/06/16/going-to-try-this-at-home-http37sign/</loc>
+    <lastmod>2010-06-17T01:05:53Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/hacks/</loc>
     <lastmod>2010-06-17T01:05:53Z</lastmod>
   </url>
   <url>
@@ -1021,12 +2189,28 @@
     <lastmod>2010-06-16T04:11:20Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/oddness/</loc>
+    <lastmod>2010-06-16T04:11:20Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/e3/</loc>
+    <lastmod>2010-06-16T03:21:49Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/06/15/juan-goldeneye-wii-sqqqqqqqqqqqq/</loc>
     <lastmod>2010-06-16T03:21:49Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2010/06/15/caption-idattachment_2071-align/</loc>
     <lastmod>2010-06-16T03:01:24Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/neato/</loc>
+    <lastmod>2010-06-15T01:16:50Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/products/</loc>
+    <lastmod>2010-06-15T01:16:50Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2010/06/14/sunflower-by-sunny-chung-for-toast-living-yanko-design/</loc>
@@ -1057,16 +2241,40 @@
     <lastmod>2010-06-04T23:16:00Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/print-media/</loc>
+    <lastmod>2010-06-04T23:16:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/06/04/i-want-this-book-especially-for-the-leo/</loc>
     <lastmod>2010-06-04T15:39:41Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/karate-kid/</loc>
+    <lastmod>2010-06-01T04:58:19Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2010/06/01/wax-on-wax-off-wax-on-wax-off-wax-on/</loc>
     <lastmod>2010-06-01T04:58:19Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/netbook/</loc>
+    <lastmod>2010-05-31T21:04:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/ubuntu/</loc>
+    <lastmod>2010-05-31T21:04:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/05/31/why-i-wont-upgrade-my-windows-7-starter/</loc>
     <lastmod>2010-05-31T21:04:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/windows-7-starter/</loc>
+    <lastmod>2010-05-31T21:04:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/microsucks/</loc>
+    <lastmod>2010-05-31T12:42:44Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2010/05/31/the-eula-on-oem-microsoft-software-is-ba/</loc>
@@ -1093,7 +2301,19 @@
     <lastmod>2010-05-01T02:40:40Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/social-media/</loc>
+    <lastmod>2010-02-05T05:35:34Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/02/05/taking-the-social-out-of-social-media/</loc>
+    <lastmod>2010-02-05T05:35:34Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/twitter/</loc>
+    <lastmod>2010-02-05T05:35:34Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/wired/</loc>
     <lastmod>2010-02-05T05:35:34Z</lastmod>
   </url>
   <url>
@@ -1101,7 +2321,15 @@
     <lastmod>2010-01-10T22:08:25Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/best-camera/</loc>
+    <lastmod>2010-01-10T22:08:25Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/01/10/branch/</loc>
+    <lastmod>2010-01-10T22:05:53Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/tilt-shift-generator/</loc>
     <lastmod>2010-01-10T22:05:53Z</lastmod>
   </url>
   <url>
@@ -1117,6 +2345,14 @@
     <lastmod>2010-01-07T03:27:40Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/boylans-soda/</loc>
+    <lastmod>2010-01-07T03:27:40Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/photogene/</loc>
+    <lastmod>2010-01-02T05:20:40Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2010/01/02/troubled/</loc>
     <lastmod>2010-01-02T05:20:40Z</lastmod>
   </url>
@@ -1125,7 +2361,35 @@
     <lastmod>2009-12-30T06:37:29Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/app-store/</loc>
+    <lastmod>2009-12-30T06:37:29Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/edwin-little/</loc>
+    <lastmod>2009-12-30T06:37:29Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/lofi/</loc>
+    <lastmod>2009-12-30T06:37:29Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/mill-colour/</loc>
+    <lastmod>2009-12-30T06:37:29Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2009/12/30/my-iphone-camera-bag/</loc>
+    <lastmod>2009-12-30T06:37:29Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/photoforge/</loc>
+    <lastmod>2009-12-30T06:37:29Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/photoshop/</loc>
+    <lastmod>2009-12-30T06:37:29Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/polarize/</loc>
     <lastmod>2009-12-30T06:37:29Z</lastmod>
   </url>
   <url>
@@ -1137,11 +2401,31 @@
     <lastmod>2009-11-08T04:49:21Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/apollo-11/</loc>
+    <lastmod>2009-07-21T03:45:55Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/creativity-in-science/</loc>
+    <lastmod>2009-07-21T03:45:55Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2009/07/20/inspirational-moment-in-history-first-steps-on-the-moon/</loc>
     <lastmod>2009-07-21T03:45:55Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/nasa/</loc>
+    <lastmod>2009-07-21T03:45:55Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/painting/</loc>
+    <lastmod>2009-07-14T03:11:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2009/07/13/using-emotion-for-inspiration/</loc>
+    <lastmod>2009-07-14T03:11:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/watercolor/</loc>
     <lastmod>2009-07-14T03:11:00Z</lastmod>
   </url>
   <url>
@@ -1149,7 +2433,27 @@
     <lastmod>2009-07-06T01:24:02Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/samurai-7/</loc>
+    <lastmod>2009-07-06T01:24:02Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/creativity/</loc>
+    <lastmod>2009-06-15T03:02:51Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/matt-mullenweg/</loc>
+    <lastmod>2009-06-15T03:02:51Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2009/06/14/post-wordcamp-rdu-thoughts/</loc>
+    <lastmod>2009-06-15T03:02:51Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/raleigh/</loc>
+    <lastmod>2009-06-15T03:02:51Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/wordcamp/</loc>
     <lastmod>2009-06-15T03:02:51Z</lastmod>
   </url>
   <url>
@@ -1161,7 +2465,23 @@
     <lastmod>2009-06-01T17:22:04Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/shortened-url/</loc>
+    <lastmod>2009-06-01T17:22:04Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/twitter-tools/</loc>
+    <lastmod>2009-06-01T17:22:04Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/microsoft/</loc>
+    <lastmod>2009-05-27T16:28:43Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2009/05/27/why-the-zune-hd-will-fail/</loc>
+    <lastmod>2009-05-27T16:28:43Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/zune/</loc>
     <lastmod>2009-05-27T16:28:43Z</lastmod>
   </url>
   <url>
@@ -1169,12 +2489,40 @@
     <lastmod>2009-05-04T14:14:04Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/drawing/</loc>
+    <lastmod>2009-05-04T14:14:04Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/family/</loc>
+    <lastmod>2009-05-04T14:14:04Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/birthday/</loc>
+    <lastmod>2009-05-02T14:02:29Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/gadgets/</loc>
+    <lastmod>2009-05-02T14:02:29Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2009/05/02/ma-birthdays-comin/</loc>
+    <lastmod>2009-05-02T14:02:29Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/wishlist/</loc>
     <lastmod>2009-05-02T14:02:29Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2009/04/28/drawing-live-on-ustream-just-for-kicks/</loc>
     <lastmod>2009-04-29T03:47:52Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/ustream/</loc>
+    <lastmod>2009-04-29T03:47:52Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/digital-photo-frame/</loc>
+    <lastmod>2009-03-26T21:03:36Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2009/03/26/my-diy-iphone-digital-photo-frame/</loc>
@@ -1185,11 +2533,27 @@
     <lastmod>2009-03-24T05:18:44Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/meta/</loc>
+    <lastmod>2009-03-16T21:38:13Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2009/03/16/why-i-like-to-chop-onions/</loc>
     <lastmod>2009-03-16T21:38:13Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/challenge-coin/</loc>
+    <lastmod>2009-03-13T02:27:51Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2009/03/12/custom-challenge-coin-display-gift/</loc>
+    <lastmod>2009-03-13T02:27:51Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/wood-projects/</loc>
+    <lastmod>2009-03-13T02:27:51Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/woodworking/</loc>
     <lastmod>2009-03-13T02:27:51Z</lastmod>
   </url>
   <url>
@@ -1201,12 +2565,48 @@
     <lastmod>2009-03-06T05:31:46Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/graphic-design/</loc>
+    <lastmod>2009-03-06T05:31:46Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/light-box/</loc>
+    <lastmod>2009-03-06T05:31:46Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/raw/</loc>
+    <lastmod>2009-03-06T05:31:46Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/mutant-league-football/</loc>
+    <lastmod>2009-02-05T13:00:49Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2009/02/05/remembering-mutant-league-football/</loc>
     <lastmod>2009-02-05T13:00:49Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/ffxiii/</loc>
+    <lastmod>2009-02-02T21:46:11Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/final-fantasy/</loc>
+    <lastmod>2009-02-02T21:46:11Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2009/02/02/new-final-fantasy-xiii-trailer-squeee/</loc>
     <lastmod>2009-02-02T21:46:11Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/online/</loc>
+    <lastmod>2009-01-28T03:02:53Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/turn-based-strategy/</loc>
+    <lastmod>2009-01-28T03:02:53Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/wee-war/</loc>
+    <lastmod>2009-01-28T03:02:53Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2009/01/27/weewar-online-little-dudes-duking-it-out/</loc>
@@ -1217,7 +2617,15 @@
     <lastmod>2009-01-02T17:00:06Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/world-of-warcraft/</loc>
+    <lastmod>2009-01-02T17:00:06Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/blog/2008/</loc>
+    <lastmod>2008-12-23T23:41:11Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/batman/</loc>
     <lastmod>2008-12-23T23:41:11Z</lastmod>
   </url>
   <url>
@@ -1233,11 +2641,31 @@
     <lastmod>2008-11-15T17:12:31Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/patch/</loc>
+    <lastmod>2008-11-15T17:12:31Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/wrath-of-the-lich-king/</loc>
+    <lastmod>2008-11-15T17:12:31Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/keychain/</loc>
+    <lastmod>2008-10-29T16:00:38Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2008/10/29/lego-keychains-stormtrooper/</loc>
     <lastmod>2008-10-29T16:00:38Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/minifig/</loc>
+    <lastmod>2008-10-29T16:00:38Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2008/10/27/cake-mix-hack-rocky-road-cookies/</loc>
+    <lastmod>2008-10-28T03:28:07Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/cookies/</loc>
     <lastmod>2008-10-28T03:28:07Z</lastmod>
   </url>
   <url>
@@ -1249,6 +2677,14 @@
     <lastmod>2008-10-02T07:09:36Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/media-summit/</loc>
+    <lastmod>2008-10-02T07:09:36Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/software/</loc>
+    <lastmod>2008-09-27T21:36:21Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2008/09/27/zune-software-fail/</loc>
     <lastmod>2008-09-27T21:36:21Z</lastmod>
   </url>
@@ -1257,7 +2693,31 @@
     <lastmod>2008-09-24T04:32:44Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/north-carolina/</loc>
+    <lastmod>2008-09-24T04:32:44Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/shopping/</loc>
+    <lastmod>2008-09-24T04:32:44Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/35mm/</loc>
+    <lastmod>2008-09-09T19:00:26Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/ae-1-program/</loc>
+    <lastmod>2008-09-09T19:00:26Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/canon/</loc>
+    <lastmod>2008-09-09T19:00:26Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2008/09/09/my-canon-ae-1-program/</loc>
+    <lastmod>2008-09-09T19:00:26Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/slr/</loc>
     <lastmod>2008-09-09T19:00:26Z</lastmod>
   </url>
   <url>
@@ -1269,15 +2729,35 @@
     <lastmod>2008-07-22T16:45:16Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/xbox/</loc>
+    <lastmod>2008-07-22T16:45:16Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2008/07/16/on-a-final-fantasy-kick-there-should-be-a-group/</loc>
     <lastmod>2008-07-16T13:00:49Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/artrage/</loc>
+    <lastmod>2008-07-11T02:33:44Z</lastmod>
   </url>
   <url>
     <loc>https://www.juanorozco.com/2008/07/10/drawings-of-eyes/</loc>
     <lastmod>2008-07-11T02:33:44Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/sketches/</loc>
+    <lastmod>2008-07-11T02:33:44Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2008/07/10/lightning-is-cool/</loc>
+    <lastmod>2008-07-10T12:57:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/survival/</loc>
+    <lastmod>2008-07-10T12:57:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/weather/</loc>
     <lastmod>2008-07-10T12:57:57Z</lastmod>
   </url>
   <url>
@@ -1297,6 +2777,14 @@
     <lastmod>2008-06-09T17:02:47Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/tags/legend-of-zelda/</loc>
+    <lastmod>2008-06-09T17:02:47Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/tattoo/</loc>
+    <lastmod>2008-06-09T17:02:47Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2008/06/06/software-thoughts-art-rage-2/</loc>
     <lastmod>2008-06-07T01:00:51Z</lastmod>
   </url>
@@ -1309,6 +2797,10 @@
     <lastmod>2008-05-12T19:00:53Z</lastmod>
   </url>
   <url>
+    <loc>https://www.juanorozco.com/categories/quotes/</loc>
+    <lastmod>2008-05-12T19:00:53Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.juanorozco.com/2008/05/06/mario-kart/</loc>
     <lastmod>2008-05-06T18:48:44Z</lastmod>
   </url>
@@ -1318,6 +2810,10 @@
   </url>
   <url>
     <loc>https://www.juanorozco.com/2008/04/25/itsa-me-mario/</loc>
+    <lastmod>2008-04-25T21:39:33Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.juanorozco.com/tags/mario-bros./</loc>
     <lastmod>2008-04-25T21:39:33Z</lastmod>
   </url>
   <url>

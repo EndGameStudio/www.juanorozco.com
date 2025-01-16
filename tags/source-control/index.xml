@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Source Control on Juan Orozco</title>
+    <link>https://www.juanorozco.com/tags/source-control/</link>
+    <description>Recent content in Source Control on Juan Orozco</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Aug 2012 02:37:39 +0000</lastBuildDate>
+    <atom:link href="https://www.juanorozco.com/tags/source-control/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Dropbox for versioning</title>
+      <link>https://www.juanorozco.com/2012/08/07/using-dropbox-for-versioning/</link>
+      <pubDate>Wed, 08 Aug 2012 02:37:39 +0000</pubDate>
+      <guid>https://www.juanorozco.com/2012/08/07/using-dropbox-for-versioning/</guid>
+      <description>&lt;p&gt;Prior to my current position, I had no clue what SVN or GIT were.  I finally got a very thorough explanation of SVN and versioning in general a few weeks ago.  Like all concepts I learn, I started to examine areas that might benefit from not just SVN but the concept of versions and revisions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

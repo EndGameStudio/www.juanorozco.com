@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
   <title>Juan Orozco</title>
-  <subtitle>Wonderer and Wanderer Love spending time with my wife, kids, and pets. Staff Frontend Engineer building design systems! Photography Hobbyist Sorta put thoughts on paper in a coherent way. Latest Thoughts Long Term Power Outage Using a Raspberry Pi as a DNS server is not a good idea.</subtitle>
+  <subtitle> Wonderer and Wanderer Love spending time with my wife, kids, and pets. Staff Frontend Engineer building design systems! Photography Hobbyist Sorta put thoughts on paper in a coherent way. Latest Thoughts Long Term Power Outage Using a Raspberry Pi as a DNS server is not a good idea. Most computers have an internal clock, or a &quot;Real Time Clock&quot;. Pi's don't. So, say a natural disaster leads... Aug 24, 2023 4:53AM NCMMC North Coast Marine Mammal Center promotes conservation through rescue and rehab in Crescent City, California. Ciri donates her time there and we attend the releases of their...
+</subtitle>
   <id>https://www.juanorozco.com/</id>
   <author>
     <name>Juan Orozco</name>
     <uri>https://www.juanorozco.com/</uri>
   </author>
-  <updated>2023-12-06T03:36:10Z</updated>
+  <updated>2025-01-16T07:34:15Z</updated>
   <link rel="self" type="application/atom+xml" href="https://www.juanorozco.com/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://www.juanorozco.com/" hreflang="en-us"/>
   <entry>
@@ -42,7 +43,7 @@ sudo timedatectl set-ntp yes
 <p>With this done, I ran update for Raspbian, updated Pihole, and added it back to my computer's DNS server. Et viola, it worked again!</p>
 <h2 id="conclusion">Conclusion</h2>
 <p>It's really interesting running into this problem - we don't really get power outages that last more than a few hours now-a-days. If the clock was off by a few hours, it probably would have been fine. Being off by days wreaked a lot of havoc on my home network. My TP-Link Deco's, for example, without DNS, would not load the Deco app. I love my Deco's but that was really frustrating to see &quot;Deco not found&quot;.</p>
-<p>A Raspberry Pi, especially an old Pi 2, makes for a great DNS widget and since the power grid is mostly robust, the lack of a Real Time Clock isn't always a problem. Still, being able to <a href="#fixing-the-problem">quickly fix the time</a> or maybe adding one of <a href="https://learn.adafruit.com/adding-a-real-time-clock-to-raspberry-pi/overview">these RTC modules</a> would prevent this issue in the future.</p>]]></content>
+<p>A Raspberry Pi, especially an old Pi 2, makes for a great DNS widget and since the power grid is mostly robust, the lack of a Real Time Clock isn't always a problem. Still, being able to <a href="/blog/2023/long-term-power-outage/#fixing-the-problem">quickly fix the time</a> or maybe adding one of <a href="https://learn.adafruit.com/adding-a-real-time-clock-to-raspberry-pi/overview">these RTC modules</a> would prevent this issue in the future.</p>]]></content>
   </entry>
   <entry>
     <title>July 2nd Seal Release</title>
@@ -233,7 +234,7 @@ src="https://res.cloudinary.com/deo07tbou/image/upload/dpr_auto,c_limit,h_800,f_
   </div>
   <div class="summary-content font-content-sans">
     <a class="summary-title block font-semibold leading-tightly tracking-tightly text-2xl text-raven-800 hover:text-raven-900" href="/photography/release-2023-07-02/">July 2nd Seal Release</a>
-    <a class="summary-excerpt mt-2 block font-normal leading-tight tracking-normal text-base text-raven-500 hover:text-raven-600" href="/photography/release-2023-07-02/">Yikes! Remember that these are wild animals and should be treated as such. Never pet or approach a wild animal. For more releases and the North Coast Marine Mammal Center, see...</a>
+    <a class="summary-excerpt mt-2 block font-normal leading-tight tracking-normal text-base text-raven-500 hover:text-raven-600" href="/photography/release-2023-07-02/"><div class="flex items-center justify-center font-content-sans rounded bg-red-100 px-4 py-4" role="alert">   <span class="text-xs font-bold uppercase leading-none rounded-full text-red-100 bg-red-500 px-2 py-1 mr-3">Yikes!</span>   <span class="font-semibold text-red-700">Remember that these are wild animals and should be treated as such. Never pet or approach a wild animal.</span> </div>  <p>For more releases and the <a href="https://northcoastmmc.org/">North Coast Marine Mammal...</a></p></a>
     <aside class="summary-meta mt-6 font-normal leading-snug tracking-normal text-sm text-raven-500"><time datetime="2023-07-02T17:05:41Z">Jul 2, 2023 5:05PM</time></aside>
   </div>
 </div>
@@ -246,7 +247,7 @@ src="https://res.cloudinary.com/deo07tbou/image/upload/dpr_auto,c_limit,h_800,f_
   </div>
   <div class="summary-content font-content-sans">
     <a class="summary-title block font-semibold leading-tightly tracking-tightly text-2xl text-raven-800 hover:text-raven-900" href="/photography/release-2023-06-22/">June 22nd Seal Release</a>
-    <a class="summary-excerpt mt-2 block font-normal leading-tight tracking-normal text-base text-raven-500 hover:text-raven-600" href="/photography/release-2023-06-22/">Yikes! Remember that these are wild animals and should be treated as such. Never pet or approach a wild animal. For more releases and the North Coast Marine Mammal Center, see...</a>
+    <a class="summary-excerpt mt-2 block font-normal leading-tight tracking-normal text-base text-raven-500 hover:text-raven-600" href="/photography/release-2023-06-22/"><div class="flex items-center justify-center font-content-sans rounded bg-red-100 px-4 py-4" role="alert">   <span class="text-xs font-bold uppercase leading-none rounded-full text-red-100 bg-red-500 px-2 py-1 mr-3">Yikes!</span>   <span class="font-semibold text-red-700">Remember that these are wild animals and should be treated as such. Never pet or approach a wild animal.</span> </div>  <p>For more releases and the <a href="https://northcoastmmc.org/">North Coast Marine Mammal...</a></p></a>
     <aside class="summary-meta mt-6 font-normal leading-snug tracking-normal text-sm text-raven-500"><time datetime="2023-06-23T17:00:00Z">Jun 23, 2023 5:00PM</time></aside>
   </div>
 </div>
@@ -259,7 +260,7 @@ src="https://res.cloudinary.com/deo07tbou/image/upload/dpr_auto,c_limit,h_800,f_
   </div>
   <div class="summary-content font-content-sans">
     <a class="summary-title block font-semibold leading-tightly tracking-tightly text-2xl text-raven-800 hover:text-raven-900" href="/photography/release-2023-06-17/">June 17th Seal Release</a>
-    <a class="summary-excerpt mt-2 block font-normal leading-tight tracking-normal text-base text-raven-500 hover:text-raven-600" href="/photography/release-2023-06-17/">Yikes! Remember that these are wild animals and should be treated as such. Never pet or approach a wild animal. For more releases and the North Coast Marine Mammal Center, see...</a>
+    <a class="summary-excerpt mt-2 block font-normal leading-tight tracking-normal text-base text-raven-500 hover:text-raven-600" href="/photography/release-2023-06-17/"><div class="flex items-center justify-center font-content-sans rounded bg-red-100 px-4 py-4" role="alert">   <span class="text-xs font-bold uppercase leading-none rounded-full text-red-100 bg-red-500 px-2 py-1 mr-3">Yikes!</span>   <span class="font-semibold text-red-700">Remember that these are wild animals and should be treated as such. Never pet or approach a wild animal.</span> </div>  <p>For more releases and the <a href="https://northcoastmmc.org/">North Coast Marine Mammal...</a></p></a>
     <aside class="summary-meta mt-6 font-normal leading-snug tracking-normal text-sm text-raven-500"><time datetime="2023-06-18T17:00:00Z">Jun 18, 2023 5:00PM</time></aside>
   </div>
 </div>
@@ -272,7 +273,7 @@ src="https://res.cloudinary.com/deo07tbou/image/upload/dpr_auto,c_limit,h_800,f_
   </div>
   <div class="summary-content font-content-sans">
     <a class="summary-title block font-semibold leading-tightly tracking-tightly text-2xl text-raven-800 hover:text-raven-900" href="/photography/release-2023-05-02/">May 2nd Seal Release</a>
-    <a class="summary-excerpt mt-2 block font-normal leading-tight tracking-normal text-base text-raven-500 hover:text-raven-600" href="/photography/release-2023-05-02/">Yikes! Remember that these are wild animals and should be treated as such. Never pet or approach a wild animal. For more releases and the North Coast Marine Mammal Center, see...</a>
+    <a class="summary-excerpt mt-2 block font-normal leading-tight tracking-normal text-base text-raven-500 hover:text-raven-600" href="/photography/release-2023-05-02/"><div class="flex items-center justify-center font-content-sans rounded bg-red-100 px-4 py-4" role="alert">   <span class="text-xs font-bold uppercase leading-none rounded-full text-red-100 bg-red-500 px-2 py-1 mr-3">Yikes!</span>   <span class="font-semibold text-red-700">Remember that these are wild animals and should be treated as such. Never pet or approach a wild animal.</span> </div>  <p>For more releases and the <a href="https://northcoastmmc.org/">North Coast Marine Mammal...</a></p></a>
     <aside class="summary-meta mt-6 font-normal leading-snug tracking-normal text-sm text-raven-500"><time datetime="2023-05-02T17:00:00Z">May 2, 2023 5:00PM</time></aside>
   </div>
 </div>
@@ -285,7 +286,7 @@ src="https://res.cloudinary.com/deo07tbou/image/upload/dpr_auto,c_limit,h_800,f_
   </div>
   <div class="summary-content font-content-sans">
     <a class="summary-title block font-semibold leading-tightly tracking-tightly text-2xl text-raven-800 hover:text-raven-900" href="/photography/release-2022-12-17/">December 17th Seal Release</a>
-    <a class="summary-excerpt mt-2 block font-normal leading-tight tracking-normal text-base text-raven-500 hover:text-raven-600" href="/photography/release-2022-12-17/">Yikes! Remember that these are wild animals and should be treated as such. Never pet or approach a wild animal. For more releases and the North Coast Marine Mammal Center, see...</a>
+    <a class="summary-excerpt mt-2 block font-normal leading-tight tracking-normal text-base text-raven-500 hover:text-raven-600" href="/photography/release-2022-12-17/"><div class="flex items-center justify-center font-content-sans rounded bg-red-100 px-4 py-4" role="alert">   <span class="text-xs font-bold uppercase leading-none rounded-full text-red-100 bg-red-500 px-2 py-1 mr-3">Yikes!</span>   <span class="font-semibold text-red-700">Remember that these are wild animals and should be treated as such. Never pet or approach a wild animal.</span> </div>  <p>For more releases and the <a href="https://northcoastmmc.org/">North Coast Marine Mammal...</a></p></a>
     <aside class="summary-meta mt-6 font-normal leading-snug tracking-normal text-sm text-raven-500"><time datetime="2022-12-18T17:00:00Z">Dec 18, 2022 5:00PM</time></aside>
   </div>
 </div>]]></content>
@@ -1055,7 +1056,7 @@ src="https://res.cloudinary.com/deo07tbou/image/upload/dpr_auto,c_limit,h_800,f_
     <id>https://www.juanorozco.com/2019/02/27/quick-movie-reviews-annihilation-and-automata/</id>
     <updated>2019-02-28T03:36:50Z</updated>
     <published>2019-02-28T03:36:50Z</published>
-    <content type="html"><![CDATA[<p>I've been a HUGE Natalie Portman fan since <a href="https://www.imdb.com/title/tt0110413/">Leon</a> (and a MEGA Gary Oldman fan for equally as long). I don't really have a problem with the Star Wars prequels but her participation in the Thor movies was totally punching below her weight. Still, if she had fun that's all that matters. <a href="https://en.wikipedia.org/wiki/Mars_Attacks!">Mars Attacks</a> and <a href="https://en.wikipedia.org/wiki/V_for_Vendetta_(film)">V for Vandetta</a> are more of my favorites. <a href="https://en.wikipedia.org/wiki/Black_Swan_(film)">Black Swan</a> and <a href="https://en.wikipedia.org/wiki/The_Other_Boleyn_Girl_(2008_film)">The Other Boleyn Girl</a>, great performances of hers but not really my thing as far as movies go.</p>
+    <content type="html"><![CDATA[<p>I've been a HUGE Natalie Portman fan since <a href="https://www.imdb.com/title/tt0110413/">Leon</a> (and a MEGA Gary Oldman fan for equally as long). I don't really have a problem with the Star Wars prequels but her participation in the Thor movies was totally punching below her weight. Still, if she had fun that's all that matters. <a href="https://en.wikipedia.org/wiki/Mars_Attacks!">Mars Attacks</a> and <a href="https://en.wikipedia.org/wiki/V_for_Vendetta_%28film%29">V for Vandetta</a> are more of my favorites. <a href="https://en.wikipedia.org/wiki/Black_Swan_%28film%29">Black Swan</a> and <a href="https://en.wikipedia.org/wiki/The_Other_Boleyn_Girl_%282008_film%29">The Other Boleyn Girl</a>, great performances of hers but not really my thing as far as movies go.</p>
 <p>I watched Annihilation, finally, after discovering <a href="https://www.amazon.com/Annihilation-Natalie-Portman/dp/B079Z18D2Z/">it was on Amazon Prime</a>. I enjoyed the subtlety, striking images, and depth so so much. I am surprised that Annihilation slipped past my radar when it released - I feel bad not having watched it sooner! The ending blew me away - I sat there and almost rewatched the final scene where she enters the lighthouse. I didn't because, well, life. Still, that ending is jammed pack with subtlety. It's beautiful.</p>
 <p>The ending is presented in a subjective manner, it could mean so many things. Ultimately, I just really enjoy philosophical movies like this, movies that show us some analog to life that causes us to question things. I LOVE THAT. I love wondering and pondering. I love different points of view.</p>
 <p>I wish I had time to watch it again. Instead, I took to the internet to find out what other people thought of it. I found discussions about how the movie is about self-destruction, mutations, cancer, corruption, change, death, life...  <strong>I agree</strong>. With all of it, especially the theme of self-destruction and with change.</p>
@@ -1240,7 +1241,7 @@ src="https://res.cloudinary.com/deo07tbou/image/upload/dpr_auto,c_limit,h_800,f_
     Will it be BENEFICIAL to all concerned?
   </li>
 </ol>
-<p>I found this etched into the side of a <a href="https://www.google.com/maps/place/35%C2%B035'31.8%22N+78%C2%B047'59.0%22W/@35.592156,-78.8002672,19z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d35.592156!4d-78.79972">water fountain in a random park in a small town</a>.</p>
+<p>I found this etched into the side of a <a href="https://www.google.com/maps/place/35%C2%B035%2731.8%22N&#43;78%C2%B047%2759.0%22W/@35.592156,-78.8002672,19z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d35.592156!4d-78.79972">water fountain in a random park in a small town</a>.</p>
 <p>Action park has two baseball diamonds, some tennis courts and a playground. It is hidden behind large warehouse buildings, straddled against an unfenced train track, hidden slightly by it's low elevation and a tall bridge. The entrance has a sharp dip down, so it is easy to miss the park as you drive by.</p>
 <p>I can't help but see some poetic coincidence to how relevant the string of words are today. How they are written on the side of a water fountain, one of the core elements that binds us all together regardless of what we look like or how we live.</p>
 <p>The fountain is like a beacon of hope; it tries to reach out. It wants to teach us something, something we sorely need to relearn.</p>
@@ -1597,7 +1598,7 @@ src="https://res.cloudinary.com/deo07tbou/image/upload/dpr_auto,c_limit,h_800,f_
     <updated>2014-12-04T03:40:00Z</updated>
     <published>2014-12-04T03:40:00Z</published>
     <content type="html"><![CDATA[<p>Using my Diana F+ with the instant back to take some photos. Thought the current series of Minifigs would be a fun object.</p>
-<p><a href="http://m.juanorozco.com/photos/2014/12/Series12+-+12-2014.large.jpg"><img src="https://i1.wp.com/m.juanorozco.com/photos/2014/12/Series12+-+12-2014.medium.jpg?w=580" alt="Minifigs" data-recalc-dims="1" /></a></p>]]></content>
+<p><a href="http://m.juanorozco.com/photos/2014/12/Series12&#43;-&#43;12-2014.large.jpg"><img src="https://i1.wp.com/m.juanorozco.com/photos/2014/12/Series12+-+12-2014.medium.jpg?w=580" alt="Minifigs" data-recalc-dims="1" /></a></p>]]></content>
   </entry>
   <entry>
     <title>Tascam recorder</title>
@@ -1609,7 +1610,7 @@ src="https://res.cloudinary.com/deo07tbou/image/upload/dpr_auto,c_limit,h_800,f_
     <updated>2014-11-16T03:43:00Z</updated>
     <published>2014-11-16T03:43:00Z</published>
     <content type="html"><![CDATA[<p>Tascam DP-006 recording did well. There's some slight noise but that could be the recorder itself.</p>
-<p><a href="http://m.juanorozco.com/photos/2014/11/2014-11-15+23.16.22.large.jpg"><img src="https://i2.wp.com/m.juanorozco.com/photos/2014/11/2014-11-15+23.16.22.medium.jpg?w=580" alt="Tascam" data-recalc-dims="1" /></a></p>]]></content>
+<p><a href="http://m.juanorozco.com/photos/2014/11/2014-11-15&#43;23.16.22.large.jpg"><img src="https://i2.wp.com/m.juanorozco.com/photos/2014/11/2014-11-15+23.16.22.medium.jpg?w=580" alt="Tascam" data-recalc-dims="1" /></a></p>]]></content>
   </entry>
   <entry>
     <title>It’s Macaron makin’ time!</title>
@@ -1621,7 +1622,7 @@ src="https://res.cloudinary.com/deo07tbou/image/upload/dpr_auto,c_limit,h_800,f_
     <updated>2014-11-16T03:37:00Z</updated>
     <published>2014-11-16T03:37:00Z</published>
     <content type="html"><![CDATA[<p>I love this edition, the paper is water resistent making it <em>perfect</em> for the kitchen.</p>
-<p><a href="http://m.juanorozco.com/photos/2014/11/2014-11-16+16.57.03.large.jpg"><img src="https://i1.wp.com/m.juanorozco.com/photos/2014/11/2014-11-16+16.57.03.medium.jpg?w=580" alt="Fud" data-recalc-dims="1" /></a></p>]]></content>
+<p><a href="http://m.juanorozco.com/photos/2014/11/2014-11-16&#43;16.57.03.large.jpg"><img src="https://i1.wp.com/m.juanorozco.com/photos/2014/11/2014-11-16+16.57.03.medium.jpg?w=580" alt="Fud" data-recalc-dims="1" /></a></p>]]></content>
   </entry>
   <entry>
     <title>Macaron Take 2 – Complete Failure</title>
@@ -2377,7 +2378,7 @@ src="https://res.cloudinary.com/deo07tbou/image/upload/dpr_auto,c_limit,h_800,f_
 <p>I got to thinking about Dreamworks and Pixar.  Dreamworks has intermittent success.  Kung Fu Panda was really good (I'm excited to see the second one). Monsters versus Aliens was fun, but not great. Madagascar was one of the funniest movies they’ve made, but also not great. And by great, I guess I mean timeless.  Little Mermaid is still enjoyed by children today, like mine. It's timeless.</p>
 <p>Pixar, on the other hand… well, it's interesting to hear all the hype about Pixar's awesome-flick streak.  Well, I'm kind of &quot;eh&quot; about Cars 2, right now - I'd much rather see an Incredibles 2 right now but I digress. Pixar can tell a story and they create these beautiful works of art… their “timeless” success ratio is essentially pretty darn high.</p>
 <h3 id="its-all-about-storytelling">It’s all about Storytelling.</h3>
-<p>Pixar’s documentary mentions that it wasn’t computer animation that killed traditional animation, it was poor story telling.  The Princess and the Frog was a great way to prove this hypothesis. It wasn’t amazing, but it’s still up there for my family – very close to timeless.  (Who knew <a href="http://en.wikipedia.org/wiki/Goliath_(Gargoyles)">Goliath</a> could sing!? Wow!)</p>
+<p>Pixar’s documentary mentions that it wasn’t computer animation that killed traditional animation, it was poor story telling.  The Princess and the Frog was a great way to prove this hypothesis. It wasn’t amazing, but it’s still up there for my family – very close to timeless.  (Who knew <a href="http://en.wikipedia.org/wiki/Goliath_%28Gargoyles%29">Goliath</a> could sing!? Wow!)</p>
 <p>So, who’s the better storyteller here?  Pixar has some really great original and successful stuff.  Dreamworks - well, How to Train Your Dragon was amazing, but it’s based off a book written by someone else.  Megamind was also amazing, but it’s just a twist on Superman.  Creative? Very. Timeless? Ehhhh… not sure.</p>
 <p>Although Pixar isn’t perfect, they’re definitely the better story tellers.  But here’s the thing, though: Dreamworks is more fun oriented than Pixar is.  Pixar tells these beautiful stories of struggle and life changing resolutions.  Dreamworks is like, “Let’s blow crap up! Wooooo!”  Their story telling doesn’t feel as refined because they don’t want to be.  They just want to give people a good time at the movies. Nothing wrong with that, it just makes it harder to be “timeless.”</p>
 <h3 id="which-is-better-ford-or-chevy-apple-osx-or-microsoft-windows">Which is better? Ford or Chevy? Apple OSX or Microsoft Windows?</h3>
