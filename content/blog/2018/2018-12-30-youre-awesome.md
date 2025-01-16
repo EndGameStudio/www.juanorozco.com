@@ -1,15 +1,15 @@
 ---
 title: Stop undervaluing yourself because you’re awesome
-author: "Juan Orozco" 
+author: "Juan Orozco"
 
 type: post
-date: -001-11-30T00:00:00+00:00
+
 draft: true
 url: /?p=38
 categories:
   - Uncategorized
-
 ---
+
 It is interesting how often we question our value and set out to prove (or disprove?) our assumptions - which are usually low estimates. We constantly undervalue ourselves and find things that support this idea.
 
 "I suck at work"

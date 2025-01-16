@@ -1,15 +1,15 @@
 ---
 title: Do something legendary.
-author: "Juan Orozco" 
+author: "Juan Orozco"
 
 type: post
-date: -001-11-30T00:00:00+00:00
+
 draft: true
 url: /?p=25
 categories:
   - Uncategorized
-
 ---
+
 What have you done in your life that you could call epic? Legendary? Ok, what about challenging?
 
 Every year around this time I begin to hear the same word over and over again.
@@ -36,22 +36,22 @@ Some resolutions are more involved than others. Some challenges require training
 
 Although a Hero level challenge requires exceptional effort, it is still something someone can accomplish within 365 days with some sacrifice or discomfort but it is something with a strong community around it. Something people have done and have documented it thoroughly for others.
 
-  * Improve your health
-  * Quit smoking
-  * Get your degree
+- Improve your health
+- Quit smoking
+- Get your degree
 
 ### Epic Level {#epiclevel}
 
 An epic level challenge requires significant sacrifice and training. You could get hurt, lose financial stability, or really piss people off.
 
-  * Start a business
-  * Travel the world
-  * Career pivot
+- Start a business
+- Travel the world
+- Career pivot
 
 ### Legendary Level {#legendarylevel}
 
 Something you might only be able to do once; something you could possibly **die** from; something that could affect the world around you.
 
-  * Skydive from space
-  * Build a working food replicator
-  * Visit the south pole
+- Skydive from space
+- Build a working food replicator
+- Visit the south pole

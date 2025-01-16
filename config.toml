@@ -13,16 +13,16 @@ summaryLength = 40
 enableRobotsTXT = true
 pluralizelisttitles = false
 footnoteReturnLinkContents = "&#8617;"
-paginate = 5
+pagination.pagerSize = 5
 
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy"]
 
 [permalinks]
 post = "/:year/:month/:slug/"
 
 [params]
 mainSections = ["post", "docs", "photography"]
-copyrightYear = 2022
+copyrightYear = 2025
 search = true
 
 [params.services]
@@ -83,7 +83,6 @@ logo = "<p style=\"text-align: center;\">JO</p>"
 home = ["HTML", "ATOM"]
 section = ["HTML"]
 taxonomy = ["HTML"]
-taxonomyTerm = ["HTML"]
 
 [outputFormats]
 [outputFormats.ATOM]

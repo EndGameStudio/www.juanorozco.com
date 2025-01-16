@@ -1,15 +1,15 @@
 ---
 title: Chappie and the question of concsiousness
-author: "Juan Orozco" 
+author: "Juan Orozco"
 
 type: post
-date: -001-11-30T00:00:00+00:00
+
 draft: true
 url: /?p=30
 categories:
   - Uncategorized
-
 ---
+
 I honestly hope that there is something after death. If not a place where the best of us get to hang out for eternity then at least maybe some step-by-step chart on how to reach a higher plane of existence.
 
 I'm not against dying, I mean yea, the idea sucks. But I understand the role my body plays in the cycle of our beautiful planet. As scared as I am of it, I know that there's some cool things that I can do in my short time.

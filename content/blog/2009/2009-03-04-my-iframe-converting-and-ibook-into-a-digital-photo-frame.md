@@ -1,15 +1,15 @@
 ---
-title: 'My iFrame: Converting and iBook into a Digital Photo Frame'
-author: "Juan Orozco" 
+title: "My iFrame: Converting and iBook into a Digital Photo Frame"
+author: "Juan Orozco"
 
 type: post
-date: -001-11-30T00:00:00+00:00
+
 draft: true
 url: /?p=1174
 categories:
   - Uncategorized
-
 ---
+
 I bought Ciri a digital photo frame for her birthday last year and she LOVES it.   We have gigs of images on the hard drive and I hate that they sit there <a href="http://en.wikipedia.org/wiki/JPEG#JPEG_compression" target="_blank" rel="noopener noreferrer">degrading slowly into infinity</a> without ever being admired.   With Ciri's frame, at least the wonderful images we take can be enjoyed from time to time.   I wanted to buy myself one as well, but I don't like devices with only one purpose.   So I've been waiting for a digital frame that can browse the internet, display my Flickr feed, play my podcasts, etc. etc.   Does this device sound familiar?   Yup, it's pretty much a computer.
 
 Why can't they make a digital photo frame that can display your images from social sites, like Flickr?   Why can't it play music from your networked PC?   Why, why, why?!?   I found the the perfect solution to my gripes via Instructables.   I can't believe that I never thought of converting a laptop into digital photo frame before.   It's such a great idea!   I have an iBook that just sits there collecting dust.   It smells like pits when it is in use, the keyboard is missing keys, and it does not run OS X 10.3 very well at all.   I was going to sell it on eBay, but then I realized I could use it to make my digital photo frame!

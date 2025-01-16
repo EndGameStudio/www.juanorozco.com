@@ -1,15 +1,15 @@
 ---
 title: Exploring the concept sentience with our children
-author: "Juan Orozco" 
+author: "Juan Orozco"
 
 type: post
-date: -001-11-30T00:00:00+00:00
+
 draft: true
 url: /?p=22
 categories:
   - Uncategorized
-
 ---
+
 How _do_ you define the concept of life to a child?
 
 Little Dood asked me the other day about gravity.

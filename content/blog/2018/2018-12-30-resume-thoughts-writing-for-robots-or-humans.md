@@ -1,15 +1,15 @@
 ---
-title: 'Resume Thoughts: Writing for robots or humans?'
-author: "Juan Orozco" 
+title: "Resume Thoughts: Writing for robots or humans?"
+author: "Juan Orozco"
 
 type: post
-date: -001-11-30T00:00:00+00:00
+
 draft: true
 url: /?p=39
 categories:
   - Uncategorized
-
 ---
+
 There seems to be two camps of resume writing tips: 1) write your resume to get past the robots or 2) write your resume for humans.
 
 You can drill down each one and get different groups of thought but I think they all neatly fall into these two.

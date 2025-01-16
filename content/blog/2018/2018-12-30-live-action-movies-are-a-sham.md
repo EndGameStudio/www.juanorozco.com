@@ -1,20 +1,20 @@
 ---
 title: Live action movies are a sham
-author: "Juan Orozco" 
+author: "Juan Orozco"
 
 type: post
-date: -001-11-30T00:00:00+00:00
+
 draft: true
 url: /?p=35
 categories:
   - Uncategorized
-
 ---
+
 There is no longer a difference between live action and animation, yet how excited are you about the following:
 
-  * Sleeping Beauty
-  * Ghost in the Shell
-  * Full Metal Alchemist
+- Sleeping Beauty
+- Ghost in the Shell
+- Full Metal Alchemist
 
 Odds are, you're excited about one of them, right? Whatever your driving force is, whether it is nostalgia, uber fan, or movie buff... the truth is, there really is no such thing as live action.
 

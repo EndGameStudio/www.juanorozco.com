@@ -1,15 +1,15 @@
 ---
 title: Creating and Flowing
-author: "Juan Orozco" 
+author: "Juan Orozco"
 
 type: post
-date: -001-11-30T00:00:00+00:00
+
 draft: true
 url: /?p=10
 categories:
   - Uncategorized
-
 ---
+
 Welcome to Creative and Flow, a magazine on creativity, exploration, wondering, and failure.
 
 ## Wonder, explore, and create. {#wonderexploreandcreate}
@@ -26,4 +26,4 @@ So, let's explore the creative process together. Let us learn from our failures 
 
 -[Juan][1]
 
- [1]: /about-juan
+[1]: /about-juan
