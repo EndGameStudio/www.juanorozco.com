@@ -4,7 +4,7 @@ title = "Juan Orozco"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 
-theme = "axiom"
+theme = "axiom-2"
 
 canonifyURLs = false
 rssLimit = 100
