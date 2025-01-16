@@ -1,28 +1,25 @@
 ---
 title: Wolf Blood Moon
-author: "Juan Orozco" 
+author: "Juan Orozco"
 
 type: post
 date: 2019-01-22T15:33:31+00:00
 excerpt: Photos from Wolf Blood Moon (Total Lunar Eclipse), January 2019, near Raleigh NC
 url: /2019/01/22/wolf-blood-moon/
 featured_image: https://m.juanorozco.com/wp-content/uploads/2019/01/21223156/DSC091481-1568x1047.jpg
-amazonS3_cache:
-  - 'a:8:{s:60:"//www.juanorozco.com/wp-content/uploads/2019/01/DSC09104.jpg";i:93;s:67:"//m.juanorozco.com/wp-content/uploads/2019/01/21222935/DSC09104.jpg";i:93;s:60:"//www.juanorozco.com/wp-content/uploads/2019/01/DSC09077.jpg";i:94;s:67:"//m.juanorozco.com/wp-content/uploads/2019/01/21222943/DSC09077.jpg";i:94;s:60:"//www.juanorozco.com/wp-content/uploads/2019/01/DSC09148.jpg";i:95;s:67:"//m.juanorozco.com/wp-content/uploads/2019/01/21222959/DSC09148.jpg";i:95;s:60:"//www.juanorozco.com/wp-content/uploads/2019/01/DSC09219.jpg";i:96;s:67:"//m.juanorozco.com/wp-content/uploads/2019/01/21223009/DSC09219.jpg";i:96;}'
 categories:
   - Photography
 tags:
   - blood moon
   - lunar eclipse
   - photography
-
 ---
+
 In the past ten years, we've seen three total lunar eclipses where 'round these parts. Every time, though, circumstances prevented us from seeing it - clouds, really effing late hours, etc. This, year, though, we had a clear night and it wasn't too late in the evening.
 
 The kiddos were weirded out by how lifeless the moon looked. In fact, it took them a solid moment to actually \*find\* the moon in the sky. Unfortunately, none of the kids seem to share my love for the wonder of our universe. At best, they find it mildly interesting. They did wake up at midnight just to see the eclipse but they came and went after a few minutes.
 
-I can work with that, though. The fact that they got out of bed... that's something. 🙂  
-
+I can work with that, though. The fact that they got out of bed... that's something. 🙂
 
 <ul class="wp-block-gallery columns-3 is-cropped">
   <li class="blocks-gallery-item">

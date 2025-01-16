@@ -1,19 +1,17 @@
 ---
 title: Door stop – It’s the little things…
-author: "Juan Orozco" 
+author: "Juan Orozco"
 
 type: post
 date: 2011-09-17T05:24:49+00:00
 url: /2011/09/17/door-stop-its-the-little-things/
-amazonS3_cache:
-  - 'a:1:{s:71:"//juanthedesigner.files.wordpress.com/2011/09/door-stopper-built-in.jpg";a:1:{s:9:"timestamp";i:1552350761;}}'
 categories:
   - Uncategorized
 tags:
   - Design
   - Industrial Design
-
 ---
+
 &nbsp;
 
 &nbsp;
@@ -32,4 +30,4 @@ This is what I love about design, it fixes problems you didn't realize you had u
 
 [Right Angle: Foot-Free, Hand-Deployed Doorstop Invention | Designs & Ideas on Dornob][1].
 
- [1]: http://dornob.com/right-angle-foot-free-hand-deployed-doorstop-invention/
+[1]: http://dornob.com/right-angle-foot-free-hand-deployed-doorstop-invention/

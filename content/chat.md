@@ -1,14 +1,12 @@
 ---
 title: Chat
-author: "Juan Orozco" 
+author: "Juan Orozco"
 
 type: page
 date: 2019-08-04T12:13:02+00:00
 featured_image: https://m.juanorozco.com/wp-content/uploads/2019/08/04095656/nesa-by-makers-IgUR1iX0mqM-unsplash-1568x1045.jpg
-amazonS3_cache:
-  - 'a:2:{s:48:"//assets.calendly.com/assets/external/widget.css";a:1:{s:9:"timestamp";i:1564927106;}s:47:"//assets.calendly.com/assets/external/widget.js";a:1:{s:9:"timestamp";i:1564927106;}}'
-
 ---
+
 Two of my favorite activities when it comes to software engineering are code reviews and whiteboarding sessions.
 
 **Code reviews** are insanely fun for me because of the high quality knowledge transfer. I am a visual learner so stepping through the code with someone is incredibly helpful.
@@ -26,7 +24,6 @@ If you want to try this experiment out, please let me know!!
 <!-- Calendly link widget begin -->
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet" />
-
 
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/juanorozco/code-review-pairing'});return false;">Schedule time with me</a>
 
