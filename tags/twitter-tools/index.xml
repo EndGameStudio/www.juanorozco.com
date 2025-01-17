@@ -10,9 +10,9 @@
     <atom:link href="https://www.juanorozco.com/tags/twitter-tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hacking WordPress shortened links and Twitter Tools</title>
-      <link>https://www.juanorozco.com/2009/06/01/hacking-wordpress-shortened-links-and-twitter-tools/</link>
+      <link>https://www.juanorozco.com/blog/2009/hacking-wordpress-shortened-links-and-twitter-tools/</link>
       <pubDate>Mon, 01 Jun 2009 17:22:04 +0000</pubDate>
-      <guid>https://www.juanorozco.com/2009/06/01/hacking-wordpress-shortened-links-and-twitter-tools/</guid>
+      <guid>https://www.juanorozco.com/blog/2009/hacking-wordpress-shortened-links-and-twitter-tools/</guid>
       <description>&lt;p&gt;This shortened URL business really has gotten out of hand.  &lt;a href=&#34;http://www.morningtoast.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Morning Toast&lt;/a&gt; &lt;a href=&#34;http://www.morningtoast.com/2009/05/why-tiny-urls-change-how-we-design/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;wrote a rant&lt;/a&gt; about it a few days ago and it got me thinking about their usefulness.  He also twittered about &lt;a href=&#34;http://www.flickr.com/groups/flickrideas/discuss/72157616526758077/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Flickr&#39;s own URL shortener&lt;/a&gt; as well.  Although Flickr uses a different domain name for these shortened URLs, the link is still obvious about it&#39;s context; it is a Flickr image.&lt;/p&gt;</description>
     </item>
   </channel>

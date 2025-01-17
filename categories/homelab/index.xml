@@ -6,12 +6,12 @@
     <description>Recent content in Homelab on Juan Orozco</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Aug 2023 21:53:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 24 Aug 2023 04:53:00 +0000</lastBuildDate>
     <atom:link href="https://www.juanorozco.com/categories/homelab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Long Term Power Outage</title>
       <link>https://www.juanorozco.com/blog/2023/long-term-power-outage/</link>
-      <pubDate>Wed, 23 Aug 2023 21:53:00 -0700</pubDate>
+      <pubDate>Thu, 24 Aug 2023 04:53:00 +0000</pubDate>
       <guid>https://www.juanorozco.com/blog/2023/long-term-power-outage/</guid>
       <description>&lt;p&gt;Using a Raspberry Pi as a DNS server is not a good idea. Most computers have an internal clock, or a &amp;quot;Real Time Clock&amp;quot;. &lt;strong&gt;Pi&#39;s don&#39;t.&lt;/strong&gt; So, say a natural disaster leads to an extended power outage, the iternal clock will be off and that can cause some fun DNS issues.&lt;/p&gt;</description>
     </item>
