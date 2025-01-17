@@ -1,21 +1,22 @@
 ---
-title: 'Lich King is out…  *Drools*'
-author: "Juan Orozco" 
-
-type: post
-date: 2008-11-15T17:12:31+00:00
-url: /2008/11/15/lich-king-is-out-drools/
 aktt_tweeted:
-  - 1
+- 1
+aliases:
+- /2008/11/15/lich-king-is-out-drools/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2008-11-15 17:12:31
+slug: lich-king-is-out-drools
 tags:
-  - patch
-  - video games
-  - World of Warcraft
-  - Wrath of the Lich King
-
+- patch
+- video games
+- World of Warcraft
+- Wrath of the Lich King
+title: Lich King is out…  *Drools*
+type: post
 ---
+
 <figure id="attachment_1170" aria-describedby="caption-attachment-1170" style="width: 149px" class="wp-caption alignleft">[<img class="size-medium wp-image-1170" title="Wrath of the Lich King" src="https://i1.wp.com/guamaso.com/wp-content/uploads/2008/11/lichking.png?resize=149%2C210" alt="Lich King" width="149" height="210" data-recalc-dims="1" />][1]<figcaption id="caption-attachment-1170" class="wp-caption-text">Lich King</figcaption></figure>
 
 Here I am, sitting at my computer again, virtual-window shopping.   I'm staring at the <a href="http://www.worldofwarcraft.com/wrath/" target="_blank" rel="noopener noreferrer">new expansion for World of Warcraft</a> like some little kid hoping that an onlooker will feel bad for me and buy it for me.   Damn online shopping...
@@ -28,4 +29,4 @@ Just out of curiosity, though, I logged in last night to see how the world was d
 
 The new patch and expansion introduced some new elements to the storyline as well as tons of other cool stuff, so I am really excited to see how this whole "war against the Burning Legion" turns out.   Until I reach level 70 and our finances pick up again, Wrath of the Lich King will have to wait.   That is, unless, someone would like to <a href="http://astore.amazon.com/guamaso-20/detail/B000VJTJNE" target="_blank" rel="noopener noreferrer">sponsor me... 😉<br /> </a>
 
- [1]: http://astore.amazon.com/guamaso-20/detail/B000VJTJNE
+[1]: http://astore.amazon.com/guamaso-20/detail/B000VJTJNE

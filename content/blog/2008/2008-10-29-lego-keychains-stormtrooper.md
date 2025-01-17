@@ -1,21 +1,22 @@
 ---
-title: 'Lego Keychains: Stormtrooper'
-author: "Juan Orozco" 
-
-type: post
-date: 2008-10-29T16:00:38+00:00
-url: /2008/10/29/lego-keychains-stormtrooper/
 aktt_tweeted:
-  - 1
+- 1
+aliases:
+- /2008/10/29/lego-keychains-stormtrooper/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2008-10-29 16:00:38
+slug: lego-keychains-stormtrooper
 tags:
-  - keychain
-  - Lego
-  - minifig
-  - toy
-
+- keychain
+- Lego
+- minifig
+- toy
+title: 'Lego Keychains: Stormtrooper'
+type: post
 ---
+
 <figure id="attachment_944" aria-describedby="caption-attachment-944" style="width: 240px" class="wp-caption alignleft"><img class="size-medium wp-image-944" title="LegoStormTrooper" src="https://i0.wp.com/guamaso.com/wp-content/uploads/2008/10/850355-0000-xx-13-1-300x203.jpg?resize=240%2C162" alt="Lego Storm Trooper Keychain" width="240" height="162" data-recalc-dims="1" /><figcaption id="caption-attachment-944" class="wp-caption-text">Lego Storm Trooper Keychain</figcaption></figure>
 
 It's been a while since I visited Lego.com, or any Lego related website, for that matter.   I subscribe to Lego magazine and I will occasionally browse over to the Lego blogs via other blogs.

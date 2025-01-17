@@ -1,17 +1,18 @@
 ---
-title: 'Po the Pathfinder: origins'
-author: "Juan Orozco" 
-
-type: post
-date: 2016-05-30T02:33:00+00:00
-url: /2016/05/30/po-the-pathfinder/
+aliases:
+- /2016/05/30/po-the-pathfinder/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2016-05-30 02:33:00
+slug: po-the-pathfinder-origins
 tags:
-  - Journal
-  - things
-
+- Journal
+- things
+title: 'Po the Pathfinder: origins'
+type: post
 ---
+
 [<img src="https://i1.wp.com/m.creativeandflow.com/images/2016/03/po-the-pathfinder.medium.jpg?w=580" alt="Po the Pathfinder" data-recalc-dims="1" />][1]
 
 I owned a VW Golf while we lived in Germany. I loved that car. It was simple. No crazy gadgets. No power steering. No air conditioning. No fuel injection. No power brakes. **Just car.**
@@ -22,9 +23,9 @@ Today, back in the colonies, we are lucky to have added a baby to the family. Th
 
 The search for a new car was on. We knew right away what type of car we needed; fuel efficient vehicle with third row seating. We narrowed it down to three contestants:
 
-  * 2016 Honda Pilot
-  * 2013+ Volvo XC90
-  * 2013+ Nissan Pathfinder
+- 2016 Honda Pilot
+- 2013+ Volvo XC90
+- 2013+ Nissan Pathfinder
 
 We loved the Pilot. I preferred the boxy styling of the pre 2013 models while the newst 2016 model had some impressive safety features. Unfortunately, the older generation had pretty bad [small-overlap crash][2] [results][3]. As for the new models, well, it was out of our budget.
 
@@ -46,6 +47,6 @@ The kids gave him his name. Named after Po from Kung Fu Panda, they thought it a
 
 So, Po the Pathfinder is the newest member of the family transport. We're glad to have him. He's a fun car to drive. The styling is starting to grow on me. Let's see what kind of adventures we can get ourselves into...
 
- [1]: https://i0.wp.com/m.creativeandflow.com/images/2016/03/po-the-pathfinder.large.jpg
- [2]: http://safety.trw.com/whats-a-small-overlap-frontal-crash-test/1007/
- [3]: https://youtu.be/8SPBd108Sfc?t=33
+[1]: https://i0.wp.com/m.creativeandflow.com/images/2016/03/po-the-pathfinder.large.jpg
+[2]: http://safety.trw.com/whats-a-small-overlap-frontal-crash-test/1007/
+[3]: https://youtu.be/8SPBd108Sfc?t=33

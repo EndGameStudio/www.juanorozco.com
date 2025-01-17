@@ -1,20 +1,21 @@
 ---
-title: New Final Fantasy XIII Trailer! Squeee!
-author: "Juan Orozco" 
-
-type: post
-date: 2009-02-02T21:46:11+00:00
-url: /2009/02/02/new-final-fantasy-xiii-trailer-squeee/
 aktt_tweeted:
-  - 1
+- 1
+aliases:
+- /2009/02/02/new-final-fantasy-xiii-trailer-squeee/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2009-02-02 21:46:11
+slug: new-final-fantasy-xiii-trailer-squeee
 tags:
-  - FFXIII
-  - Final Fantasy
-  - video games
-
+- FFXIII
+- Final Fantasy
+- video games
+title: New Final Fantasy XIII Trailer! Squeee!
+type: post
 ---
+
 <img class="aligncenter size-full wp-image-1425" title="ffxiii-screengrab" src="https://i1.wp.com/guamaso.com/wp-content/uploads/2009/02/ffxiii-screengrab.jpg?resize=500%2C179" alt="ffxiii-screengrab" width="500" height="179" data-recalc-dims="1" />
 
 You all know I am a BIG FF fan.   I want FFXIII NOW!   Sigh.   Until the game comes out, I'm stuck drooling over whatever teaser video the big S can give me.   Like the one they <a href="http://na.square-enix.com/ff13/" target="_blank" rel="noopener noreferrer">just released</a>.   Can't embed the video so follow the link to SquareEnix's FFXIII site.

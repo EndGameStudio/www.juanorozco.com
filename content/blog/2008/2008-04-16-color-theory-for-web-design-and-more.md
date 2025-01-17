@@ -1,17 +1,18 @@
 ---
-title: Color Theory for Web Design and more.
-author: "Juan Orozco" 
-
-type: post
-date: 2008-04-17T00:05:22+00:00
-url: /2008/04/16/color-theory-for-web-design-and-more/
+aliases:
+- /2008/04/16/color-theory-for-web-design-and-more/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2008-04-17 00:05:22
+slug: color-theory-for-web-design-and-more
 tags:
-  - Books
-  - color
-
+- Books
+- color
+title: Color Theory for Web Design and more.
+type: post
 ---
+
 In the beginning, a few years back, when I first started designing web sites, I designed sites on what I thought looked good. After they were built, I realized that they looked like crap. They layout, the color, the content, and the usability. As I progressed, I learned more and more even though I didn't completely know or understand the theories and practices behind web design. Now, as my designs' quality increase, I feel like in order to really fine tune everything, I need to know and understand every aspect of every theory involving design.
 
 <figure id="attachment_298" aria-describedby="caption-attachment-298" style="width: 152px" class="wp-caption alignleft"><img class="size-medium wp-image-298" title="colormanual" src="https://i1.wp.com/guamaso.com/wp-content/uploads/2008/04/colormanual.gif?resize=152%2C168" alt="Desinger Color Manual" width="152" height="168" data-recalc-dims="1" /><figcaption id="caption-attachment-298" class="wp-caption-text">Designer's Color Manual</figcaption></figure>

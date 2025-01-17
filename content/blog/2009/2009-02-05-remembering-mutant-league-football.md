@@ -1,19 +1,20 @@
 ---
-title: Remembering Mutant League Football
-author: "Juan Orozco" 
-
-type: post
-date: 2009-02-05T13:00:49+00:00
-url: /2009/02/05/remembering-mutant-league-football/
-coverimg:
-  - http://guamaso.com/wp-content/uploads/2009/02/mutantfootballtitle.png
+aliases:
+- /2009/02/05/remembering-mutant-league-football/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+coverimg:
+- http://guamaso.com/wp-content/uploads/2009/02/mutantfootballtitle.png
+date: 2009-02-05 13:00:49
+slug: remembering-mutant-league-football
 tags:
-  - Mutant League Football
-  - video games
-
+- Mutant League Football
+- video games
+title: Remembering Mutant League Football
+type: post
 ---
+
 <figure id="attachment_1437" aria-describedby="caption-attachment-1437" style="width: 280px" class="wp-caption alignright"><img class="size-full wp-image-1437" title="MLF" src="https://i0.wp.com/guamaso.com/wp-content/uploads/2009/02/mlf.jpg?resize=280%2C280" alt="MLF" width="280" height="280" data-recalc-dims="1" /><figcaption id="caption-attachment-1437" class="wp-caption-text">MLF</figcaption></figure>
 
 I've never been a sports guy.   It just never appealled to me, I guess.   I enjoy soccer, but only during the World Cup.   I never really played the sports video games for the same reason.   Except for a select few.

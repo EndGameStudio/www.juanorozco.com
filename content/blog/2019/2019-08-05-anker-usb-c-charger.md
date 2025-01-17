@@ -1,13 +1,14 @@
 ---
-title: Anker USB-C Charger
-author: "Juan Orozco"
-
-type: post
-date: 2019-08-06T01:08:07+00:00
-url: /2019/08/05/anker-usb-c-charger/
-featured_image: https://m.juanorozco.com/wp-content/uploads/2019/08/05210818/img_4398-1568x844.jpg
+aliases:
+- /2019/08/05/anker-usb-c-charger/
+author: Juan Orozco
 categories:
-  - Reviews
+- Reviews
+date: 2019-08-06 01:08:07
+featured_image: https://m.juanorozco.com/wp-content/uploads/2019/08/05210818/img_4398-1568x844.jpg
+slug: anker-usb-c-charger
+title: Anker USB-C Charger
+type: post
 ---
 
 Bought an [Anker USB-C charger][1] because I finally got tired of forgetting my one and only USB-C charger at home.

@@ -1,22 +1,24 @@
 ---
-title: At 17 cents a pack, why not?
-author: "Juan Orozco" 
-
-type: post
-date: 2011-01-14T21:19:50+00:00
-url: /2011/01/14/at-17-cents-a-pack-why-not/
-tagazine-media:
-  - 'a:7:{s:7:"primary";s:69:"http://juanthedesigner.files.wordpress.com/2011/01/instantnoodles.jpg";s:6:"images";a:1:{s:69:"http://juanthedesigner.files.wordpress.com/2011/01/instantnoodles.jpg";a:6:{s:8:"file_url";s:69:"http://juanthedesigner.files.wordpress.com/2011/01/instantnoodles.jpg";s:5:"width";s:3:"800";s:6:"height";s:3:"672";s:4:"type";s:5:"image";s:4:"area";s:6:"537600";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"1";s:6:"author";s:7:"8033531";s:7:"blog_id";s:8:"17975075";s:9:"mod_stamp";s:19:"2011-01-14 21:19:50";}'
+aliases:
+- /2011/01/14/at-17-cents-a-pack-why-not/
+author: Juan Orozco
 categories:
-  - post
+- post
+date: 2011-01-14 21:19:50
+slug: at-17-cents-a-pack-why-not
+tagazine-media:
+- a:7:{s:7:"primary";s:69:"http://juanthedesigner.files.wordpress.com/2011/01/instantnoodles.jpg";s:6:"images";a:1:{s:69:"http://juanthedesigner.files.wordpress.com/2011/01/instantnoodles.jpg";a:6:{s:8:"file_url";s:69:"http://juanthedesigner.files.wordpress.com/2011/01/instantnoodles.jpg";s:5:"width";s:3:"800";s:6:"height";s:3:"672";s:4:"type";s:5:"image";s:4:"area";s:6:"537600";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"1";s:6:"author";s:7:"8033531";s:7:"blog_id";s:8:"17975075";s:9:"mod_stamp";s:19:"2011-01-14
+  21:19:50";}
 tags:
-  - food
-  - hack
-  - instant noodles
-  - ramen
-  - soup
-
+- food
+- hack
+- instant noodles
+- ramen
+- soup
+title: At 17 cents a pack, why not?
+type: post
 ---
+
 &nbsp;
 
 <p style="text-align:center;">
@@ -31,4 +33,4 @@ I just got back from the store with a bag full of different flavors. Just the ba
 
 [Souped Up: How to Make Instant Ramen into a Gourmet Meal][1].
 
- [1]: http://gizmodo.com/5645425/souped-up-how-to-make-instant-ramen-into-a-gourmet-meal
+[1]: http://gizmodo.com/5645425/souped-up-how-to-make-instant-ramen-into-a-gourmet-meal

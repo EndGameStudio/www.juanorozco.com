@@ -1,13 +1,12 @@
-+++
-author = "Juan Orozco"
-caption = "Photo by Susan Yin on Unsplash"
-date = 2022-05-05T18:30:23Z
-feature = "https://res.cloudinary.com/deo07tbou/image/upload/v1588703500/juan-orozco-com/2020/05/susan-yin-2JIvboGLeho-unsplash_hodtay.jpg"
-tags = []
-title = "Books 2022"
-type = "post"
-
-+++
+---
+author: Juan Orozco
+caption: Photo by Susan Yin on Unsplash
+date: 2022-05-05 18:30:23
+feature: https://res.cloudinary.com/deo07tbou/image/upload/v1588703500/juan-orozco-com/2020/05/susan-yin-2JIvboGLeho-unsplash_hodtay.jpg
+slug: books-2022
+title: Books 2022
+type: post
+---
 
 - Man Enough by Justin Baldoni
 - A Thousand Sisters by Elizabeth Wein

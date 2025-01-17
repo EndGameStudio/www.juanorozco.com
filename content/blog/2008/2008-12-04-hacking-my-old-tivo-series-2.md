@@ -1,16 +1,15 @@
 ---
-title: Hacking my old Tivo Series 2
-author: "Juan Orozco"
-
-type: post
-date: 2008-12-04T00:00:00+00:00
-draft: true
-url: /?p=1186
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2008-12-04 00:00:00
+draft: true
+slug: hacking-my-old-tivo-series-2
 tags:
-  - media pc
-  - tivo
+- media pc
+- tivo
+title: Hacking my old Tivo Series 2
+type: post
 ---
 
 intro, found tivo box at mom and dads house, brought it home.

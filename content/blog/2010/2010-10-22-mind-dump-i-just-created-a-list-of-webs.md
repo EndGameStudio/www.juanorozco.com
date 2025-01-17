@@ -1,12 +1,13 @@
 ---
-title: 'Mind dump: I just created a list of webs…'
-author: "Juan Orozco" 
-
-type: post
-date: 2010-10-22T15:01:08+00:00
-url: /2010/10/22/mind-dump-i-just-created-a-list-of-webs/
+aliases:
+- /2010/10/22/mind-dump-i-just-created-a-list-of-webs/
+author: Juan Orozco
 categories:
-  - status
-
+- status
+date: 2010-10-22 15:01:08
+slug: mind-dump-i-just-created-a-list-of-webs
+title: 'Mind dump: I just created a list of webs…'
+type: post
 ---
+
 Mind dump: I just created a list of websites, home projects, ideas, and other projects that I have in mind to work on. There are over 50 items on this list. Jeez.

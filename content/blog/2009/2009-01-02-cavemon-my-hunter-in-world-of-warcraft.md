@@ -1,24 +1,25 @@
 ---
-title: Cavemon, my Hunter in World of Warcraft
-author: "Juan Orozco" 
-
-type: post
-date: 2009-01-02T17:00:06+00:00
-url: /2009/01/02/cavemon-my-hunter-in-world-of-warcraft/
+aliases:
+- /2009/01/02/cavemon-my-hunter-in-world-of-warcraft/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2009-01-02 17:00:06
+slug: cavemon-my-hunter-in-world-of-warcraft
 tags:
-  - video games
-  - World of Warcraft
-
+- video games
+- World of Warcraft
+title: Cavemon, my Hunter in World of Warcraft
+type: post
 ---
+
 I started a new character a while back, a hunter this time.   I avoided the hunter class because a good portion of players chose it over any other class.   I can understand why, it's a simple class for beginners but also complex enough for experts.   I don't like doing what everybody else is doing, so I chose a Rogue instead.
 
 <span>Well, I finally gave in a few months ago.   I made a troll hunter and named him Asbestos.   My server went up for a free transfer and I chose to transfer all my characters to a different server, when I did, I had to change his name to <span>Cavemon</span> since Asbestos was already taken on the new server.<br /> </span>
 
 <span>I really want to create a complete back story for all my <span>toons</span>, but for now I just want to show off my little cat collection and give a small role-playing background too.</span>
 
-### <span><span></p> 
+### <span><span></p>
 
 <p>
   <figure style="width: 192px" class="wp-caption alignleft"><img title="Cavemon and Pringles" src="https://i0.wp.com/farm4.static.flickr.com/3085/3131950315_b669faf774_m.jpg?resize=192%2C240" alt="Cavemon and Pringles" width="192" height="240" data-recalc-dims="1" /><figcaption class="wp-caption-text">Cavemon and Pringles</figcaption></figure>

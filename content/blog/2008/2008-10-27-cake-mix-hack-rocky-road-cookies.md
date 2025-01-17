@@ -1,19 +1,20 @@
 ---
-title: 'Cake Mix Hack: Rocky Road Cookies'
-author: "Juan Orozco" 
-
-type: post
-date: 2008-10-28T03:28:07+00:00
-url: /2008/10/27/cake-mix-hack-rocky-road-cookies/
 aktt_tweeted:
-  - 1
+- 1
+aliases:
+- /2008/10/27/cake-mix-hack-rocky-road-cookies/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2008-10-28 03:28:07
+slug: cake-mix-hack-rocky-road-cookies
 tags:
-  - cookies
-  - Cooking
-
+- cookies
+- Cooking
+title: 'Cake Mix Hack: Rocky Road Cookies'
+type: post
 ---
+
 As the resident stay at home parent, I am now in charge of many house duties.   Fixing the bed?   Me.   Cleaning? Always has been me.   Animal caretaker?   Me.   Cooking?   Me.   (I'm so gonna get hell for that second one.)   I don't mind these responsibilities, as a matter of fact, I enjoy most of them.   Especially cooking.   I'm not sure what it is, probably something to do with my geekyness, but I have so much fun creating meals from ingredients.
 
 <figure style="width: 240px" class="wp-caption alignleft">[<img title="Rocky Road Cookie" src="https://i0.wp.com/farm4.static.flickr.com/3182/2979623973_35c97060cf_m.jpg?resize=240%2C180" alt="" width="240" height="180" data-recalc-dims="1" />][1]<figcaption class="wp-caption-text">Rocky Road Cookie</figcaption></figure>
@@ -35,21 +36,21 @@ My next baking attempt will be homemade granola.   Stay tuned for that disaster
 Here's the recipe, be warned: they may come out like cake-ookies.   I got it from Cooks dot com.
 
 1 pkg. semi-sweet chocolate chips
-  
+
 1 stick butter, softened
-  
+
 1/2 c. walnuts or pecans
-  
+
 1/2 c. oatmeal
-  
+
 1 egg
-  
+
 1/3 c. milk
-  
+
 1 (2 layer size) cake mix, white for reg. cookies or chocolate for chocolate chocolate chip.
 
 Get the <a href="http://www.cooks.com/rec/view/0,186,159189-234199,00.html" target="_blank" rel="noopener noreferrer">rest of it at cooks dot com</a>.
 
 **UPDATE:** I had some cookies yesterday from this batch and they were exceptional.   I take everything bad back about this recipe- it doesn't need to be changed.   I do remember having to cook them a little longer though.   Marshmallows are still a No-go.
 
- [1]: http://flickr.com/photos/theguamaso/sets/72157608431352314/
+[1]: http://flickr.com/photos/theguamaso/sets/72157608431352314/

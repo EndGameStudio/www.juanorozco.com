@@ -1,11 +1,12 @@
 ---
-title: Joe Gandara
-author: "Juan Orozco"
-type: post
-draft: true
-date: 2023-03-29T10:00:00-07:00
+author: Juan Orozco
 categories:
-  - Thoughts
+- Thoughts
+date: 2023-03-29 17:00:00
+draft: true
+slug: joe-gandara
+title: Joe Gandara
+type: post
 ---
 
 Memorial day is important to us. We don't grill hot dogs or go camping - no judgement to those that do, though, coordinated time off with work and school is hard to come by, I get it. Because I normally work remotely and our kids are homeschooled, though, we are lucky enough to explore different ways of seeing the world.

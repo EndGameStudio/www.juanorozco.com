@@ -1,22 +1,23 @@
 ---
-title: Creativity and Art in My Family
-author: "Juan Orozco" 
-
-type: post
-date: 2009-05-04T14:14:04+00:00
-url: /2009/05/04/creativity-and-art-in-my-family/
 aktt_tweeted:
-  - 1
+- 1
+aliases:
+- /2009/05/04/creativity-and-art-in-my-family/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2009-05-04 14:14:04
+slug: creativity-and-art-in-my-family
 tags:
-  - Art
-  - creativity
-  - drawing
-  - Family
-  - video
-
+- Art
+- creativity
+- drawing
+- Family
+- video
+title: Creativity and Art in My Family
+type: post
 ---
+
 My sister, Tanya, has been drawing since she was a little kid.  Her and my brother are part of the reason why I didn't push myself to sketch and draw more when I was younger.  They are much more talented and gifted than I am with the pencil and brush.
 
 Speaking of creativity in the family, many of our uncles and aunts are VERY good artists.  My uncle Miguel has art all over my grandparents house using the Pointillism (or is it Divisionism?) technique.  They're amazing and beautiful paintings.  On my mom's side, a few of my uncles used to draw a lot of caricatures and other cartoon stuff.  The creativity genes exist from both sides of our family so it's no surprise that the four siblings are all creative in one way or another.

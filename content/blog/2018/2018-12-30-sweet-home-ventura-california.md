@@ -1,13 +1,11 @@
 ---
-title: Sweet Home Ventura, California
-author: "Juan Orozco"
-
-type: post
-
-draft: true
-url: /?p=34
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+draft: true
+slug: sweet-home-ventura-california
+title: Sweet Home Ventura, California
+type: post
 ---
 
 Traveling enriches your life. The wife and I traveled to a few nice places that our planet has to offer. One such place, we currently live in: Raleigh, North Carolina.

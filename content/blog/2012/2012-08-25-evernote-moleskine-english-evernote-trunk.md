@@ -1,14 +1,15 @@
 ---
-title: Evernote Moleskine – English – Evernote Trunk
-author: "Juan Orozco" 
-
-type: post
-date: 2012-08-25T15:53:17+00:00
-url: /2012/08/25/evernote-moleskine-english-evernote-trunk/
+aliases:
+- /2012/08/25/evernote-moleskine-english-evernote-trunk/
+author: Juan Orozco
 categories:
-  - link
-
+- link
+date: 2012-08-25 15:53:17
+slug: evernote-moleskine-english-evernote-trunk
+title: Evernote Moleskine – English – Evernote Trunk
+type: post
 ---
+
 &nbsp;
 
 <p style="text-align:center;">
@@ -21,4 +22,4 @@ categories:
 
 [Evernote Moleskine - English - Evernote Trunk][1].
 
- [1]: http://trunk.evernote.com/gear/evernote-moleskine
+[1]: http://trunk.evernote.com/gear/evernote-moleskine

@@ -1,14 +1,16 @@
 ---
-title: Notebooks
-author: "Juan Orozco"
-type: post
-date: 2020-01-23T22:05:41+00:00
-url: /2020/01/23/notebooks/
-featured_image: https://m.juanorozco.com/wp-content/uploads/2020/01/23174006/img_5231-1200x900.jpg
+aliases:
+- /2020/01/23/notebooks/
+author: Juan Orozco
 categories:
-  - Thoughts
+- Thoughts
+date: 2020-01-23 22:05:41
+featured_image: https://m.juanorozco.com/wp-content/uploads/2020/01/23174006/img_5231-1200x900.jpg
+slug: notebooks
 tags:
-  - productivity
+- productivity
+title: Notebooks
+type: post
 ---
 
 Field Notes make some **amazing** notebooks. My favorite, to this day, is the [Shelterwood][1] from the Field Notes quarterly subscription. A pocket sized notebook wrapped in a super thin vineer of cherry wood - just beautiful.

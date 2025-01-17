@@ -1,19 +1,20 @@
 ---
-title: Radio Flyer “scooter”
-author: "Juan Orozco" 
-
-type: post
-date: 2010-09-11T02:48:41+00:00
-url: /2010/09/10/radio-flyer-scooter/
+aliases:
+- /2010/09/10/radio-flyer-scooter/
+author: Juan Orozco
 categories:
-  - post
+- post
+date: 2010-09-11 02:48:41
+slug: radio-flyer-scooter
 tags:
-  - scooter
-  - toy
-  - trike
-  - vespa
-
+- scooter
+- toy
+- trike
+- vespa
+title: Radio Flyer “scooter”
+type: post
 ---
+
 Our kids are ready for trikes. While searching for some on Amazon I stumbled upon the beauty.  I was actually hunting down big wheels but I think the Vespa inspired styling has stolen my heart.  We'll be getting two of these in the near future.
 
 <p style="text-align:center;">
@@ -22,4 +23,4 @@ Our kids are ready for trikes. While searching for some on Amazon I stumbled upo
 
 [Radio Flyer - Classic Lights & Sounds Trike][1].
 
- [1]: http://www.radioflyer.com/classic-lights-and-sounds-trike.html
+[1]: http://www.radioflyer.com/classic-lights-and-sounds-trike.html

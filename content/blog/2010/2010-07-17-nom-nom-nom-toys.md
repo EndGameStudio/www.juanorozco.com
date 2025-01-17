@@ -1,14 +1,15 @@
 ---
-title: Nom nom nom! TOYS!
-author: "Juan Orozco" 
-
-type: post
-date: 2010-07-17T17:35:11+00:00
-url: /2010/07/17/nom-nom-nom-toys/
+aliases:
+- /2010/07/17/nom-nom-nom-toys/
+author: Juan Orozco
 categories:
-  - link
-
+- link
+date: 2010-07-17 17:35:11
+slug: nom-nom-nom-toys
+title: Nom nom nom! TOYS!
+type: post
 ---
+
 <p style="text-align:center;">
   <a href="http://www.yankodesign.com/2010/07/15/my-toy-guardian/"><img src='http://juanthedesigner.files.wordpress.com/2010/07/toy_guardian6.jpg?w=580' alt='' data-recalc-dims="1" /></a>
 </p>
@@ -17,4 +18,4 @@ Around our home we have four different toy "stations." Each is a different ugly 
 
 via Yanko Design - Modern Industrial Design News: [My Toy Guardian][1].
 
- [1]: http://www.yankodesign.com/2010/07/15/my-toy-guardian/
+[1]: http://www.yankodesign.com/2010/07/15/my-toy-guardian/

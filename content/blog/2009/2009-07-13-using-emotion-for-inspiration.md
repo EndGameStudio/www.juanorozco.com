@@ -1,20 +1,21 @@
 ---
-title: Using emotion for inspiration
-author: "Juan Orozco" 
-
-type: post
-date: 2009-07-14T03:11:00+00:00
-url: /2009/07/13/using-emotion-for-inspiration/
-image:
-  - http://creativeandflow.com/wp-content/uploads/2009/07/IMG_1005.jpg
+aliases:
+- /2009/07/13/using-emotion-for-inspiration/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2009-07-14 03:11:00
+image:
+- http://creativeandflow.com/wp-content/uploads/2009/07/IMG_1005.jpg
+slug: using-emotion-for-inspiration
 tags:
-  - Art
-  - painting
-  - watercolor
-
+- Art
+- painting
+- watercolor
+title: Using emotion for inspiration
+type: post
 ---
+
 I’ve been fighting some demons lately.  No, not drugs or anything like that. Never.  Kids are great. Wife is healthy. No, it’s nothing like that. Let’s just say we’re going through some emotional times right now.  That’s the problem with life, sometimes she can be a real pain.  Well, either way, our lot in life is to soldier on and that’s what we’re doing.
 
 The unfortunate side effect to this is a slight emotional downer.  I hate letting life affect my emotions for so long.  Poop happens and we adjust – being emotional doesn’t help any.
@@ -22,8 +23,6 @@ The unfortunate side effect to this is a slight emotional downer.  I hate letti
 So, how do we cope?  How do we set our path back to the direction we wanted it to be?  Everyone has their own way, but mine is through creativity. (You should’ve seen that one coming! HA!)
 
 The last time I painted with <a href="http://twitpic.com/4psx1" target="_blank" rel="noopener noreferrer">watercolors was for the Mothers day gift</a> I made. That was a lot of fun and extremely relaxing. So what the heck, why not. I brought out my supplies, tore out a couple of pages and started painting…
-
-
 
 The first one, “Power” isn’t done yet. I want to draw an open hand in the center. The hand will look like as if it was clasping a light source.  Kinda like a <a href="http://dragonball.wikia.com/wiki/Kamehameha" target="_blank" rel="noopener noreferrer">Kamehameha</a> wave.
 

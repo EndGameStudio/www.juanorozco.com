@@ -1,27 +1,28 @@
 ---
-title: Using Dropbox for versioning
-author: "Juan Orozco" 
-
-type: post
-date: 2012-08-08T02:37:39+00:00
-url: /2012/08/07/using-dropbox-for-versioning/
+aliases:
+- /2012/08/07/using-dropbox-for-versioning/
+author: Juan Orozco
 categories:
-  - post
+- post
+date: 2012-08-08 02:37:39
+slug: using-dropbox-for-versioning
 tags:
-  - dropbox
-  - revision
-  - software development
-  - source control
-  - versioning
-
+- dropbox
+- revision
+- software development
+- source control
+- versioning
+title: Using Dropbox for versioning
+type: post
 ---
+
 Prior to my current position, I had no clue what SVN or GIT were.&#160; I finally got a very thorough explanation of SVN and versioning in general a few weeks ago.&#160; Like all concepts I learn, I started to examine areas that might benefit from not just SVN but the concept of versions and revisions.
 
-The obvious place was my personal pool of ongoing projects.&#160; But I know how I work with new things.&#160; I get all “ooo shiny” and want to find a place for it even thought all it is is shiny – nothing more. With this in mind, I thought about where my projects currently reside: Dropbox.&#160; 
+The obvious place was my personal pool of ongoing projects.&#160; But I know how I work with new things.&#160; I get all “ooo shiny” and want to find a place for it even thought all it is is shiny – nothing more. With this in mind, I thought about where my projects currently reside: Dropbox.&#160;
 
 ### Versioning
 
-Dropbox has revisions!&#160; Duh!&#160; Using the methods explained to me but considering the size and use of my files, Dropbox is the perfect platform. I have accumulated about 4 gigs of extra space on my free account over the years; It already creates periodic revisions (<strike>I don’t believe it’s with every save, but that’s ok for my use</strike> it is with “every change”); and it syncs to all my other computers including my test server. 
+Dropbox has revisions!&#160; Duh!&#160; Using the methods explained to me but considering the size and use of my files, Dropbox is the perfect platform. I have accumulated about 4 gigs of extra space on my free account over the years; It already creates periodic revisions (<strike>I don’t believe it’s with every save, but that’s ok for my use</strike> it is with “every change”); and it syncs to all my other computers including my test server.
 
 The test server, by the way, has symbolic links set up so when I save the file locally, it is immediately pushed to my web server for testing. No FTP required!
 

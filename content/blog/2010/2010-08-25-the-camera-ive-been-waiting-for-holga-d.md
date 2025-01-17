@@ -1,17 +1,18 @@
 ---
-title: 'The camera I’ve been waiting for: Holga D'
-author: "Juan Orozco" 
-
-type: post
-date: 2010-08-25T04:44:01+00:00
-url: /2010/08/25/the-camera-ive-been-waiting-for-holga-d/
+aliases:
+- /2010/08/25/the-camera-ive-been-waiting-for-holga-d/
+author: Juan Orozco
 categories:
-  - post
+- post
+date: 2010-08-25 04:44:01
+slug: the-camera-ive-been-waiting-for-holga-d
 tags:
-  - camera
-  - holga
-
+- camera
+- holga
+title: 'The camera I’ve been waiting for: Holga D'
+type: post
 ---
+
 <p style="text-align:center;">
   <a href="http://www.saikatbiswas.com/web/Projects/Holga_D.htm"><img src='http://juanthedesigner.files.wordpress.com/2010/08/holga_d_031.jpg?w=580' alt='' data-recalc-dims="1" /></a>
 </p>
@@ -26,6 +27,6 @@ The camera itself is simple. No preview screen, no flash, fixed lens, one f-stop
 
 [Holga D - Holga Digtal Camera - Saikat Biswas][3].
 
- [1]: http://hipstamaticapp.com/
- [2]: http://www.saikatbiswas.com/blog/2010/07/18/could-holga-d-succeed-as-an-open-source-camera_/
- [3]: http://www.saikatbiswas.com/web/Projects/Holga_D.htm
+[1]: http://hipstamaticapp.com/
+[2]: http://www.saikatbiswas.com/blog/2010/07/18/could-holga-d-succeed-as-an-open-source-camera_/
+[3]: http://www.saikatbiswas.com/web/Projects/Holga_D.htm

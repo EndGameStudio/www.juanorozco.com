@@ -1,18 +1,20 @@
 ---
-title: Wolf Blood Moon
-author: "Juan Orozco"
-
-type: post
-date: 2019-01-22T15:33:31+00:00
-excerpt: Photos from Wolf Blood Moon (Total Lunar Eclipse), January 2019, near Raleigh NC
-url: /2019/01/22/wolf-blood-moon/
-featured_image: https://m.juanorozco.com/wp-content/uploads/2019/01/21223156/DSC091481-1568x1047.jpg
+aliases:
+- /2019/01/22/wolf-blood-moon/
+author: Juan Orozco
 categories:
-  - Photography
+- Photography
+date: 2019-01-22 15:33:31
+excerpt: Photos from Wolf Blood Moon (Total Lunar Eclipse), January 2019, near Raleigh
+  NC
+featured_image: https://m.juanorozco.com/wp-content/uploads/2019/01/21223156/DSC091481-1568x1047.jpg
+slug: wolf-blood-moon
 tags:
-  - blood moon
-  - lunar eclipse
-  - photography
+- blood moon
+- lunar eclipse
+- photography
+title: Wolf Blood Moon
+type: post
 ---
 
 In the past ten years, we've seen three total lunar eclipses where 'round these parts. Every time, though, circumstances prevented us from seeing it - clouds, really effing late hours, etc. This, year, though, we had a clear night and it wasn't too late in the evening.

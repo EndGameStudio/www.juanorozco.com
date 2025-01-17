@@ -1,14 +1,15 @@
 ---
-title: The EULA on OEM Microsoft software is ba…
-author: "Juan Orozco" 
-
-type: post
-date: 2010-05-31T12:42:44+00:00
-url: /2010/05/31/the-eula-on-oem-microsoft-software-is-ba/
+aliases:
+- /2010/05/31/the-eula-on-oem-microsoft-software-is-ba/
+author: Juan Orozco
 categories:
-  - status
+- status
+date: 2010-05-31 12:42:44
+slug: the-eula-on-oem-microsoft-software-is-ba
 tags:
-  - microsucks
-
+- microsucks
+title: The EULA on OEM Microsoft software is ba…
+type: post
 ---
+
 The EULA on OEM Microsoft software is baloney.

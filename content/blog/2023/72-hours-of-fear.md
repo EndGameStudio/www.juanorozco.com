@@ -1,23 +1,23 @@
 ---
-title: 72 Hours of Fear
-author: "Juan Orozco"
-type: post
-date: 2023-03-12T22:05:41-07:00
+author: Juan Orozco
 categories:
-  - Thoughts
-  - Work
-
+- Thoughts
+- Work
+date: 2023-03-13 05:05:41
+slug: 72-hours-of-fear
+title: 72 Hours of Fear
+type: post
 ---
 
-This evening, I stared a bit longer in the mirror; at my hairline. I think my hair visibly thinned over the weekend. My hairline isn't something I fret over; it *is* moving, but I can't do anything about it. I'm trying to be more of a Stoicist in my 40s; I'm trying to be more, you know, "WWMAD"? I'm starting to wonder if the last few years would try even Marcus Aurelius' dedication to calm.
+This evening, I stared a bit longer in the mirror; at my hairline. I think my hair visibly thinned over the weekend. My hairline isn't something I fret over; it _is_ moving, but I can't do anything about it. I'm trying to be more of a Stoicist in my 40s; I'm trying to be more, you know, "WWMAD"? I'm starting to wonder if the last few years would try even Marcus Aurelius' dedication to calm.
 
 Take this weekend, for example. Well, let's rewind a bit.
 
 ## Friday
 
-I'm in a particularly difficult retro as we are discussing some heavy topics. We're making good progress talking about some systemic issues we're facing, which gives me hope. 
+I'm in a particularly difficult retro as we are discussing some heavy topics. We're making good progress talking about some systemic issues we're facing, which gives me hope.
 
-Slack dings. An "@everyone" ping from the general channel. It's our CEO. SVB just shut down. All our money is in that bank. Our entire runway. Our next paycheck. Suddenly, it becomes challenging to focus on the retro discussion. 
+Slack dings. An "@everyone" ping from the general channel. It's our CEO. SVB just shut down. All our money is in that bank. Our entire runway. Our next paycheck. Suddenly, it becomes challenging to focus on the retro discussion.
 
 I can't do anything about our financial situation, but I _can_ give this retro and my team my complete attention. Besides, our CEO is on it and will keep us updated. I trust him.
 
@@ -31,7 +31,7 @@ I rush to my wife and update her on the news. The next pay cycle might be delaye
 
 Sleep came quickly Friday night but was interrupted in the early morning by kids getting up for a glass of water. Suddenly, my mind decided it was a good time to make sense of our situation to come up with possibilities and responses for each outcome. If this, then that; repeat. After about an hour of deep processing, I come up for air and realize what I'm doing. "I need to sleep," I tell myself. I try. I failed for a bit but finally succeeded.
 
-More news reading. More searching for understanding - hacker news, Reddit, youtube, (I avoid Twitter as much as possible). I find that everyone has an opinion and that they _do_ stink. I do some napkin math and realize that our company will be ok for a month or two just on the insured portion of our deposits. That gives me a very short time to find a new job. Our savings aren't significant after years of inflation and travel, but there's a bit there. 
+More news reading. More searching for understanding - hacker news, Reddit, youtube, (I avoid Twitter as much as possible). I find that everyone has an opinion and that they _do_ stink. I do some napkin math and realize that our company will be ok for a month or two just on the insured portion of our deposits. That gives me a very short time to find a new job. Our savings aren't significant after years of inflation and travel, but there's a bit there.
 
 The sun is out today. It is a _beautiful_ day. The first beautiful day in a long time after a barrage of atmospheric rivers. Is it still a phenomenon, or can we call it the weather now? Either way, we pack up the kids and head out to the park to enjoy the sunlight.
 
@@ -47,7 +47,7 @@ Oh, awesome. We still haven't rid ourselves of daylight savings time. Great, I'm
 
 I try to keep myself busy throughout the day. I make coffee. I clean the kitchen. I make lunch. I clean the kitchen. I finally decided that I was losing too much sleep over this and convinced my body to stop worrying.
 
-At some point, while pretending not to be worried, I reflexively open NPR on my phone. The government is going to make all deposits whole. I read the article twice. 
+At some point, while pretending not to be worried, I reflexively open NPR on my phone. The government is going to make all deposits whole. I read the article twice.
 
 We watch Wakanda Forever as a family. I cry a couple of times, once for Chadwick Boseman and once for Talokan (what could my ancestors have built if they weren't enslaved and destroyed by colonizers?). Being in the moment with the family for the first time all weekend felt good.
 

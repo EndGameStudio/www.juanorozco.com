@@ -1,18 +1,19 @@
 ---
-title: Play the guitar with your teeth
-author: "Juan Orozco" 
-
-type: post
-date: 2010-09-11T04:33:13+00:00
-url: /2010/09/11/play-the-guitar-with-your-teeth/
+aliases:
+- /2010/09/11/play-the-guitar-with-your-teeth/
+author: Juan Orozco
 categories:
-  - link
+- link
+date: 2010-09-11 04:33:13
+slug: play-the-guitar-with-your-teeth
 tags:
-  - toddler
-  - toys
-  - wood
-
+- toddler
+- toys
+- wood
+title: Play the guitar with your teeth
+type: post
 ---
+
 <p style="text-align:center;">
   <a href="http://www.etsy.com/listing/56049061/organic-baby-teething-safe-toy-wood?ref=cat1_gallery_3"><br /> <img src='https://i0.wp.com/iam.juano.info/files/2010/09/il_430xN.173541313.jpg?w=580' alt='' data-recalc-dims="1" /></a>
 </p>
@@ -23,4 +24,4 @@ I really enjoy finding all these wooden toys on Etsy.  You'd think that with al
 
 [Organic BABY TEETHING SAFE TOY wood guitar by littlealouette][1].
 
- [1]: http://www.etsy.com/listing/56049061/organic-baby-teething-safe-toy-wood?ref=cat1_gallery_3
+[1]: http://www.etsy.com/listing/56049061/organic-baby-teething-safe-toy-wood?ref=cat1_gallery_3

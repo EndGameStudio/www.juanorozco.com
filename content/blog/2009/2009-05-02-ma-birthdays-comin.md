@@ -1,21 +1,22 @@
 ---
-title: Ma’ Birthday’s Comin’
-author: "Juan Orozco" 
-
-type: post
-date: 2009-05-02T14:02:29+00:00
-url: /2009/05/02/ma-birthdays-comin/
 aktt_tweeted:
-  - 1
+- 1
+aliases:
+- /2009/05/02/ma-birthdays-comin/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2009-05-02 14:02:29
+slug: ma-birthdays-comin
 tags:
-  - birthday
-  - Books
-  - gadgets
-  - wishlist
-
+- birthday
+- Books
+- gadgets
+- wishlist
+title: Ma’ Birthday’s Comin’
+type: post
 ---
+
 It's wishlist time. Last year was a pretty successful year for my annual personal holiday, I got Mario Kart, my sub-woofer, and a few other doo-dads. This year is a tough one for many people including my family and friends. I never expect gifts from them but they always ask what I want. It's also fun to just list the things I am excited about.
 
 <figure id="attachment_1703" aria-describedby="caption-attachment-1703" style="width: 150px" class="wp-caption alignleft">[<img class="size-thumbnail wp-image-1703" title="protocd100" src="https://i2.wp.com/guamaso.com/wp-content/uploads/2009/05/protocd100-150x150.jpg?resize=150%2C150" alt="Protomen" width="150" height="150" data-recalc-dims="1" />][1]<figcaption id="caption-attachment-1703" class="wp-caption-text">Protomen</figcaption></figure>
@@ -34,7 +35,7 @@ The last thing on my list are gift cards, specifically for downloadable content.
 
 I'm trying to be good this year. Ciri says it's really hard to shop for me because everything I want is [very][3] [expensive.][4] As you can see, not one gift passes the $50 mark!  Yay me!
 
- [1]: http://www.zambooie.com/stores/Detail.tpl?cart=12412698193666992&st_id=236&sku=PROTOCD100
- [2]: http://astore.amazon.com/guamaso-20/detail/0965968871
- [3]: http://guamaso.com/2008/07/22/e3-is-over-and-i-want-an-xbox-360
- [4]: http://guamaso.com/2008/06/24/sennheisers-freaking-rock
+[1]: http://www.zambooie.com/stores/Detail.tpl?cart=12412698193666992&st_id=236&sku=PROTOCD100
+[2]: http://astore.amazon.com/guamaso-20/detail/0965968871
+[3]: http://guamaso.com/2008/07/22/e3-is-over-and-i-want-an-xbox-360
+[4]: http://guamaso.com/2008/06/24/sennheisers-freaking-rock

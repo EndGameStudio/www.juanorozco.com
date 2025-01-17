@@ -1,13 +1,11 @@
 ---
-title: Post vacation doldrum
-author: "Juan Orozco"
-
-type: post
-
-draft: true
-url: /?p=32
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+draft: true
+slug: post-vacation-doldrum
+title: Post vacation doldrum
+type: post
 ---
 
 At the end of 2007, Ciri and I left Germany and moved to North Carolina. Thousands of miles away from the amazing friends we made in Kaiserslautern and thousands of miles away from family in California.

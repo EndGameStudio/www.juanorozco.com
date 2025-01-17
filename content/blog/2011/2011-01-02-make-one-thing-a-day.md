@@ -1,21 +1,22 @@
 ---
-title: Make one thing a day.
-author: "Juan Orozco" 
-
-type: post
-date: 2011-01-02T05:12:52+00:00
-url: /2011/01/02/make-one-thing-a-day/
+aliases:
+- /2011/01/02/make-one-thing-a-day/
+author: Juan Orozco
 categories:
-  - post
-tags:
-  - craft
-  - make
-  - PostAWeek
+- post
+date: 2011-01-02 05:12:52
 format: standard
-
+slug: make-one-thing-a-day
+tags:
+- craft
+- make
+- PostAWeek
+title: Make one thing a day.
+type: post
 ---
+
 I have a list. This list contains over 60 items. These items consist of ideas and projects. All of which I want to complete some day. So, here's the goal, call it my New Year's
-  
+
 resolution: Make one thing a week. Preferably one thing a day, but knowing me, one thing a week is more doable.
 
 There are three goals here. First, and foremost, reduce my list so I don't feel overwhelmed every time I look at it. Second, actually be able to MAKE something. I'm in the middle of about 10 different projects. Doing this will help me focus on one thing at a time and actually FINISH my projects. Lastly, write more. I am all over the place when it comes to writing.  I want to be more consistent and frequent with my writing.  So, to start off the year, I am taking on the [challenge set forth by WordPress.com][1]. Today, I'm going to use the inspiration from the [new Daily Post][2].
@@ -24,6 +25,6 @@ There are three goals here. First, and foremost, reduce my list so I don't feel 
 
 When I said make something, I meant make anything. Print it, build it, code it, design it... whatever. Just get that list done. Today, though, was about getting into the flow of things... and getting some brownie points. 🙂
 
- [1]: http://en.blog.wordpress.com/2010/12/30/challenge-for-2011-want-to-blog-more-often/
- [2]: http://dailypost.wordpress.com/
- [3]: http://www.dudecraft.com/2010/12/free-compliments.html "Free Compliments - DudeCraft"
+[1]: http://en.blog.wordpress.com/2010/12/30/challenge-for-2011-want-to-blog-more-often/
+[2]: http://dailypost.wordpress.com/
+[3]: http://www.dudecraft.com/2010/12/free-compliments.html "Free Compliments - DudeCraft"

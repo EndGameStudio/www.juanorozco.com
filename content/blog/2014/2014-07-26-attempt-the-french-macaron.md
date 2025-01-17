@@ -1,17 +1,18 @@
 ---
-title: Attempt the… FRENCH MACARON
-author: "Juan Orozco" 
-
-type: post
-date: 2014-07-26T05:20:00+00:00
-url: /2014/07/26/attempt-the-french-macaron/
+aliases:
+- /2014/07/26/attempt-the-french-macaron/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2014-07-26 05:20:00
+slug: attempt-the-french-macaron
 tags:
-  - food
-  - Journal
-
+- food
+- Journal
+title: Attempt the… FRENCH MACARON
+type: post
 ---
+
 Baking is the closest I will probably ever get to a laboratory science and I am ok with that. I love the sciences and I like laboratory science but can you eat HCl and live? Unless you have Wolverine's healing factor, I highly doubt it.
 
 Baking is a one hell of a science. An unforgiving, finicky, and _extremely_ rewarding science. Measurements often need to be precise. Heat must be applied with attention. Patience and attention to detail are key. Experimentation is **highly** encouraged.
@@ -70,8 +71,8 @@ The point is, don't feel discouraged when something doesn't come out perfect. As
 
 ![][5]
 
- [1]: http://bulbapedia.bulbagarden.net/wiki/M14
- [2]: http://en.wikipedia.org/wiki/Macaroon
- [3]: http://en.wikipedia.org/wiki/Macaroon#French
- [4]: /content/images/2014/Jul/2014-07-25-18-13-19.jpg
- [5]: /content/images/2014/Jul/2014-07-25-19-10-02.jpg
+[1]: http://bulbapedia.bulbagarden.net/wiki/M14
+[2]: http://en.wikipedia.org/wiki/Macaroon
+[3]: http://en.wikipedia.org/wiki/Macaroon#French
+[4]: /content/images/2014/Jul/2014-07-25-18-13-19.jpg
+[5]: /content/images/2014/Jul/2014-07-25-19-10-02.jpg

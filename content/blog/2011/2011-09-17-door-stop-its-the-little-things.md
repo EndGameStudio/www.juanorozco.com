@@ -1,15 +1,16 @@
 ---
-title: Door stop – It’s the little things…
-author: "Juan Orozco"
-
-type: post
-date: 2011-09-17T05:24:49+00:00
-url: /2011/09/17/door-stop-its-the-little-things/
+aliases:
+- /2011/09/17/door-stop-its-the-little-things/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2011-09-17 05:24:49
+slug: door-stop-its-the-little-things
 tags:
-  - Design
-  - Industrial Design
+- Design
+- Industrial Design
+title: Door stop – It’s the little things…
+type: post
 ---
 
 &nbsp;

@@ -1,19 +1,20 @@
 ---
-title: Releasing Often
-author: "Juan Orozco" 
-
-type: post
-date: 2019-08-01T03:56:28+00:00
-url: /2019/07/31/releasing-often/
+aliases:
+- /2019/07/31/releasing-often/
+author: Juan Orozco
 categories:
-  - Thoughts
-
+- Thoughts
+date: 2019-08-01 03:56:28
+slug: releasing-often
+title: Releasing Often
+type: post
 ---
+
 A couple of months back, my wife was working on updating our fence. Specifically, she was improving the gates.
 
 We had two gates. On the west side of the house, we had a small gate – mostly for people but wide enough for a mower. On the east side, we had a more massive vehicle entry. When we first built the fence about ten years ago, we had no idea what we were doing. We worked with what we had, and, in the end, we built a solid, working fence.
 
-The large gate was held closed with four screws. (I kinda wish I had taken photos of all this…) The small gate had a latch, but the gate was a tidge too beefy and would rub when it closed, making it difficult to latch the lock. 
+The large gate was held closed with four screws. (I kinda wish I had taken photos of all this…) The small gate had a latch, but the gate was a tidge too beefy and would rub when it closed, making it difficult to latch the lock.
 
 Put simply, it sucked. It wasn't the best experience, but the fence and gates served us well for ten years.
 
@@ -37,10 +38,10 @@ Between the two of us - her building and me helping as needed, mostly to bounce 
 
 > One could argue that the above is all just a communication break down. I agree with that, but there's more to the story than only communication. I think there's a systemic problem brewing. But that's a post for another day.
 
-Our fence was built by people that had the autonomy to decide timelines, research solutions, and choose the build strategies. Along with more ethical decision making in engineering, I hope to see more independence given to engineering teams. Which should result in more fair representation at the decision table. 
+Our fence was built by people that had the autonomy to decide timelines, research solutions, and choose the build strategies. Along with more ethical decision making in engineering, I hope to see more independence given to engineering teams. Which should result in more fair representation at the decision table.
 
 I'm not saying work should be easy, we _should_ be challenged! But there is no need to sacrifice quality and humanity.
 
 Our fence isn't software. But it is **really** hard to CMD+Z a cemented post. Yet, we got much more beautiful _and_ usable fence this time around.
 
- [1]: https://en.wikipedia.org/wiki/Release_early,_release_often
+[1]: https://en.wikipedia.org/wiki/Release_early,_release_often

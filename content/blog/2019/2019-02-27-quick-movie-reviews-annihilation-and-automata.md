@@ -1,16 +1,17 @@
 ---
-title: Quick Movie Reviews – Annihilation and Automata
-author: "Juan Orozco"
-
-type: post
-date: 2019-02-28T03:36:50+00:00
-url: /2019/02/27/quick-movie-reviews-annihilation-and-automata/
-featured_image: https://m.juanorozco.com/wp-content/uploads/2019/02/27222237/annihilation.jpeg
+aliases:
+- /2019/02/27/quick-movie-reviews-annihilation-and-automata/
+author: Juan Orozco
 categories:
-  - Thoughts
+- Thoughts
+date: 2019-02-28 03:36:50
+featured_image: https://m.juanorozco.com/wp-content/uploads/2019/02/27222237/annihilation.jpeg
+slug: quick-movie-reviews-annihilation-and-automata
 tags:
-  - movies
-  - reviews
+- movies
+- reviews
+title: Quick Movie Reviews – Annihilation and Automata
+type: post
 ---
 
 I've been a HUGE Natalie Portman fan since [Leon][1] (and a MEGA Gary Oldman fan for equally as long). I don't really have a problem with the Star Wars prequels but her participation in the Thor movies was totally punching below her weight. Still, if she had fun that's all that matters. [Mars Attacks][2] and [V for Vandetta][3] are more of my favorites. [Black Swan][4] and [The Other Boleyn Girl][5], great performances of hers but not really my thing as far as movies go.

@@ -1,16 +1,17 @@
 ---
-title: Veterans Day
-author: "Juan Orozco" 
-
-type: post
-date: 2018-11-11T16:34:34+00:00
-url: /2018/11/11/veterans-day/
+aliases:
+- /2018/11/11/veterans-day/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2018-11-11 16:34:34
+slug: veterans-day
 tags:
-  - Journal
-
+- Journal
+title: Veterans Day
+type: post
 ---
+
 I remember taking the ASVAB in high school and recruiters calling me afterwards to join code breakers... apparently I showed aptitude for patterns. Goooo super ADD powers! 😂
 
 A short time later, the curiosity got to me and I went to the Marine recruiting place with questions. They showed me a video of boot camp. I thanked them for their time and never looked back. (I mean, it's called the crucible!) I learned from that video, though, to have great respect for people who CAN do those things and I defended their honor to naysayers whenever I could.
@@ -65,4 +66,4 @@ Corey
 
 And, finally, to the young man I saw at Landstuhl hospital in Germany, connected to so many machines as they rushed him into the hospital from an ambulance, thank you and I hope you made it.
 
- [1]: https://en.wikipedia.org/wiki/Battle_of_the_Bulge
+[1]: https://en.wikipedia.org/wiki/Battle_of_the_Bulge

@@ -1,17 +1,18 @@
 ---
-title: 'Final Fantasy Tactics: A2'
-author: "Juan Orozco" 
-
-type: post
-date: 2008-07-04T16:13:16+00:00
-url: /2008/07/04/final-fantasy-tactics-a2/
+aliases:
+- /2008/07/04/final-fantasy-tactics-a2/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2008-07-04 16:13:16
+slug: final-fantasy-tactics-a2
 tags:
-  - Final Fantasy
-  - video games
-
+- Final Fantasy
+- video games
+title: 'Final Fantasy Tactics: A2'
+type: post
 ---
+
 <img class="alignleft size-medium wp-image-472" title="FFTA2" src="https://i1.wp.com/guamaso.com/wp-content/uploads/2008/07/180757b.jpg?resize=220%2C198" alt="Final Fantasy Tactics A2" width="220" height="198" data-recalc-dims="1" />I've said before that Final Fantasy is my favorite RPG brand of all time.   I recently picked up Final Fantasy Tactics for the Game Boy Advance again.   It's been a while since I last played it, and, as a matter of fact, I never actually finished it.   I'm like that with video games, I get about half way (or more) and then never really finish them.     A couple of years ago I finished Final Fantasy 7 just in time for the movie.   That's like 10 years or something.
 
 Square Enix released the next installment to the FF line: <a href="http://www.ebgames.com/Catalog/ProductDetails.aspx?sku=180757" target="_blank" rel="noopener noreferrer">Final Fantasy Tactics A2</a>.   It follows the same world of FF12, FFTAdvance, and a few others.   It's a different story but it takes place in the same "world."   Anyway, FFTactics for the Playstation was really hard to play, but it was tons of fun.   FFTA (for the Gameboy advance) is easy to play and I think I am almost done with it, just in time for the next installment!

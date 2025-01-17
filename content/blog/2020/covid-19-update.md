@@ -1,12 +1,13 @@
-+++
-author = "Juan Orozco"
-caption = "Photo by Bekir Dönmez on Unsplash"
-date = 2020-04-05T03:17:51Z
-feature = "https://res.cloudinary.com/deo07tbou/image/upload/v1586092532/juan-orozco-com/2020/04/bekir-donmez-eofm5R5f9Kw-unsplash_lwoubc.jpg"
-title = "COVID-19 Update"
-type = "post"
+---
+author: Juan Orozco
+caption: Photo by Bekir Dönmez on Unsplash
+date: 2020-04-05 03:17:51
+feature: https://res.cloudinary.com/deo07tbou/image/upload/v1586092532/juan-orozco-com/2020/04/bekir-donmez-eofm5R5f9Kw-unsplash_lwoubc.jpg
+slug: covid-19-update
+title: COVID-19 Update
+type: post
+---
 
-+++
 The scariest part of this crisis is how bad it is _now_ and knowing that it will soon get worse.
 
 I'm trying to separate my fears from where I am now, that is, I'm trying to focus on what can I do _right now_. This is hard. We had big plans this year, we wanted to sell the house and finally fulfill our dream of full-time RVing. I'm not sure what that looks like now. As I process my feelings, though, I remember that there are more important priorities. Staying safe and helping where we can are our top 10 priorities.

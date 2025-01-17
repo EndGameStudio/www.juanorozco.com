@@ -1,22 +1,24 @@
 ---
-title: Why the Zune HD will fail.
-author: "Juan Orozco" 
-
-type: post
-date: 2009-05-27T16:28:43+00:00
-url: /2009/05/27/why-the-zune-hd-will-fail/
 aktt_tweeted:
-  - 1
-tagazine-media:
-  - 'a:7:{s:7:"primary";s:64:"http://guamaso.com/wp-content/uploads/2009/05/zunehd-300x232.jpg";s:6:"images";a:1:{s:64:"http://guamaso.com/wp-content/uploads/2009/05/zunehd-300x232.jpg";a:6:{s:8:"file_url";s:64:"http://guamaso.com/wp-content/uploads/2009/05/zunehd-300x232.jpg";s:5:"width";s:3:"300";s:6:"height";s:3:"232";s:4:"type";s:5:"image";s:4:"area";s:5:"69600";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"1";s:6:"author";s:7:"8033531";s:7:"blog_id";s:8:"17975075";s:9:"mod_stamp";s:19:"2009-05-27 16:28:43";}'
+- 1
+aliases:
+- /2009/05/27/why-the-zune-hd-will-fail/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2009-05-27 16:28:43
+slug: why-the-zune-hd-will-fail
+tagazine-media:
+- a:7:{s:7:"primary";s:64:"http://guamaso.com/wp-content/uploads/2009/05/zunehd-300x232.jpg";s:6:"images";a:1:{s:64:"http://guamaso.com/wp-content/uploads/2009/05/zunehd-300x232.jpg";a:6:{s:8:"file_url";s:64:"http://guamaso.com/wp-content/uploads/2009/05/zunehd-300x232.jpg";s:5:"width";s:3:"300";s:6:"height";s:3:"232";s:4:"type";s:5:"image";s:4:"area";s:5:"69600";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"1";s:6:"author";s:7:"8033531";s:7:"blog_id";s:8:"17975075";s:9:"mod_stamp";s:19:"2009-05-27
+  16:28:43";}
 tags:
-  - microsoft
-  - opinion
-  - zune
-
+- microsoft
+- opinion
+- zune
+title: Why the Zune HD will fail.
+type: post
 ---
+
 Dramatic title, right? Well, it's just my opinion, but from the confirmed specs listed on <a href="http://www.zune.net/en-us/press/2009/0526-zunehd.htm" target="_blank" rel="noopener noreferrer">Microsoft's release</a> about the new Zune HD, I believe it is doomed to reside in the shadow of Apple's iPod alongside the rest of it's brethren. If things change between today and it's release then maybe the Zune HD has a chance. The people are eager to have choices in a Portable Media Player and therefore eager for the Zune brand to succeed. I know I am.
 
 <figure id="attachment_1747" aria-describedby="caption-attachment-1747" style="width: 300px" class="wp-caption aligncenter"><img class="size-medium wp-image-1747" title="zunehd" src="https://i1.wp.com/guamaso.com/wp-content/uploads/2009/05/zunehd-300x232.jpg?resize=300%2C232" alt="Zune HD" width="300" height="232" data-recalc-dims="1" /><figcaption id="caption-attachment-1747" class="wp-caption-text">Zune HD</figcaption></figure>

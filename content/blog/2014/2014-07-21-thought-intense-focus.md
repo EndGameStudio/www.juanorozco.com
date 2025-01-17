@@ -1,16 +1,17 @@
 ---
-title: 'Thought: Intense focus'
-author: "Juan Orozco" 
-
-type: post
-date: 2014-07-21T02:30:08+00:00
-url: /2014/07/21/thought-intense-focus/
+aliases:
+- /2014/07/21/thought-intense-focus/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2014-07-21 02:30:08
+slug: thought-intense-focus
 tags:
-  - Journal
-
+- Journal
+title: 'Thought: Intense focus'
+type: post
 ---
+
 It takes years to develop and refine a skill. It takes longer still to fix a character flaw or improve a virtue. People have proven that, with proper focus, you can turn your life around. The goal is not to change but to build discipline or values that didn't exist, or barely existed, before.
 
 **Current thought...**

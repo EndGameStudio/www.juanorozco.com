@@ -1,11 +1,12 @@
 ---
-title: Box Truck Travel
-author: "Juan Orozco"
-type: post
-draft: true
-date: 2024-01-19T20:00:00-07:00
+author: Juan Orozco
 categories:
-  - Travel
+- Travel
+date: 2024-01-20 03:00:00
+draft: true
+slug: box-truck-travel
+title: Box Truck Travel
+type: post
 ---
 
 Last October, I reserved a box truck, packed our storage unit in the back, and drove 3750 miles from Apex, North Carolina to Del Norte County in Northern California. By myself. I optimized my trip for speed and cost effectiveness - I needed to get home quickly and not spend too much money doing so. I learned a lot about myself, about traveling, and about moving in general. 2023 was not an easy year for me personally so I appreciated the time to myself and the time to think.

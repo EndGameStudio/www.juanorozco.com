@@ -1,13 +1,11 @@
 ---
-title: Balancing act of life
-author: "Juan Orozco"
-
-type: post
-
-draft: true
-url: /?p=2832
+author: Juan Orozco
 categories:
-  - post
+- post
+draft: true
+slug: balancing-act-of-life
+title: Balancing act of life
+type: post
 ---
 
 I started a new position with a small software development company in Garner.  Well, near Garner.  Much closer to home -  my drive time has been cut down from 50 minutes to 15.  That's pretty exciting for me although the driver never bothered me, it is pretty nice being home so quickly.  As a matter of fact, that was one of the selling points the recruiter kept giving me.  It's less of a drive, you'll be at home more, etc. etc. etc.

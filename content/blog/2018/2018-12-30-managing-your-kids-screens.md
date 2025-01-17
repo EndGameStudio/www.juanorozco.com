@@ -1,13 +1,11 @@
 ---
-title: Managing your kids screens
-author: "Juan Orozco"
-
-type: post
-
-draft: true
-url: /?p=48
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+draft: true
+slug: managing-your-kids-screens
+title: Managing your kids screens
+type: post
 ---
 
 Things to consider

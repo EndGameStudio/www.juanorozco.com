@@ -1,23 +1,24 @@
 ---
-title: My Canon AE-1 Program
-author: "Juan Orozco" 
-
-type: post
-date: 2008-09-09T19:00:26+00:00
-url: /2008/09/09/my-canon-ae-1-program/
 aktt_tweeted:
-  - 1
+- 1
+aliases:
+- /2008/09/09/my-canon-ae-1-program/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2008-09-09 19:00:26
+slug: my-canon-ae-1-program
 tags:
-  - 35mm
-  - ae-1 program
-  - camera
-  - Canon
-  - photography
-  - SLR
-
+- 35mm
+- ae-1 program
+- camera
+- Canon
+- photography
+- SLR
+title: My Canon AE-1 Program
+type: post
 ---
+
 My parents bought a Chinon SLR camera a loooong time ago.   I kinda sorta kept it and taught myself how to use it.   When I left for Germany, I found out, after not using it for years, that the lens was broken.   The aperture blades are stuck completely open.   I wanted to have a nice camera but couldn't afford what I really wanted: the Canon Rebel.   I also didn't like the overall quality from digital prints.   Prints made from 35mm film have a different feel to them, so I decided I wanted another film camera.
 
 I wanted either a Canon or a Nikon, and after researching the two, I found some older cameras that people rave about as tough and great to use.   I am more of a Canon person so I gravitated towards the AE-1 Program from the early eighties.   I did more and more research on the camera; looked at available accessories, checked prices on EBay, and read users' opinions on photography forums.   I looked on EBay for the perfect camera and I found one at the perfect price.   It came with the body, a few accessories, a bag, and a pretty good lens.   When the camera finally came in (it took about two weeks since we were in Germany), I immediately started taking pictures of everything with it.

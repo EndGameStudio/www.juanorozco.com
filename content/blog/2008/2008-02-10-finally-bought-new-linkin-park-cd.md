@@ -1,16 +1,15 @@
 ---
-title: Finally Bought new Linkin Park CD
-author: "Juan Orozco"
-
-type: post
-date: 2008-02-11T02:37:02+00:00
-url: /2008/02/10/finally-bought-new-linkin-park-cd/
-aktt_tweeted:
-  - 1
+aliases:
+- /2008/02/10/finally-bought-new-linkin-park-cd/
+author: Juan Orozco
 categories:
-  - status
+- status
+date: 2008-02-11 02:37:02
+slug: finally-bought-new-linkin-park-cd
 tags:
-  - Music
+- Music
+title: Finally Bought new Linkin Park CD
+type: post
 ---
 
 Ciriana says that I turned her on to Linkin Park on our first date. At first I didn't really like them until I listened to the lyrics. My problem with music is that all I can hear is the melody; I can never distinguish the words. I liked the musical parts of their songs, but the words I did hear kind of kept me at a distance. When I finally focused my attention on what they were saying I enjoyed the music more. It also taught me a very important life lesson, as corny as this sounds: never pass judgment until you have all the information. I said to others that they were a stupid band and that it's not music, but when I actually listened, I realized that I had assumed that their "sound" was destructive.

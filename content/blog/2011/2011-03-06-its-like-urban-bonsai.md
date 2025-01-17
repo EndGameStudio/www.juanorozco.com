@@ -1,18 +1,19 @@
 ---
-title: It’s like urban bonsai.
-author: "Juan Orozco" 
-
-type: post
-date: 2011-03-06T21:44:07+00:00
-url: /2011/03/06/its-like-urban-bonsai/
+aliases:
+- /2011/03/06/its-like-urban-bonsai/
+author: Juan Orozco
 categories:
-  - Photoblog
+- Photoblog
+date: 2011-03-06 21:44:07
+slug: its-like-urban-bonsai
 tags:
-  - hack
-  - planter
-  - plants
-
+- hack
+- planter
+- plants
+title: It’s like urban bonsai.
+type: post
 ---
+
 &nbsp;
 
 <p style="text-align:center;">
@@ -25,4 +26,4 @@ Dornob
 
 via [Planting Ideas: A Coat, Hat, Bag & Book as Indoor Planters][1].
 
- [1]: http://feedproxy.google.com/~r/dornob/~3/2QH_EumQt2Q/
+[1]: http://feedproxy.google.com/~r/dornob/~3/2QH_EumQt2Q/

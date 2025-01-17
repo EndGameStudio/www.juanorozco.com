@@ -1,16 +1,17 @@
 ---
-title: New web software helps students escape their childhood problems.
-author: "Juan Orozco" 
-
-type: post
-date: 2008-10-27T16:00:29+00:00
-url: /2008/10/27/new-web-software-helps-students-escape-their-childhood-problems/
 aktt_tweeted:
-  - 1
+- 1
+aliases:
+- /2008/10/27/new-web-software-helps-students-escape-their-childhood-problems/
+author: Juan Orozco
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: 2008-10-27 16:00:29
+slug: new-web-software-helps-students-escape-their-childhood-problems
+title: New web software helps students escape their childhood problems.
+type: post
 ---
+
 <figure style="width: 240px" class="wp-caption alignleft">[<img title="The Bullies Are Warming Up" src="https://i1.wp.com/farm1.static.flickr.com/74/200168854_23f87a741d_m.jpg?resize=240%2C180" alt="Flickr User: Mangee" width="240" height="180" data-recalc-dims="1" />][1]<figcaption class="wp-caption-text">Flickr User: Mangee</figcaption></figure>
 
 A new web 2.0-esque website offers a messaging service for schools that allow students and parents to send in alerts of possible bully problems.   Students or parents can go online and send out an email (or text message) to their school authorities explaining their situation.   The system requires registration, but the message is anonymous - which sounds like a flaw to me since we're dealing with adolescents here.   It's a great idea right?   Ever heard of "treating the symptom?"
@@ -31,7 +32,7 @@ The website advertises more situations like this where the students don't have a
 
 The web service that this new technology offers is a _great idea._ I think it can help many students with _serious_ problems.   Schools benefit greatly from it by the positive impact it has on school morale.   Still, parents must take the right steps before they use the service by appropriately analyzing the situation and taking the appropriate action.   If the service really is the most prudent way to handle the situation, then great, but it shouldn't be the immediate answer.   Bullies can be annoying, but they may need just as much help as the "victim" does.
 
- <a href="http://www.cnn.com/2008/TECH/10/14/bullies.internet.ap/index.html" target="_blank" rel="noopener noreferrer">Via CNN.com</a>
+<a href="http://www.cnn.com/2008/TECH/10/14/bullies.internet.ap/index.html" target="_blank" rel="noopener noreferrer">Via CNN.com</a>
 
- [1]: http://www.flickr.com/photos/mangee/200168854/
- [2]: http://guamaso.com/2008/03/18/a-long-post-about-video-games
+[1]: http://www.flickr.com/photos/mangee/200168854/
+[2]: http://guamaso.com/2008/03/18/a-long-post-about-video-games

@@ -1,19 +1,20 @@
 ---
-title: Juan + GoldenEye + Wii = “SQQQQQQQQQQQQ…
-author: "Juan Orozco" 
-
-type: post
-date: 2010-06-16T03:21:49+00:00
-url: /2010/06/15/juan-goldeneye-wii-sqqqqqqqqqqqq/
+aliases:
+- /2010/06/15/juan-goldeneye-wii-sqqqqqqqqqqqq/
+author: Juan Orozco
 categories:
-  - link
+- link
+date: 2010-06-16 03:21:49
+slug: juan-goldeneye-wii-sqqqqqqqqqqqq
 tags:
-  - E3
-  - Nintendo
-  - video
-  - video games
-
+- E3
+- Nintendo
+- video
+- video games
+title: Juan + GoldenEye + Wii = “SQQQQQQQQQQQQ…
+type: post
 ---
+
 Juan + GoldenEye + Wii = "SQQQQQQQQQQQQQQQQQUEEEEEEEEEEEEEEEEEEEEEEEEE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 
 <!--YouTube Error: bad URL entered-->

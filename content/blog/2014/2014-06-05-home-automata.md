@@ -1,16 +1,17 @@
 ---
-title: Home Automata
-author: "Juan Orozco" 
-
-type: post
-date: 2014-06-05T00:53:37+00:00
-url: /2014/06/05/home-automata/
+aliases:
+- /2014/06/05/home-automata/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2014-06-05 00:53:37
+slug: home-automata
 tags:
-  - Journal
-
+- Journal
+title: Home Automata
+type: post
 ---
+
 The idea of walking from one room to another, talking to your family over the phone, but not tied to a device in any way. The caller's voice travels with you to each room through speakers built into the wall. Presence sensors in each room detect your movement between rooms. A sensitive microphone also embedded in each room, but processed and cleaned up by a fancy computer somewhere in the house (so your voice doesn't sound "far away".)... _this_ is the future I remember being told was in store for us. Un-tethered and automated; _free_.
 
 Privacy concerns have arisen, in the past few years, with recent breaches and reports. Do I really want a company to collect personal data and sell it to someone else? All under the premise that it will help automate my world? I don't think I do... but I really, **really** want that automated part!
@@ -35,11 +36,11 @@ The greatest part of the Internet-of-Things/home automation mindset is that it h
 
 Here's a great example of the kind of experiences I am talking about:
 
-<iframe src="//player.vimeo.com/video/87522764?color=ffffff" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="//player.vimeo.com/video/87522764?color=ffffff" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 [Cloudwash: the connected washing machine][2] from [Berg][3] on [Vimeo][4].
 
- [1]: http://zinc.io
- [2]: http://vimeo.com/87522764
- [3]: http://vimeo.com/bergstudio
- [4]: https://vimeo.com
+[1]: http://zinc.io
+[2]: http://vimeo.com/87522764
+[3]: http://vimeo.com/bergstudio
+[4]: https://vimeo.com

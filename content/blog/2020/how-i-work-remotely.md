@@ -1,14 +1,16 @@
-+++
-author = "Juan Orozco"
-caption = "Photo by Croissant on Unsplash"
-date = 2020-04-13T18:02:07Z
-draft = true
-feature = "https://res.cloudinary.com/deo07tbou/image/upload/v1586801166/juan-orozco-com/2020/04/croissant-oUKiDSdTTyg-unsplash_gsy9nd.jpg"
-tags = ["Remote Work"]
-title = "How I work remotely"
-type = "post"
+---
+author: Juan Orozco
+caption: Photo by Croissant on Unsplash
+date: 2020-04-13 18:02:07
+draft: true
+feature: https://res.cloudinary.com/deo07tbou/image/upload/v1586801166/juan-orozco-com/2020/04/croissant-oUKiDSdTTyg-unsplash_gsy9nd.jpg
+slug: how-i-work-remotely
+tags:
+- Remote Work
+title: How I work remotely
+type: post
+---
 
-+++
 With the sudden influx of remote workers, I thought I'd try to share the many things I've learned through my years of working remotely.
 
 ## Quick History

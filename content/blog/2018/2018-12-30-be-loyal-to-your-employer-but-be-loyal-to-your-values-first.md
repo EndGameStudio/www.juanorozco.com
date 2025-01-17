@@ -1,13 +1,11 @@
 ---
-title: Be loyal to your employer, but be loyal to your values first
-author: "Juan Orozco"
-
-type: post
-
-draft: true
-url: /?p=44
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+draft: true
+slug: be-loyal-to-your-employer-but-be-loyal-to-your-values-first
+title: Be loyal to your employer, but be loyal to your values first
+type: post
 ---
 
 Keep your LinkedIn up to date. This isn't because you are not loyal to your employer. This is because you are loyal to your values. Sometimes, a company will pivot or simply evolve. In doing so, the company values may shift to the point where your values no longer align.

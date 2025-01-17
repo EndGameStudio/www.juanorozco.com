@@ -1,13 +1,11 @@
 ---
-title: Creating Equity in relationships
-author: "Juan Orozco"
-
-type: post
-
-draft: true
-url: /?p=43
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+draft: true
+slug: creating-equity-in-relationships
+title: Creating Equity in relationships
+type: post
 ---
 
 LinkedIn helps build up equity for employment opportunities, lead generation, etc.

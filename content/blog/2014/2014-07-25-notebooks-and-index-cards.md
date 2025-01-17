@@ -1,16 +1,17 @@
 ---
-title: Notebooks and Index Cards
-author: "Juan Orozco" 
-
-type: post
-date: 2014-07-25T18:50:34+00:00
-url: /2014/07/25/notebooks-and-index-cards/
+aliases:
+- /2014/07/25/notebooks-and-index-cards/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2014-07-25 18:50:34
+slug: notebooks-and-index-cards
 tags:
-  - productivity
-
+- productivity
+title: Notebooks and Index Cards
+type: post
 ---
+
 Before [Field Notes][1] became a thing in my world, I used these awesome wire bound notebooks I bought a long time ago from the community college bookstore. I loved the green tint of the paper and the thick covers. Alas, it is impossible to stack wire bound notebooks neatly.
 
 Now, in the "Field Notes Era", the smaller page count causes me to go through notebooks faster. Also, I keep reference pages in the back that I need to copy over (or tear out) with every notebook change.
@@ -33,9 +34,9 @@ It may not come to that, though. Well, the batch I bought will **probably** get 
 
 Here's what I have discovered works for me:
 
-  * Notes that I need to shared with someone (like the wife, for example) go on an index card.
-  * Reference notes (like server IP's) go on an index card.
-  * Everything else goes in the notebook.
+- Notes that I need to shared with someone (like the wife, for example) go on an index card.
+- Reference notes (like server IP's) go on an index card.
+- Everything else goes in the notebook.
 
 I'm experimenting with keeping To Do's on the index card as well. It feels good to be able to trash the index card once the list is complete. Although, sometimes, the card may not be completed for several months - that's just how that list will go.
 
@@ -43,6 +44,6 @@ I'm experimenting with keeping To Do's on the index card as well. It feels good 
 
 This whole modification, though, is going well. We'll see how it continues.
 
- [1]: fieldnotesbrand.com
- [2]: http://en.wikipedia.org/wiki/Hipster_PDA
- [3]: /content/images/2014/Jul/2014-07-25-22-37-03-1.jpg
+[1]: fieldnotesbrand.com
+[2]: http://en.wikipedia.org/wiki/Hipster_PDA
+[3]: /content/images/2014/Jul/2014-07-25-22-37-03-1.jpg

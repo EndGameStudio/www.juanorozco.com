@@ -1,50 +1,51 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: ''
-webhook_url: 
+admin_path: ""
+webhook_url:
 sections:
-- type: heading
-  label: Content
-- type: directory
-  path: content/status
-  label: Status
-  create: all
-  match: "**/*"
-  templates:
-  - status-post
-- type: directory
-  path: content/blog
-  label: Blog
-  create: all
-  match: "**/*"
-  templates:
-  - blog-post
-- type: heading
-  label: Pages
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-- type: heading
-  label: Authors
-- type: document
-  path: data/author.toml
-  label: Authors
+  - type: heading
+    label: Content
+  - type: directory
+    path: content/status
+    label: Status
+    create: all
+    match: "**/*"
+    templates:
+      - status-post
+  - type: directory
+    path: content/blog
+    label: Blog
+    create: all
+    match: "**/*"
+    templates:
+      - blog-post
+  - type: heading
+    label: Pages
+  - type: directory
+    path: content
+    label: Pages
+    create: all
+    match: "*"
+  - type: heading
+    label: Authors
+  - type: document
+    path: data/author.toml
+    label: Authors
 upload_dir: juan-orozco-com
 public_path: https://res.cloudinary.com/deo07tbou/image/upload
-front_matter_path: ''
-use_front_matter_path: 
+front_matter_path: ""
+use_front_matter_path:
 file_template: ":year:/:month:/:filename:"
 build:
   preview_env:
-  - HUGO_ENV=staging
-  - HUGO_VERSION=0.63.2
+    - HUGO_ENV=staging
+    - HUGO_VERSION=0.63.2
   preview_output_directory: public
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
   working_dir: "/srv"
-  instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
+  instant_preview_command:
+    hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
     -d public
 version: 0.63.2

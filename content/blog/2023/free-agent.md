@@ -1,11 +1,12 @@
 ---
-title: Free Agent
-author: "Juan Orozco"
-type: post
-date: 2023-05-08T08:00:00-07:00
+author: Juan Orozco
 categories:
-  - Journal
-  - Work
+- Journal
+- Work
+date: 2023-05-08 15:00:00
+slug: free-agent
+title: Free Agent
+type: post
 ---
 
 Last week, the company I worked for, Shortcut, underwent another round of layoffs.

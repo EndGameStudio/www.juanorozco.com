@@ -1,19 +1,20 @@
 ---
-title: Now this is my kind of beanbag
-author: "Juan Orozco" 
-
-type: post
-date: 2011-01-16T05:25:07+00:00
-url: /2011/01/16/now-this-is-my-kind-of-beanbag/
+aliases:
+- /2011/01/16/now-this-is-my-kind-of-beanbag/
+author: Juan Orozco
 categories:
-  - Photoblog
+- Photoblog
+date: 2011-01-16 05:25:07
+slug: now-this-is-my-kind-of-beanbag
 tags:
-  - bean bag
-  - furniture
-  - pokemon
-  - snorlax
-
+- bean bag
+- furniture
+- pokemon
+- snorlax
+title: Now this is my kind of beanbag
+type: post
 ---
+
 &nbsp;
 
 <p style="text-align:center;">
@@ -26,4 +27,4 @@ Snorlax is the man. Just a good natured dude, looking for a quiet place to nap. 
 
 via EXTRALIFE - By Scott Johnson [I’d Sleep All Day Too][1].
 
- [1]: http://www.myextralife.com/sitenews/id-sleep-all-day-too/
+[1]: http://www.myextralife.com/sitenews/id-sleep-all-day-too/

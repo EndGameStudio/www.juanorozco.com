@@ -1,12 +1,13 @@
 ---
-title: http://en.gravatar.com/creativeandflow
-author: "Juan Orozco" 
-
-type: post
-date: 2010-05-28T05:13:21+00:00
-url: /2010/05/28/httpen-gravatar-comcreativeandflow/
+aliases:
+- /2010/05/28/httpen-gravatar-comcreativeandflow/
+author: Juan Orozco
 categories:
-  - link
-
+- link
+date: 2010-05-28 05:13:21
+slug: http-en-gravatar-com-creativeandflow
+title: http://en.gravatar.com/creativeandflow
+type: post
 ---
+
 http://en.gravatar.com/creativeandflow

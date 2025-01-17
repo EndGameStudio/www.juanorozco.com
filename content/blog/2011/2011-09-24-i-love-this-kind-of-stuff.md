@@ -1,17 +1,18 @@
 ---
-title: I love this kind of stuff.
-author: "Juan Orozco" 
-
-type: post
-date: 2011-09-25T01:12:54+00:00
-url: /2011/09/24/i-love-this-kind-of-stuff/
+aliases:
+- /2011/09/24/i-love-this-kind-of-stuff/
+author: Juan Orozco
 categories:
-  - post
+- post
+date: 2011-09-25 01:12:54
+slug: i-love-this-kind-of-stuff
 tags:
-  - short
-  - space
-
+- short
+- space
+title: I love this kind of stuff.
+type: post
 ---
+
 I love how shorts can have as much emotion, plot, and feeling as a full length movie.
 
 <div class="embed-vimeo" style="text-align: center;">
@@ -20,6 +21,6 @@ I love how shorts can have as much emotion, plot, and feeling as a full length m
 
 [Danger Planet][1] from [Justin Burks][2] on [Vimeo][3].
 
- [1]: http://vimeo.com/28043193
- [2]: http://vimeo.com/user7884352
- [3]: http://vimeo.com
+[1]: http://vimeo.com/28043193
+[2]: http://vimeo.com/user7884352
+[3]: http://vimeo.com

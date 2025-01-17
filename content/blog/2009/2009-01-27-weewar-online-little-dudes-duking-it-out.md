@@ -1,22 +1,23 @@
 ---
-title: WeeWar Online – Little dudes duking it out.
-author: "Juan Orozco" 
-
-type: post
-date: 2009-01-28T03:02:53+00:00
-url: /2009/01/27/weewar-online-little-dudes-duking-it-out/
 aktt_tweeted:
-  - 1
+- 1
+aliases:
+- /2009/01/27/weewar-online-little-dudes-duking-it-out/
+author: Juan Orozco
 categories:
-  - Reviews
-  - Uncategorized
+- Reviews
+- Uncategorized
+date: 2009-01-28 03:02:53
+slug: weewar-online-little-dudes-duking-it-out
 tags:
-  - online
-  - Turn Based Strategy
-  - video games
-  - Wee War
-
+- online
+- Turn Based Strategy
+- video games
+- Wee War
+title: WeeWar Online – Little dudes duking it out.
+type: post
 ---
+
 <figure style="width: 200px" class="wp-caption alignleft">[<img title="Have a little war at Weewar.com" src="https://i0.wp.com/weewar.com/images/weewar200.jpg?resize=200%2C200" alt="Weewar.com" width="200" height="200" data-recalc-dims="1" />][1]<figcaption class="wp-caption-text">Weewar.com</figcaption></figure>
 
 I was reading a post by <a href="http://www.morningtoast.com/2009/01/warning-i-have-military-madness/" target="_blank" rel="noopener noreferrer">The Morning Toast</a> about his renewed interest in <a href="http://en.wikipedia.org/wiki/Turn-based_strategy" target="_blank" rel="noopener noreferrer">Turn Based Strategy</a> games and it got my hankering for some TBS as well.   I love puzzle/strategy games, so it got me thinking about online games.
@@ -43,5 +44,5 @@ The game is fun, the people are actually very friendly, and the site is easy to 
 
 The game is fun and addicting, it will be my crack for the foreseeable future.
 
- [1]: http://weewar.com?referrerid=54488
- [2]: http://weewar.com/game/135404
+[1]: http://weewar.com?referrerid=54488
+[2]: http://weewar.com/game/135404

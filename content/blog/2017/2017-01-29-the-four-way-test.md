@@ -1,17 +1,18 @@
 ---
-title: The Four Way Test
-author: "Juan Orozco" 
-
-type: post
-date: 2017-01-29T05:20:14+00:00
-url: /2017/01/29/the-four-way-test/
+aliases:
+- /2017/01/29/the-four-way-test/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2017-01-29 05:20:14
+slug: the-four-way-test
 tags:
-  - Journal
-  - philosophy
-
+- Journal
+- philosophy
+title: The Four Way Test
+type: post
 ---
+
 Lately I have struggled with the America "I remember" versus the America "I see before me". I am aware that there is a bias at work that paints my past as rosier than it really is. Still, when I run into words like these, I wonder where we stumbled:
 
 <img src="https://i0.wp.com/m.creativeandflow.com/images/2017/01/four-way-test.jpg?w=580" alt="The Four-Way Test" data-recalc-dims="1" />
@@ -20,7 +21,7 @@ The image shows the [Rotary's "Four Way Test"][1], printed on cement.
 
 > The Four-Way Test of the things we think, say or do.
 
->   1. Is it the TRUTH?
+> 1. Is it the TRUTH?
 
 <ol start="2">
   <li>
@@ -44,5 +45,5 @@ The fountain is like a beacon of hope; it tries to reach out. It wants to teach 
 
 Yet, we have squirreled the words away to the dark and damp area that is the back of our minds.
 
- [1]: http://thefourwaytest.com/history-of-the-four-way-test/
- [2]: https://www.google.com/maps/place/35%C2%B035'31.8%22N+78%C2%B047'59.0%22W/@35.592156,-78.8002672,19z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d35.592156!4d-78.79972
+[1]: http://thefourwaytest.com/history-of-the-four-way-test/
+[2]: https://www.google.com/maps/place/35%C2%B035'31.8%22N+78%C2%B047'59.0%22W/@35.592156,-78.8002672,19z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d35.592156!4d-78.79972

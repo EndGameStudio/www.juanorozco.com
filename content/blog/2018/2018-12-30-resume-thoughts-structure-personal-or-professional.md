@@ -1,13 +1,11 @@
 ---
-title: "Resume Thoughts: Structure! Personal or professional?"
-author: "Juan Orozco"
-
-type: post
-
-draft: true
-url: /?p=41
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+draft: true
+slug: resume-thoughts-structure-personal-or-professional
+title: 'Resume Thoughts: Structure! Personal or professional?'
+type: post
 ---
 
 Keywords! Resume should use active voice! Blah blah blah...

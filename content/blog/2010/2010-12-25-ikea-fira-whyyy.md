@@ -1,14 +1,15 @@
 ---
-title: 'Ikea Fira: WHYYY????'
-author: "Juan Orozco" 
-
-type: post
-date: 2010-12-25T21:00:31+00:00
-url: /2010/12/25/ikea-fira-whyyy/
+aliases:
+- /2010/12/25/ikea-fira-whyyy/
+author: Juan Orozco
 categories:
-  - post
-
+- post
+date: 2010-12-25 21:00:31
+slug: ikea-fira-whyyy
+title: 'Ikea Fira: WHYYY????'
+type: post
 ---
+
 I searched the Ikea site for the Fira and couldn't find them. Found out they discontinued them. I'm in shock. Good bye little Fira's. I'll miss you.&nbsp;
 
 <p style="text-align:center;">
@@ -19,4 +20,4 @@ I searched the Ikea site for the Fira and couldn't find them. Found out they dis
 
 [RIP Ikea Fira - Core77][1].
 
- [1]: http://www.core77.com/blog/object_culture/rip_ikea_fira_15955.asp
+[1]: http://www.core77.com/blog/object_culture/rip_ikea_fira_15955.asp

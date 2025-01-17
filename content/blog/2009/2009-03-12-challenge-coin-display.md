@@ -1,20 +1,21 @@
 ---
-title: Challenge Coin Display
-author: "Juan Orozco" 
-
-type: post
-date: 2009-03-12T04:47:21+00:00
-url: /2009/03/12/challenge-coin-display/
 aktt_tweeted:
-  - 1
+- 1
+aliases:
+- /2009/03/12/challenge-coin-display/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2009-03-12 04:47:21
+slug: challenge-coin-display
 tags:
-  - challenge coin
-  - Wood Projects
-  - woodworking
-
+- challenge coin
+- Wood Projects
+- woodworking
+title: Challenge Coin Display
+type: post
 ---
+
 Just a quick post to explain the <a href="http://www.flickr.com/photos/theguamaso/sets/72157615128976122/" target="_blank" rel="noopener noreferrer">latest Flickr images</a>.   The top secret gift for Ciri's party tomorrow is a Challenge Coin Display.   A custom display, that is.   Made by me.   That actually doesn't mean anything because without a keyboard and a mouse, my hands are worthless.
 
 <figure style="width: 500px" class="wp-caption aligncenter">[<img title="Challenge Coin Display" src="https://i0.wp.com/farm4.static.flickr.com/3429/3348621042_10dbd5a2d1.jpg?resize=500%2C375" alt="Challenge Coin Display" width="500" height="375" data-recalc-dims="1" />][1]<figcaption class="wp-caption-text">Challenge Coin Display</figcaption></figure>
@@ -29,4 +30,4 @@ I did get pretty far with the limited time I had and with the limited skills I p
 
 I'll have a full write up on this tomorrow night.   Hopefully I'll finish up the last shelf and give it one more coat of poly over the weekend.
 
- [1]: http://www.flickr.com/photos/theguamaso/sets/72157615128976122/
+[1]: http://www.flickr.com/photos/theguamaso/sets/72157615128976122/

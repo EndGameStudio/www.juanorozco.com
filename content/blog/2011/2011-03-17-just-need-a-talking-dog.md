@@ -1,14 +1,15 @@
 ---
-title: Just need a talking dog…
-author: "Juan Orozco" 
-
-type: post
-date: 2011-03-17T19:27:01+00:00
-url: /2011/03/17/just-need-a-talking-dog/
+aliases:
+- /2011/03/17/just-need-a-talking-dog/
+author: Juan Orozco
 categories:
-  - post
-
+- post
+date: 2011-03-17 19:27:01
+slug: just-need-a-talking-dog
+title: Just need a talking dog…
+type: post
 ---
+
 &nbsp;
 
 <p style="text-align:center;">
@@ -21,4 +22,4 @@ I am showing this to my kids first thing when I get home! Cool! Follow the link,
 
 via Dornob  [300 Helium Balloons Float Real ‘Up’ House 10,000 Feet High][1].
 
- [1]: http://feedproxy.google.com/~r/dornob/~3/r8q16fAh1Xc/
+[1]: http://feedproxy.google.com/~r/dornob/~3/r8q16fAh1Xc/

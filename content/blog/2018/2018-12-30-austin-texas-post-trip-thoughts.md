@@ -1,13 +1,11 @@
 ---
-title: "Austin Texas: Post trip thoughts"
-author: "Juan Orozco"
-
-type: post
-
-draft: true
-url: /?p=28
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+draft: true
+slug: austin-texas-post-trip-thoughts
+title: 'Austin Texas: Post trip thoughts'
+type: post
 ---
 
 </p>

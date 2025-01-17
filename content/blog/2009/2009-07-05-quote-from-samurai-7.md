@@ -1,15 +1,16 @@
 ---
-title: Quote from Samurai 7
-author: "Juan Orozco"
-
-type: post
-date: 2009-07-06T01:24:02+00:00
-url: /2009/07/05/quote-from-samurai-7/
+aliases:
+- /2009/07/05/quote-from-samurai-7/
+author: Juan Orozco
 categories:
-  - quote
+- quote
+date: 2009-07-06 01:24:02
+slug: quote-from-samurai-7
 tags:
-  - Quotes
-  - samurai 7
+- Quotes
+- samurai 7
+title: Quote from Samurai 7
+type: post
 ---
 
 <figure style="width: 240px" class="wp-caption alignleft"><img title="samurai_7" src="https://i0.wp.com/creativeandflow.com/wp-content/uploads/2009/07/samurai_7.jpg?resize=240%2C192" alt="samurai_7" width="240" height="192"  data-recalc-dims="1" /><figcaption class="wp-caption-text">Kanbei</figcaption></figure>

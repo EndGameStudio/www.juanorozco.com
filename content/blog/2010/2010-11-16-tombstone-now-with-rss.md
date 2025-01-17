@@ -1,17 +1,18 @@
 ---
-title: Tombstone. Now with RSS!
-author: "Juan Orozco" 
-
-type: post
-date: 2010-11-16T20:14:19+00:00
-url: /2010/11/16/tombstone-now-with-rss/
+aliases:
+- /2010/11/16/tombstone-now-with-rss/
+author: Juan Orozco
 categories:
-  - post
+- post
+date: 2010-11-16 20:14:19
+slug: tombstone-now-with-rss
 tags:
-  - afterlife
-  - archiving
-
+- afterlife
+- archiving
+title: Tombstone. Now with RSS!
+type: post
 ---
+
 [<img src='http://juanthedesigner.files.wordpress.com/2010/11/etomb31.jpg?w=580' alt='' data-recalc-dims="1" />][1]
 
 The idea is a little overkill for non-geeks/ non-interweb users like my parents, for example.  For someone like me, the idea of  having every ounce of my digital being downloaded into my tombstone is a very exciting idea.
@@ -22,4 +23,4 @@ It may sound a bit like unhealthy denial, but I see it as more of a remembrance
 
 [E-TOMB – Tomb With Social Networks by Huang Jianbo, Zhao Ting, Wang Yushan, Ran Xiangfei & Mo Ran » Yanko Design][1].
 
- [1]: http://www.yankodesign.com/2010/11/10/tweet-and-like-me-even-when-i%E2%80%99m-dead/
+[1]: http://www.yankodesign.com/2010/11/10/tweet-and-like-me-even-when-i%E2%80%99m-dead/

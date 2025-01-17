@@ -1,18 +1,19 @@
 ---
-title: Apple iPhone user base on Flickr
-author: "Juan Orozco" 
-
-type: post
-date: 2010-08-21T15:23:12+00:00
-url: /2010/08/21/apple-iphone-user-base-on-flickr/
+aliases:
+- /2010/08/21/apple-iphone-user-base-on-flickr/
+author: Juan Orozco
 categories:
-  - post
+- post
+date: 2010-08-21 15:23:12
+slug: apple-iphone-user-base-on-flickr
 tags:
-  - camera
-  - iphone
-  - thoughts
-
+- camera
+- iphone
+- thoughts
+title: Apple iPhone user base on Flickr
+type: post
 ---
+
 <p style="text-align:left;">
   I thought for sure that the 3GS and 4 would have started to take over the 3G's spot as top camera phone on Flickr.  Interesting to see that the 3G actually increased its user base while the younger brothers are either steady or dropping.
 </p>

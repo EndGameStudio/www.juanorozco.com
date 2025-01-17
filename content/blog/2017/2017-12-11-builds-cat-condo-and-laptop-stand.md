@@ -1,17 +1,18 @@
 ---
-title: 'Builds: Cat Condo and Laptop Stand'
-author: "Juan Orozco" 
-
-type: post
-date: 2017-12-11T15:00:00+00:00
-url: /2017/12/11/builds-cat-condo-and-laptop-stand/
+aliases:
+- /2017/12/11/builds-cat-condo-and-laptop-stand/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2017-12-11 15:00:00
+slug: builds-cat-condo-and-laptop-stand
 tags:
-  - builds
-  - Journal
-
+- builds
+- Journal
+title: 'Builds: Cat Condo and Laptop Stand'
+type: post
 ---
+
 Earlier this year we purchased a Ryobi cordless tool set and a Ryobi table saw. Nothing fancy but impressive upgrades from what we had... which wasn't much!
 
 ## Cat Condo Project {#catcondoproject}

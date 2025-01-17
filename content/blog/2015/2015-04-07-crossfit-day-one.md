@@ -1,17 +1,18 @@
 ---
-title: 'CrossFit: Day One'
-author: "Juan Orozco" 
-
-type: post
-date: 2015-04-07T17:33:52+00:00
-url: /2015/04/07/crossfit-day-one/
+aliases:
+- /2015/04/07/crossfit-day-one/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2015-04-07 17:33:52
+slug: crossfit-day-one
 tags:
-  - fitness
-  - Journal
-
+- fitness
+- Journal
+title: 'CrossFit: Day One'
+type: post
 ---
+
 <img src="https://i0.wp.com/res.cloudinary.com/depnutmkm/image/upload/c_scale,w_800/v1428373890/P1010080_jr56rq.jpg?w=580" alt="Jelly Fish" data-recalc-dims="1" />
 
 I don’t like gyms, but I never knew why until today. Today was my first day doing CrossFit. Let me first get my thoughts out on CrossFit before I explain my discovery.
@@ -34,10 +35,10 @@ _She’s probably right._
 
 In case she isn’t, though, I like that CrossFit will help me improve my fitness to a level where I can venture out to other things like climbing and parkour. These are activities that I’ve wanted to do for so long but lacked the fitness to do so and enjoy them. Actually, I was climbing for a while until I switched to CrossFit with Ciri, but I sucked at climbing. My point is, I need to start somewhere. Might as well do it where community is an integral part of the workout.
 
-* * *
+---
 
 ## Cover Image {#coverimage}
 
 We took this image at the [Monterey Bay Aquarium][1]. Jelly Fish are neat little creatures for many reasons. I really like watching them propel themselves through the water, almost effortlessly. Just how I would like to move.
 
- [1]: http://www.montereybayaquarium.org/
+[1]: http://www.montereybayaquarium.org/

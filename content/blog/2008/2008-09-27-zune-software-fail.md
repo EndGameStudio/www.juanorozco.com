@@ -1,22 +1,23 @@
 ---
-title: 'Zune Software: FAIL.'
-author: "Juan Orozco" 
-
-type: post
-date: 2008-09-27T21:36:21+00:00
-url: /2008/09/27/zune-software-fail/
 aktt_tweeted:
-  - 1
+- 1
+aliases:
+- /2008/09/27/zune-software-fail/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2008-09-27 21:36:21
+slug: zune-software-fail
 tags:
-  - Audio
-  - gadgets
-  - Music
-  - software
-  - zune
-
+- Audio
+- gadgets
+- Music
+- software
+- zune
+title: 'Zune Software: FAIL.'
+type: post
 ---
+
 When I bought my Zune, it was [after careful research and investigation][1] that I decided to purchase one.   I knew it was a device with huge dreams of being the number one portable media player.   I knew that the path to that dream was long and dangerous.   But I bought one anyway.   I did it because I thought it had the potential and the drive.
 
 I was wrong.
@@ -37,5 +38,5 @@ If only Microsoft would put out a simple version to the software.   I don't car
 
 Microsoft...   Zune software = fail.
 
- [1]: http://guamaso.com/2008/07/06/the-precious-80-gig-zune
- [2]: http://www.flickr.com/photos/theguamaso/2888432873/
+[1]: http://guamaso.com/2008/07/06/the-precious-80-gig-zune
+[2]: http://www.flickr.com/photos/theguamaso/2888432873/

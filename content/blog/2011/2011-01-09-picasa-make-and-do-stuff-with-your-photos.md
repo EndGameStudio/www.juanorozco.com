@@ -1,21 +1,22 @@
 ---
-title: Picasa, Make and do stuff with your photos.
-author: "Juan Orozco" 
-
-type: post
-date: 2011-01-09T07:23:00+00:00
-url: /2011/01/09/picasa-make-and-do-stuff-with-your-photos/
+aliases:
+- /2011/01/09/picasa-make-and-do-stuff-with-your-photos/
+author: Juan Orozco
 categories:
-  - post
+- post
+date: 2011-01-09 07:23:00
+slug: picasa-make-and-do-stuff-with-your-photos
 tags:
-  - collage
-  - makeaweek
-  - photo
-  - picasa
-  - print
-  - Tips
-
+- collage
+- makeaweek
+- photo
+- picasa
+- print
+- Tips
+title: Picasa, Make and do stuff with your photos.
+type: post
 ---
+
 Obviously, and I called this one, the post-a-day thing did not work. Post  a week is still good to go, though.
 
 I was reorganizing my photos in Picasa and I started editing some older shots I took. I wanted to see if Picasa could do some sort of HDR. Even a feux-HDR. My research took me to the collage button, a button I have long ignored.  Although my results with the semi-HDR workaround was a let down, the collage option itself piqued my curiosity.

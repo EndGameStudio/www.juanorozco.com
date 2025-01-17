@@ -1,18 +1,19 @@
 ---
-title: Radio Ball Device
-author: "Juan Orozco" 
-
-type: post
-date: 2010-07-02T04:46:59+00:00
-url: /2010/07/02/radio-ball-device/
+aliases:
+- /2010/07/02/radio-ball-device/
+author: Juan Orozco
 categories:
-  - link
+- link
+date: 2010-07-02 04:46:59
+slug: radio-ball-device
 tags:
-  - Industrial Design
-  - Music
-  - radio
-
+- Industrial Design
+- Music
+- radio
+title: Radio Ball Device
+type: post
 ---
+
 <p style="text-align:center;">
   <a href="http://www.yankodesign.com/2010/05/12/more-radio-rolling-more-gaga/"><img src='https://i0.wp.com/iam.juano.info/files/2010/07/radioball05.jpg?w=580' alt='' data-recalc-dims="1" /></a>
 </p>
@@ -21,4 +22,4 @@ I love workspaces. I like finding new configurations and new items for my desk o
 
 via Yanko \*Design\* - Modern \*Industrial Design\* News: [More Radio Rolling, More Gaga][1].
 
- [1]: http://www.yankodesign.com/2010/05/12/more-radio-rolling-more-gaga/
+[1]: http://www.yankodesign.com/2010/05/12/more-radio-rolling-more-gaga/

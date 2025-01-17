@@ -1,14 +1,15 @@
 ---
-title: Make something. Enjoy it more. (via good thinking)
-author: "Juan Orozco" 
-
-type: post
-date: 2011-01-03T03:15:45+00:00
-url: /2011/01/02/make-something-enjoy-it-more-via-good-thinking/
+aliases:
+- /2011/01/02/make-something-enjoy-it-more-via-good-thinking/
+author: Juan Orozco
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: 2011-01-03 03:15:45
+slug: make-something-enjoy-it-more-via-good-thinking
+title: Make something. Enjoy it more. (via good thinking)
+type: post
 ---
+
 I couldn't agree more with this post. I love making our own meals, it's creative, challenging, and definitely enjoyable. Especially the end result. Making something doesn't stop with food or furniture, which is why I am trying to make one thing a day. Stay tuned on what I made today...
 
 <blockquote cite='http://goodthinkingblog.wordpress.com/?p=347' style='overflow:hidden;'>
@@ -19,4 +20,4 @@ I couldn't agree more with this post. I love making our own meals, it's creative
 
 via [good thinking][1]
 
- [1]: http://goodthinkingblog.wordpress.com/?p=347 "good thinking"
+[1]: http://goodthinkingblog.wordpress.com/?p=347 "good thinking"

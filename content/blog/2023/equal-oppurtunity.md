@@ -1,11 +1,12 @@
 ---
-title: Equal Oppurtunity
-author: "Juan Orozco"
-type: post
-draft: true
-date: 2023-06-29T10:00:00-07:00
+author: Juan Orozco
 categories:
-  - News
+- News
+date: 2023-06-29 17:00:00
+draft: true
+slug: equal-oppurtunity
+title: Equal Oppurtunity
+type: post
 ---
 
 I want to tell you a story about a person I knew. I hope that it serves as some insights into the lives of minorities. Take what you want from it, nothing, everything, whatever you wish. Just, hear me out to the end, though.

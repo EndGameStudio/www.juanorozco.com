@@ -1,11 +1,12 @@
 ---
-title: Long Term Power Outage
-author: "Juan Orozco"
-type: post
-date: 2023-08-23T21:53:00-07:00
+author: Juan Orozco
 categories:
-  - Blog
-  - Homelab
+- Blog
+- Homelab
+date: 2023-08-24 04:53:00
+slug: long-term-power-outage
+title: Long Term Power Outage
+type: post
 ---
 
 Using a Raspberry Pi as a DNS server is not a good idea. Most computers have an internal clock, or a "Real Time Clock". **Pi's don't.** So, say a natural disaster leads to an extended power outage, the iternal clock will be off and that can cause some fun DNS issues.

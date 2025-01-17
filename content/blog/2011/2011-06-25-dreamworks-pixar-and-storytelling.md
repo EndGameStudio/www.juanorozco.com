@@ -1,21 +1,23 @@
 ---
-title: Dreamworks, Pixar and storytelling
-author: "Juan Orozco" 
-
-type: post
-date: 2011-06-26T00:51:13+00:00
-url: /2011/06/25/dreamworks-pixar-and-storytelling/
-tagazine-media:
-  - 'a:7:{s:7:"primary";s:63:"http://juanthedesigner.files.wordpress.com/2011/06/megamind.jpg";s:6:"images";a:1:{s:63:"http://juanthedesigner.files.wordpress.com/2011/06/megamind.jpg";a:6:{s:8:"file_url";s:63:"http://juanthedesigner.files.wordpress.com/2011/06/megamind.jpg";s:5:"width";s:3:"536";s:6:"height";s:3:"793";s:4:"type";s:5:"image";s:4:"area";s:6:"425048";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"1";s:6:"author";s:7:"8033531";s:7:"blog_id";s:8:"17975075";s:9:"mod_stamp";s:19:"2011-06-26 00:52:46";}'
+aliases:
+- /2011/06/25/dreamworks-pixar-and-storytelling/
+author: Juan Orozco
 categories:
-  - post
+- post
+date: 2011-06-26 00:51:13
+slug: dreamworks-pixar-and-storytelling
+tagazine-media:
+- a:7:{s:7:"primary";s:63:"http://juanthedesigner.files.wordpress.com/2011/06/megamind.jpg";s:6:"images";a:1:{s:63:"http://juanthedesigner.files.wordpress.com/2011/06/megamind.jpg";a:6:{s:8:"file_url";s:63:"http://juanthedesigner.files.wordpress.com/2011/06/megamind.jpg";s:5:"width";s:3:"536";s:6:"height";s:3:"793";s:4:"type";s:5:"image";s:4:"area";s:6:"425048";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"1";s:6:"author";s:7:"8033531";s:7:"blog_id";s:8:"17975075";s:9:"mod_stamp";s:19:"2011-06-26
+  00:52:46";}
 tags:
-  - Dreamworks
-  - movies
-  - opinion
-  - Pixar
-
+- Dreamworks
+- movies
+- opinion
+- Pixar
+title: Dreamworks, Pixar and storytelling
+type: post
 ---
+
 <figure id="attachment_2844" aria-describedby="caption-attachment-2844" style="width: 202px" class="wp-caption alignright">[<img class="size-medium wp-image-2844 " title="megamind" src="http://juanthedesigner.files.wordpress.com/2011/06/megamind.jpg?w=202&#038;resize=202%2C300" alt="" width="202" height="300" data-recalc-dims="1" />][1]<figcaption id="caption-attachment-2844" class="wp-caption-text">I love this poster art in the movie. Hilarious!</figcaption></figure>
 
 The family and I finally watched Megamind the other night.  I was really impressed. The story was creative and different, but I was mostly amazed with the facial expressions –  really sucked me into the story. Also, a few weeks ago, we watched How to Train Your Dragon for the first time.  That has to be my favorite Dreamworks film to date.
@@ -38,5 +40,5 @@ DreamWorks or Pixar?  Neither and both.  Ok, so DreamWorks hasn’t been as su
 
 In the end, sometimes you want that beautiful movie and sometimes you just want to watch stuff explode, you know?  Timelessness be damned.
 
- [1]: http://juanthedesigner.files.wordpress.com/2011/06/megamind.jpg
- [2]: http://en.wikipedia.org/wiki/Goliath_(Gargoyles)
+[1]: http://juanthedesigner.files.wordpress.com/2011/06/megamind.jpg
+[2]: http://en.wikipedia.org/wiki/Goliath_(Gargoyles)

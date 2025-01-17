@@ -1,13 +1,11 @@
 ---
-title: Six months of the Pebble 2 HR
-author: "Juan Orozco"
-
-type: post
-
-draft: true
-url: /?p=45
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+draft: true
+slug: six-months-of-the-pebble-2-hr
+title: Six months of the Pebble 2 HR
+type: post
 ---
 
 <div class="kg-card-markdown">

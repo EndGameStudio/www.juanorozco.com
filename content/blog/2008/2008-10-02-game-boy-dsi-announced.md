@@ -1,18 +1,19 @@
 ---
-title: Game Boy DSi announced!
-author: "Juan Orozco" 
-
-type: post
-date: 2008-10-02T07:09:36+00:00
-url: /2008/10/02/game-boy-dsi-announced/
+aliases:
+- /2008/10/02/game-boy-dsi-announced/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2008-10-02 07:09:36
+slug: game-boy-dsi-announced
 tags:
-  - Media Summit
-  - Nintendo
-  - video games
-
+- Media Summit
+- Nintendo
+- video games
+title: Game Boy DSi announced!
+type: post
 ---
+
 <figure id="attachment_903" aria-describedby="caption-attachment-903" style="width: 189px" class="wp-caption alignleft">[<img class="size-medium wp-image-903" title="GameBoyDSi" src="https://i0.wp.com/guamaso.com/wp-content/uploads/2008/10/dsi-191919191919191-cg-main99-300x150.jpg?resize=189%2C95" alt="Game Boy DSi" width="189" height="95" data-recalc-dims="1" />][1]<figcaption id="caption-attachment-903" class="wp-caption-text">Game Boy DSi</figcaption></figure>
 
 I was browsing my feeds before I hit the hay and I see in big bright letters, "Nintendo Announces Nintendo DSi!"
@@ -29,4 +30,4 @@ Another great update from the summit is actually for the Wii.   The Wii will so
 
 Keep an eye on DS Fanboy, Wii Fanboy, and IGN for more info!   Also, check out the <a href="http://www.nintendo.co.jp/ds/dsi.html" target="_blank" rel="noopener noreferrer">Japanese site for the DSi</a>!
 
- [1]: http://www.dsfanboy.com/photos/nintendo-dsi/1069073/
+[1]: http://www.dsfanboy.com/photos/nintendo-dsi/1069073/

@@ -1,13 +1,11 @@
 ---
-title: Contractors
-author: "Juan Orozco"
-
-type: post
-
-draft: true
-url: /?p=3200
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+draft: true
+slug: contractors
+title: Contractors
+type: post
 ---
 
 I consumed a lot of words today about what is better, contracting or full time employee. Some articles written for the employer (who should you hire) and some written for the worker.

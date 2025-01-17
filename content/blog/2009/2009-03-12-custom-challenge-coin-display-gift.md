@@ -1,20 +1,21 @@
 ---
-title: Custom Challenge Coin Display Gift
-author: "Juan Orozco" 
-
-type: post
-date: 2009-03-13T02:27:51+00:00
-url: /2009/03/12/custom-challenge-coin-display-gift/
 aktt_tweeted:
-  - 1
+- 1
+aliases:
+- /2009/03/12/custom-challenge-coin-display-gift/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2009-03-13 02:27:51
+slug: custom-challenge-coin-display-gift
 tags:
-  - challenge coin
-  - Wood Projects
-  - woodworking
-
+- challenge coin
+- Wood Projects
+- woodworking
+title: Custom Challenge Coin Display Gift
+type: post
 ---
+
 Last week Ciriana told me that her Sergeant was going to give Ciriana a "good-bye" luncheon.   Although Ciri's official last day isn't until May, her last day in the clinic is nigh.   Her Sergeant asked me to send her pictures of Ciriana in a bite suit from a re-enlistment ceremony in Germany.   The photo was mounted onto a plaque that Ciriana received during the luncheon - it is pretty awesome looking.
 
 When her Sergeant told me what she was going to do with the pictures, I didn't think about getting Ciriana anything just from me, except maybe some flowers.   That is,   until Sunday afternoon.   Remember that episode of Scrubs with the "epiphany toilet?"   Well, I get epiphany's in the bathroom too, only mine are in the shower.   So, there I am lathering, rinsing, and repeating, when it hits me.   Ciriana wanted a coin display for her challenge coins.   All of the ones I've seen are either ugly or just blah.   So... "Why not design and make one myself," I thought as I scrubbed my nether regions.
@@ -33,4 +34,4 @@ I'm inspired to work more with wood and create more crazy stuff.   For now, thi
 
 Don't forget to check out the <a href="http://www.flickr.com/photos/theguamaso/sets/72157615128976122/" target="_blank" rel="noopener noreferrer">Flickr set</a> for the entire collection of photos I took while making the display.
 
- [1]: http://www.flickr.com/photos/theguamaso/sets/72157615128976122/
+[1]: http://www.flickr.com/photos/theguamaso/sets/72157615128976122/

@@ -1,25 +1,26 @@
 ---
-title: Post WordCamp RDU Thoughts.
-author: "Juan Orozco" 
-
-type: post
-date: 2009-06-15T03:02:51+00:00
-url: /2009/06/14/post-wordcamp-rdu-thoughts/
 aktt_tweeted:
-  - 1
-headline_img:
-  - http://farm4.static.flickr.com/3538/3622048739_3c38050318_m.jpg
+- 1
+aliases:
+- /2009/06/14/post-wordcamp-rdu-thoughts/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2009-06-15 03:02:51
+headline_img:
+- http://farm4.static.flickr.com/3538/3622048739_3c38050318_m.jpg
+slug: post-wordcamp-rdu-thoughts
 tags:
-  - creativity
-  - matt mullenweg
-  - Raleigh
-  - thoughts
-  - wordcamp
-  - wordpress
-
+- creativity
+- matt mullenweg
+- Raleigh
+- thoughts
+- wordcamp
+- wordpress
+title: Post WordCamp RDU Thoughts.
+type: post
 ---
+
 <figure style="width: 240px" class="wp-caption alignleft"><img title="WordPress cake" src="https://i1.wp.com/farm4.static.flickr.com/3538/3622048739_3c38050318_m.jpg?resize=240%2C180" alt="WordPress is a piece of cake. XD" width="240" height="180" data-recalc-dims="1" /><figcaption class="wp-caption-text">WordPress is a piece of cake. XD</figcaption></figure>
 
 Yesterday was <a href="http://wordcamprdu.com/2009/" target="_blank" rel="noopener noreferrer">WordCamp RDU</a> at NCCU's School of Education.  Being my first Camp of any kind, the night before I searched for ideas and tips on <a href="http://themeplayground.com/2009/community/wordcamp-prep/" target="_blank" rel="noopener noreferrer">what I should prepare</a> for.  The first article I found had three basic points.  The most important to me was something I didn't think of: be prepared with questions for the speaker.  I knew I would get to ask questions, but I didn't think to have them prepared beforehand.  It's the simple things that we miss.
@@ -42,4 +43,4 @@ There are a few other resources from yesterday that are starting to get posted o
 
 So that's pretty much everything in a nutshell... a large nutshell, but a nutshell nonetheless.  It was a great time and my only complaint is I didn't win a <a href="http://shop.wordpress.net/usa/t-shirts/wordpress-olive-mens-t-shirt" target="_blank" rel="noopener noreferrer">WordPress shirt</a>. 🙁
 
- [1]: http://ma.tt
+[1]: http://ma.tt

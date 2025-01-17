@@ -1,16 +1,17 @@
 ---
-title: My creativity and TED.com with Adam Savage
-author: "Juan Orozco" 
-
-type: post
-date: 2009-03-24T05:18:44+00:00
-url: /2009/03/24/my-creativity-and-tedcom-with-adam-savage/
 aktt_tweeted:
-  - 1
+- 1
+aliases:
+- /2009/03/24/my-creativity-and-tedcom-with-adam-savage/
+author: Juan Orozco
 categories:
-  - Uncategorized
-
+- Uncategorized
+date: 2009-03-24 05:18:44
+slug: my-creativity-and-ted-com-with-adam-savage
+title: My creativity and TED.com with Adam Savage
+type: post
 ---
+
 I am at odds with my creativity on pretty much a daily basis. Growing up I would have spurts of creativity, like [I said before it comes in waves][1]. As a child, these waves of creativity would garner "oohs" and "aahs" from my parents and the rest of my family. I think this left me with a horrible complex of meeting these high expectations. I live in a constant fear that I am not that creative, or worse, not creative at ALL. I see other people devising creative solutions to problems that I feel are almost acts of genius. The more I meet more of these truly creative people, the more intense my fear becomes.
 
 Here's the thing, though, one creative solution is not better or worse than another, only different. I've slowly come to this realization and grown more and more [comfortable with whatever creative endeavors I take][2]. I also realized that in order to genuinely be a good creative, I must possess many skills of self expression. Painting, drawing, writing, photography, and music are just a few subjects that I feel all creatives should have at least some experience with.
@@ -25,5 +26,5 @@ The past few weeks have gone well, so much that I actually feel good about havin
 
 So, watch the video and enjoy it. Adam Savage is definitely one of my favorite artists/creatives and has been for a long time. He doesn't disappoint and I don't think you have to be in the predicament I was in to appreciate the video.
 
- [1]: http://guamaso.com/2009/03/12/custom-challenge-coin-display-gift
- [2]: http://guamaso.com/2009/03/09/designing-childrens-toys-and-more
+[1]: http://guamaso.com/2009/03/12/custom-challenge-coin-display-gift
+[2]: http://guamaso.com/2009/03/09/designing-childrens-toys-and-more

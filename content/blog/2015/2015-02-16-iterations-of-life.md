@@ -1,17 +1,18 @@
 ---
-title: Iterations of life
-author: "Juan Orozco" 
-
-type: post
-date: 2015-02-16T03:36:48+00:00
-url: /2015/02/16/iterations-of-life/
+aliases:
+- /2015/02/16/iterations-of-life/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2015-02-16 03:36:48
+slug: iterations-of-life
 tags:
-  - Journal
-  - philosophy
-
+- Journal
+- philosophy
+title: Iterations of life
+type: post
 ---
+
 [<img src="https://i0.wp.com/m.creativeandflow.com/images/2015/02/wright_sm.jpg?w=580" alt="Wright Memorial - Kitty Hawk, NC" data-recalc-dims="1" />][1]
 
 I'm infatuated with the concept of iteration. As a creator of web things, I am no stranger to the concept. But as a member of society, father, husband, friend, and more; I've noticed more and more useful applications for iteration in all aspects of life outside of work.
@@ -36,7 +37,7 @@ We're making big changes in our lifestyle over the next few years and I'd like t
 
 I look forward to sharing my thoughts. I've got this.
 
-* * *
+---
 
 ### Cover image {#coverimage}
 
@@ -44,4 +45,4 @@ We visisted the Wright memorial on October of 2014 and it was one of the more be
 
 I used this image because it reminded of how the brothers iterated their designs and their approaches to the problems they faced. Since the day the Wright flyer left the earth, humanity has never stopped iterating on the brothers' experiments.
 
- [1]: https://i0.wp.com/m.creativeandflow.com/images/2015/02/wright.jpg
+[1]: https://i0.wp.com/m.creativeandflow.com/images/2015/02/wright.jpg

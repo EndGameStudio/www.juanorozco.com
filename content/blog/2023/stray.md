@@ -1,9 +1,10 @@
 ---
-title: Stray
-author: "Juan Orozco"
-type: post
-draft: true
-date: 2023-06-02T20:00:00-07:00
+author: Juan Orozco
 categories:
-  - Games
+- Games
+date: 2023-06-03 03:00:00
+draft: true
+slug: stray
+title: Stray
+type: post
 ---

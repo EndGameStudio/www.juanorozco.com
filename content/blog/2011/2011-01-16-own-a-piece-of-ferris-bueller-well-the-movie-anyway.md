@@ -1,21 +1,23 @@
 ---
-title: Own a piece of Ferris Bueller, well the movie anyway…
-author: "Juan Orozco" 
-
-type: post
-date: 2011-01-16T05:03:23+00:00
-url: /2011/01/16/own-a-piece-of-ferris-bueller-well-the-movie-anyway/
-tagazine-media:
-  - 'a:7:{s:7:"primary";s:83:"http://juanthedesigner.files.wordpress.com/2011/01/ferris-bueller-home-exterior.jpg";s:6:"images";a:1:{s:83:"http://juanthedesigner.files.wordpress.com/2011/01/ferris-bueller-home-exterior.jpg";a:6:{s:8:"file_url";s:83:"http://juanthedesigner.files.wordpress.com/2011/01/ferris-bueller-home-exterior.jpg";s:5:"width";s:3:"468";s:6:"height";s:3:"374";s:4:"type";s:5:"image";s:4:"area";s:6:"175032";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"1";s:6:"author";s:7:"8033531";s:7:"blog_id";s:8:"17975075";s:9:"mod_stamp";s:19:"2011-01-16 05:03:23";}'
+aliases:
+- /2011/01/16/own-a-piece-of-ferris-bueller-well-the-movie-anyway/
+author: Juan Orozco
 categories:
-  - post
+- post
+date: 2011-01-16 05:03:23
+slug: own-a-piece-of-ferris-bueller-well-the-movie-anyway
+tagazine-media:
+- a:7:{s:7:"primary";s:83:"http://juanthedesigner.files.wordpress.com/2011/01/ferris-bueller-home-exterior.jpg";s:6:"images";a:1:{s:83:"http://juanthedesigner.files.wordpress.com/2011/01/ferris-bueller-home-exterior.jpg";a:6:{s:8:"file_url";s:83:"http://juanthedesigner.files.wordpress.com/2011/01/ferris-bueller-home-exterior.jpg";s:5:"width";s:3:"468";s:6:"height";s:3:"374";s:4:"type";s:5:"image";s:4:"area";s:6:"175032";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"1";s:6:"author";s:7:"8033531";s:7:"blog_id";s:8:"17975075";s:9:"mod_stamp";s:19:"2011-01-16
+  05:03:23";}
 tags:
-  - architecture
-  - Ferris Bueller
-  - Home
-  - movie
-
+- architecture
+- Ferris Bueller
+- Home
+- movie
+title: Own a piece of Ferris Bueller, well the movie anyway…
+type: post
 ---
+
 &nbsp;
 
 <p style="text-align:center;">
@@ -28,4 +30,4 @@ Our garage was rarely used for cars - it was a huge storage closet.  It wasn't 
 
 via Dornob [Modern Classic: Famous Ferris Bueller Film House for Sale][1].
 
- [1]: http://feedproxy.google.com/~r/dornob/~3/ZDTa6UQxbHY/
+[1]: http://feedproxy.google.com/~r/dornob/~3/ZDTa6UQxbHY/

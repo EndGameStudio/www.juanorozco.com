@@ -1,22 +1,23 @@
 ---
-title: Online Web Apps for private journaling.
-author: "Juan Orozco" 
-
-type: post
-date: 2009-06-11T03:19:34+00:00
-url: /2009/06/10/online-web-apps-for-private-journalling/
 aktt_tweeted:
-  - 1
+- 1
+aliases:
+- /2009/06/10/online-web-apps-for-private-journalling/
+author: Juan Orozco
 categories:
-  - Reviews
+- Reviews
+date: 2009-06-11 03:19:34
+slug: online-web-apps-for-private-journaling
 tags:
-  - evernote
-  - iphone
-  - Journal
-  - review
-  - wordpress
-
+- evernote
+- iphone
+- Journal
+- review
+- wordpress
+title: Online Web Apps for private journaling.
+type: post
 ---
+
 I've started up my personal journal again.  (Yes, I am writing a diary...)  Only this time, I thought I'd try a virtual journal in the hopes that I would continue writing in it longer than a few months.  I enjoy writing and chronicling my thoughts, but writing in a book never worked out for me.  I would jot down my thoughts and ideas more often if I could write from anywhere and anytime.  What better way to write on the go than with my iPhone?
 
 The first thought I had was to search for some sort of iPhone app that was password protected.  I found a few, some free and some at a small premium.  Writing from the iPhone is convenient when there isn't a full size keyboard around, but I would rather use a computer when it is available.  So if I was going to buy an app, it would need to sync with some online service or at least sync with my PC.  I couldn't find any apps that had this functionality so I thought of just using a webapp instead.

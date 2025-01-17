@@ -1,18 +1,19 @@
 ---
-title: The first step to giving them ultimate control.
-author: "Juan Orozco" 
-
-type: post
-date: 2010-08-23T15:43:05+00:00
-url: /2010/08/23/the-first-step-to-giving-them-ultimate-control/
+aliases:
+- /2010/08/23/the-first-step-to-giving-them-ultimate-control/
+author: Juan Orozco
 categories:
-  - post
+- post
+date: 2010-08-23 15:43:05
+slug: the-first-step-to-giving-them-ultimate-control
 tags:
-  - case mod
-  - hack
-  - mecha
-
+- case mod
+- hack
+- mecha
+title: The first step to giving them ultimate control.
+type: post
 ---
+
 <p style="text-align:center;">
   <a href="http://kotaku.com/5598363/in-the-future-there-are-only-incredible-case-mods"><img src='http://juanthedesigner.files.wordpress.com/2010/08/500x_untitled-1_081.jpg?w=580' alt='' data-recalc-dims="1" /></a>
 </p>
@@ -25,4 +26,4 @@ Beautifully done.
 
 via Kotaku: [In The Future There Are Only Incredible Case Mods][1].
 
- [1]: http://kotaku.com/5598363/in-the-future-there-are-only-incredible-case-mods
+[1]: http://kotaku.com/5598363/in-the-future-there-are-only-incredible-case-mods

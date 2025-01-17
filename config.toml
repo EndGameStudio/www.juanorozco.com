@@ -17,9 +17,6 @@ pagination.pagerSize = 5
 
 disableKinds = ["taxonomy"]
 
-[permalinks]
-post = "/:year/:month/:slug/"
-
 [params]
 mainSections = ["post", "docs", "photography"]
 copyrightYear = 2025

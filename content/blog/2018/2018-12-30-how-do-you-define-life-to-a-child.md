@@ -1,13 +1,11 @@
 ---
-title: Exploring the concept sentience with our children
-author: "Juan Orozco"
-
-type: post
-
-draft: true
-url: /?p=22
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+draft: true
+slug: exploring-the-concept-sentience-with-our-children
+title: Exploring the concept sentience with our children
+type: post
 ---
 
 How _do_ you define the concept of life to a child?

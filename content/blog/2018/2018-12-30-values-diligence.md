@@ -1,13 +1,11 @@
 ---
-title: "Values: Intensity, diligence, brevity, collaboration?"
-author: "Juan Orozco"
-
-type: post
-
-draft: true
-url: /?p=42
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+draft: true
+slug: values-intensity-diligence-brevity-collaboration
+title: 'Values: Intensity, diligence, brevity, collaboration?'
+type: post
 ---
 
 Most worthy companies will describe their company values, either explicitly or through mission statement. Most companies start off with "how" they work; how they expect their people to "get things done".

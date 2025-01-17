@@ -1,17 +1,18 @@
 ---
-title: Although I don’t agree with the author,…
-author: "Juan Orozco" 
-
-type: post
-date: 2010-06-13T21:21:14+00:00
-url: /2010/06/13/although-i-dont-agree-with-the-author/
+aliases:
+- /2010/06/13/although-i-dont-agree-with-the-author/
+author: Juan Orozco
 categories:
-  - link
+- link
+date: 2010-06-13 21:21:14
+slug: although-i-dont-agree-with-the-author
 tags:
-  - movies
-  - rant
-
+- movies
+- rant
+title: Although I don’t agree with the author,…
+type: post
 ---
+
 Although I don't agree with the author's view, he makes some good points.
 
 <blockquote class="wp-embedded-content" data-secret="S8UNrcBnWv">

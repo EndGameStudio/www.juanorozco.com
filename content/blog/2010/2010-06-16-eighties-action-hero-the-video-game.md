@@ -1,18 +1,19 @@
 ---
-title: 'Eighties Action Hero: The Video Game'
-author: "Juan Orozco" 
-
-type: post
-date: 2010-06-16T14:44:09+00:00
-url: /2010/06/16/eighties-action-hero-the-video-game/
+aliases:
+- /2010/06/16/eighties-action-hero-the-video-game/
+author: Juan Orozco
 categories:
-  - post
+- post
+date: 2010-06-16 14:44:09
+slug: eighties-action-hero-the-video-game
 tags:
-  - Games
-  - Ideas
-  - movies
-
+- Games
+- Ideas
+- movies
+title: 'Eighties Action Hero: The Video Game'
+type: post
 ---
+
 I've had an idea and in light of this years E3, I thought I would share it.
 
 Think Street Fighter 2.  Only, instead of Ryu, Blanka, and M. Bison you got Rambo, John McClane, James Bond, Rocky, Danial LaRusso, pretty much all of Arnold Schwarzenegger's characters, heck, maybe even som Johnny Five!  That's right, an 80's Action Hero fighter!

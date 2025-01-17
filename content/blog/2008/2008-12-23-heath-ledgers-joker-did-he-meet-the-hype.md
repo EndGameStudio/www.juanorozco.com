@@ -1,19 +1,20 @@
 ---
-title: 'Heath Ledger’s Joker: Did he meet the hype?'
-author: "Juan Orozco" 
-
-type: post
-date: 2008-12-23T23:41:11+00:00
-url: /2008/12/23/heath-ledgers-joker-did-he-meet-the-hype/
 aktt_tweeted:
-  - 1
+- 1
+aliases:
+- /2008/12/23/heath-ledgers-joker-did-he-meet-the-hype/
+author: Juan Orozco
 categories:
-  - Reviews
-  - Uncategorized
+- Reviews
+- Uncategorized
+date: 2008-12-23 23:41:11
+slug: heath-ledgers-joker-did-he-meet-the-hype
 tags:
-  - Batman
-
+- Batman
+title: 'Heath Ledger’s Joker: Did he meet the hype?'
+type: post
 ---
+
 <figure id="attachment_1278" aria-describedby="caption-attachment-1278" style="width: 187px" class="wp-caption alignleft"><img class="size-medium wp-image-1278" title="joker-tdk-poster" src="https://i2.wp.com/guamaso.com/wp-content/uploads/2008/12/tdk-int-joker-187x300.jpg?resize=187%2C300" alt="The Dark Knight - Joker" width="187" height="300" data-recalc-dims="1" /><figcaption id="caption-attachment-1278" class="wp-caption-text">The Dark Knight - Joker</figcaption></figure>
 
 We just watched The Dark Knight Sunday night after an afternoon of tamale making and gorging.   We had Ciri's dad, step-mom, and step-grandma over, so we had a nice assembly line going.   After they left, we sat on the couch and popped in The Dark Knight.

@@ -1,18 +1,19 @@
 ---
-title: A smart fire alarm solution.
-author: "Juan Orozco" 
-
-type: post
-date: 2010-10-13T01:11:51+00:00
-url: /2010/10/12/a-smart-fire-alarm-solution/
+aliases:
+- /2010/10/12/a-smart-fire-alarm-solution/
+author: Juan Orozco
 categories:
-  - post
+- post
+date: 2010-10-13 01:11:51
+slug: a-smart-fire-alarm-solution
 tags:
-  - Electronics
-  - Industrial Design
-  - safety
-
+- Electronics
+- Industrial Design
+- safety
+title: A smart fire alarm solution.
+type: post
 ---
+
 <p style="text-align:center;">
   <a href="http://www.yankodesign.com/2010/10/06/smoke-alarm-in-a-bulb/"><img src='http://juanthedesigner.files.wordpress.com/2010/10/lum_bulb21.jpg?w=580' alt='' data-recalc-dims="1" /></a>
 </p>
@@ -23,4 +24,4 @@ I like finding these little things. Modular, genius, and it solves a real proble
 
 viaYanko Design - Modern Industrial Design News
 
- [1]: http://www.yankodesign.com/2010/10/06/smoke-alarm-in-a-bulb/
+[1]: http://www.yankodesign.com/2010/10/06/smoke-alarm-in-a-bulb/

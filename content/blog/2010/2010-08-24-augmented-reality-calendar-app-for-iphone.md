@@ -1,18 +1,19 @@
 ---
-title: Augmented Reality Calendar App for iPhone
-author: "Juan Orozco" 
-
-type: post
-date: 2010-08-25T01:48:48+00:00
-url: /2010/08/24/augmented-reality-calendar-app-for-iphone/
+aliases:
+- /2010/08/24/augmented-reality-calendar-app-for-iphone/
+author: Juan Orozco
 categories:
-  - post
+- post
+date: 2010-08-25 01:48:48
+slug: augmented-reality-calendar-app-for-iphone
 tags:
-  - Cars
-  - iphone
-  - video
-
+- Cars
+- iphone
+- video
+title: Augmented Reality Calendar App for iPhone
+type: post
 ---
+
 Wicked. Awesome.
-  
+
 <!--YouTube Error: bad URL entered-->

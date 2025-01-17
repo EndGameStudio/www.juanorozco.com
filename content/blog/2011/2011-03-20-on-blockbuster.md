@@ -1,17 +1,18 @@
 ---
-title: On Blockbuster
-author: "Juan Orozco" 
-
-type: post
-date: 2011-03-20T16:49:18+00:00
-url: /2011/03/20/on-blockbuster/
+aliases:
+- /2011/03/20/on-blockbuster/
+author: Juan Orozco
 categories:
-  - post
+- post
+date: 2011-03-20 16:49:18
+slug: on-blockbuster
 tags:
-  - Blockbuster
-  - business
-
+- Blockbuster
+- business
+title: On Blockbuster
+type: post
 ---
+
 I rented my first movie from a Blockbuster Kiosk the other day and I started thinking about Blockbuster's survival. It doesn't look very good. It's three generations behind, for crying out loud.
 
 During the early years of the milennia, I said to my dad that Netflix will never replace the in-store experience. Although the in store experience is now a kiosk at every drug store, gas station, grocery store, and truck stop, I'm still sort of correct. Yet, Blockbuster continued to maintain it's storefronts.

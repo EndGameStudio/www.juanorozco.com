@@ -1,18 +1,19 @@
 ---
-title: Every kid should own one.
-author: "Juan Orozco" 
-
-type: post
-date: 2010-09-24T03:40:28+00:00
-url: /2010/09/23/every-kid-should-own-one/
+aliases:
+- /2010/09/23/every-kid-should-own-one/
+author: Juan Orozco
 categories:
-  - post
+- post
+date: 2010-09-24 03:40:28
+slug: every-kid-should-own-one
 tags:
-  - children
-  - furniture
-  - modular
-
+- children
+- furniture
+- modular
+title: Every kid should own one.
+type: post
 ---
+
 <p style="text-align:center;">
   <a href="http://feedproxy.google.com/~r/unclutterer/~3/cxNQk0cuM9o/"><img src='http://juanthedesigner.files.wordpress.com/2010/09/100922-chair.jpg?w=580' alt='' data-recalc-dims="1" /></a>
 </p>
@@ -25,5 +26,5 @@ Beautiful, just beautiful.
 
 via [Unclutterer][2]
 
- [1]: http://www.amazon.com/exec/obidos/ASIN/B001K6FWXS/unclutterer-20/
- [2]: http://unclutterer.com
+[1]: http://www.amazon.com/exec/obidos/ASIN/B001K6FWXS/unclutterer-20/
+[2]: http://unclutterer.com

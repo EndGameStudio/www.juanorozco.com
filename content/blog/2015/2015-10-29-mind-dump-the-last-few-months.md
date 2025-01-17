@@ -1,17 +1,18 @@
 ---
-title: 'Mind dump: The last few months'
-author: "Juan Orozco" 
-
-type: post
-date: 2015-10-29T03:27:13+00:00
-url: /2015/10/29/mind-dump-the-last-few-months/
+aliases:
+- /2015/10/29/mind-dump-the-last-few-months/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2015-10-29 03:27:13
+slug: mind-dump-the-last-few-months
 tags:
-  - Journal
-  - minddump
-
+- Journal
+- minddump
+title: 'Mind dump: The last few months'
+type: post
 ---
+
 It's interesting how life just happens. It cliché but it's true. One moment your having a margarita, the next minute you find out your little family is about to be a lot less little.
 
 I mostly just want to mind dump some thoughts and maybe I'll elaborate on them later and maybe I won't.
@@ -52,6 +53,6 @@ We got back from our trip and found out our water heater broke down. It seems to
 
 I've been super busy with work the past couple of months but I'm hoping it will slow down a bit in the next couple weeks. I'm really excited to put some more time back on my personal projects. Not that I'm not excited about the stuff we're building at work but sustaining a sprint for this long gets a little tired. 🙂
 
- [1]: https://i1.wp.com/m.juanorozco.com/photos/2015/09/early-traveling.large.jpg
- [2]: https://i1.wp.com/m.juanorozco.com/photos/2015/09/blue-angels.large.jpg
- [3]: https://i0.wp.com/m.juanorozco.com/photos/2015/09/water-heater-rusting.large.jpg
+[1]: https://i1.wp.com/m.juanorozco.com/photos/2015/09/early-traveling.large.jpg
+[2]: https://i1.wp.com/m.juanorozco.com/photos/2015/09/blue-angels.large.jpg
+[3]: https://i0.wp.com/m.juanorozco.com/photos/2015/09/water-heater-rusting.large.jpg

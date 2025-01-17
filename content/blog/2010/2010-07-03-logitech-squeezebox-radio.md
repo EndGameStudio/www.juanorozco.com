@@ -1,16 +1,17 @@
 ---
-title: Logitech Squeezebox Radio
-author: "Juan Orozco" 
-
-type: post
-date: 2010-07-04T02:26:17+00:00
-url: /2010/07/03/logitech-squeezebox-radio/
+aliases:
+- /2010/07/03/logitech-squeezebox-radio/
+author: Juan Orozco
 categories:
-  - link
+- link
+date: 2010-07-04 02:26:17
+slug: logitech-squeezebox-radio
 tags:
-  - home electronics
-
+- home electronics
+title: Logitech Squeezebox Radio
+type: post
 ---
+
 <p style="text-align:center;">
   <a href="http://www.idsa.org/content/content1/logitech-squeezebox-radio"><img src='https://i1.wp.com/www.idsa.org/sites/default/files/cliver/F6105%2C%20logitech%20squeezebok.jpg?w=580' alt='' data-recalc-dims="1" /></a>
 </p>
@@ -19,4 +20,4 @@ The problem with these types of units has always been propriety and user interac
 
 via IDSA.org [Logitech Squeezebox Radio][1].
 
- [1]: http://www.idsa.org/content/content1/logitech-squeezebox-radio
+[1]: http://www.idsa.org/content/content1/logitech-squeezebox-radio

@@ -1,21 +1,22 @@
 ---
-title: Ikea is coming to North Carolina
-author: "Juan Orozco" 
-
-type: post
-date: 2008-09-24T04:32:44+00:00
-url: /2008/09/24/ikea-is-coming-to-north-carolina/
 aktt_tweeted:
-  - 1
+- 1
+aliases:
+- /2008/09/24/ikea-is-coming-to-north-carolina/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2008-09-24 04:32:44
+slug: ikea-is-coming-to-north-carolina
 tags:
-  - Ikea
-  - North Carolina
-  - restaurant
-  - shopping
-
+- Ikea
+- North Carolina
+- restaurant
+- shopping
+title: Ikea is coming to North Carolina
+type: post
 ---
+
 <div class="mceTemp" style="text-align:left;">
   <dl>
     <dt>

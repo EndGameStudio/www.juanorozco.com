@@ -1,12 +1,13 @@
 ---
-title: I’ve been a parent too long…
-author: "Juan Orozco"
-
-type: post
-date: 2019-07-11T00:08:50+00:00
-url: /2019/07/10/ive-been-a-parent-too-long/
+aliases:
+- /2019/07/10/ive-been-a-parent-too-long/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2019-07-11 00:08:50
+slug: ive-been-a-parent-too-long
+title: I’ve been a parent too long…
+type: post
 ---
 
 How did I get here? Discussing Paw Patrol lore and fan theories. Le sigh.

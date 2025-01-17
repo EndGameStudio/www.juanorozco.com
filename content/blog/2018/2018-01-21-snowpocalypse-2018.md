@@ -1,16 +1,17 @@
 ---
-title: Snowpocalypse 2018
-author: "Juan Orozco"
-
-type: post
-date: 2018-01-21T05:15:27+00:00
-url: /2018/01/21/snowpocalypse-2018/
+aliases:
+- /2018/01/21/snowpocalypse-2018/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2018-01-21 05:15:27
+slug: snowpocalypse-2018
 tags:
-  - Photoblog
-
+- Photoblog
+title: Snowpocalypse 2018
+type: post
 ---
+
 The kids have been waiting for some good snow fall for two years now. The snow we got the previous week was a tease but this week's forecast really riled them up. Unfortunately, the snow kept getting pushed back and back until finally it started to snow in the afternoon.
 
 <img src="https://i1.wp.com/m.juanorozco.com/photos/2018/01/IMG_1952.jpg?w=580" alt="IMG_1952" data-recalc-dims="1" />

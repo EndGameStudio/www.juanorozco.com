@@ -1,13 +1,11 @@
 ---
-title: Chappie and the question of concsiousness
-author: "Juan Orozco"
-
-type: post
-
-draft: true
-url: /?p=30
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+draft: true
+slug: chappie-and-the-question-of-concsiousness
+title: Chappie and the question of concsiousness
+type: post
 ---
 
 I honestly hope that there is something after death. If not a place where the best of us get to hang out for eternity then at least maybe some step-by-step chart on how to reach a higher plane of existence.

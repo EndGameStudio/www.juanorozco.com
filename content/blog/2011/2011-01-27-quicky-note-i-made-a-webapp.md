@@ -1,20 +1,21 @@
 ---
-title: Quicky Note – I made a webapp!
-author: "Juan Orozco" 
-
-type: post
-date: 2011-01-27T18:17:21+00:00
-url: /2011/01/27/quicky-note-i-made-a-webapp/
+aliases:
+- /2011/01/27/quicky-note-i-made-a-webapp/
+author: Juan Orozco
 categories:
-  - post
+- post
+date: 2011-01-27 18:17:21
+slug: quicky-note-i-made-a-webapp
 tags:
-  - code
-  - evernote
-  - Note Taking
-  - PostAWeek
-  - webapp
-
+- code
+- evernote
+- Note Taking
+- PostAWeek
+- webapp
+title: Quicky Note – I made a webapp!
+type: post
 ---
+
 [<img class="alignleft" src="https://i1.wp.com/flitterize.com/quickynote/iphone-icon.png?resize=57%2C57" alt="" width="57" height="57" data-recalc-dims="1" />][1]A few weeks ago I wrote down some notes on a Post-it note at my desk. When I got up, I stuck the notes to my phone so I wouldn't forget to take them with me.  I use Evernote extensively, so I felt a little silly when i went to pick up my phone.  But then i actually gave it some though, why didn't I type my note into Evernote, or some other note taking app on my phone?  The answer came quickly, because they are just to darn slow!
 
 When you have an idea or a simple thought that needs to be written down quickly, you instinctively go for pen and paper. It doesn't crash, it doesn't take forever to load, and it's cross browser compliant.  The only problem with my situation is that I WANT to be paperless. The battle between paper and virtual notes breaks down to the "solution" aspect. Which is the better solution to a problem.  For the reasons I listed earlier, paper will always win. But paper degrades or gets lost easier than virtual notes do, so, which is it?
@@ -27,4 +28,4 @@ I don't want to replace Evernote (nor do i think it ever could), I just wanted s
 
 So, that's what I've been making this past few weeks.  Next up? Who knows.
 
- [1]: http://flitterize.com/quickynote/
+[1]: http://flitterize.com/quickynote/

@@ -1,19 +1,20 @@
 ---
-title: Best. Kids. Room. Ever.
-author: "Juan Orozco" 
-
-type: post
-date: 2011-03-06T23:25:01+00:00
-url: /2011/03/06/best-kids-room-ever/
+aliases:
+- /2011/03/06/best-kids-room-ever/
+author: Juan Orozco
 categories:
-  - Photoblog
+- Photoblog
+date: 2011-03-06 23:25:01
+slug: best-kids-room-ever
 tags:
-  - children
-  - imagination
-  - "kid's room"
-  - pirates. interior design
-
+- children
+- imagination
+- kid's room
+- pirates. interior design
+title: Best. Kids. Room. Ever.
+type: post
 ---
+
 &nbsp;
 
 <p style="text-align:center;">
@@ -28,5 +29,5 @@ Holy cow, this is one of the coolest designs I've ever seen! Brilliantly execute
 
 Found via [Dudecraft.][2]
 
- [1]: http://www.mymodernmet.com/profiles/blogs/ultimate-pirate-ship-bedroom
- [2]: http://www.dudecraft.com/2011/03/pirate-bedroom.html
+[1]: http://www.mymodernmet.com/profiles/blogs/ultimate-pirate-ship-bedroom
+[2]: http://www.dudecraft.com/2011/03/pirate-bedroom.html

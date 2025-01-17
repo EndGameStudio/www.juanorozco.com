@@ -1,16 +1,17 @@
 ---
-title: The Ninja Challenge Obstacle 5k – Scheduled
-author: "Juan Orozco" 
-
-type: post
-date: 2013-01-27T03:47:57+00:00
-url: /2013/01/26/the-ninja-challenge-obstacle-5k/
+aliases:
+- /2013/01/26/the-ninja-challenge-obstacle-5k/
+author: Juan Orozco
 categories:
-  - To Done
+- To Done
+date: 2013-01-27 03:47:57
+slug: the-ninja-challenge-obstacle-5k-scheduled
 tags:
-  - ninja run
-
+- ninja run
+title: The Ninja Challenge Obstacle 5k – Scheduled
+type: post
 ---
+
 You can't say you're a [ninja until you complete this 5k obstacle/mud run][1].  I did two mud runs last year, this one and Rugged Maniac.  Both were difficult in their own way, but the Ninja run required WAY more upper body strength - of which I had NONE.  I had failed two of the obstacles because of my lack of ninja-ness.  To my credit, though, I was the only one (in our little group) that was able to scale the wall jump (my upper body strength has a huganticly slow casting speed and an even longer cool-down).
 
 This year will be different. I've been working out the upper body and I've lost a lot of weight. This year, Juan becomes a certified Ninja.
@@ -29,5 +30,5 @@ Lots of arm and core exercises.
 
 Run/walk... over 20 obstacles, though.
 
- [1]: http://www.theninjachallenge.com/
- [2]: http://juanthedesigner.wordpress.com/category/events/5k-events/
+[1]: http://www.theninjachallenge.com/
+[2]: http://juanthedesigner.wordpress.com/category/events/5k-events/

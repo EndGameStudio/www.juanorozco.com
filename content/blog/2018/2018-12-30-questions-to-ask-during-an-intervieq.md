@@ -1,13 +1,11 @@
 ---
-title: Questions to ask during an interview
-author: "Juan Orozco"
-
-type: post
-
-draft: true
-url: /?p=47
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+draft: true
+slug: questions-to-ask-during-an-interview
+title: Questions to ask during an interview
+type: post
 ---
 
 "What is the most difficult problem you face in your day to day?"

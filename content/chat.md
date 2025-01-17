@@ -1,7 +1,6 @@
 ---
 title: Chat
 author: "Juan Orozco"
-
 type: page
 date: 2019-08-04T12:13:02+00:00
 featured_image: https://m.juanorozco.com/wp-content/uploads/2019/08/04095656/nesa-by-makers-IgUR1iX0mqM-unsplash-1568x1045.jpg
@@ -25,6 +24,8 @@ If you want to try this experiment out, please let me know!!
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet" />
 
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/juanorozco/code-review-pairing'});return false;">Schedule time with me</a>
+<a href="" onclick="Calendly.initPopupWidget({aliases:
+
+- 'https://calendly.com/juanorozco/code-review-pairing'});return false;">Schedule time with me</a>
 
 <!-- Calendly link widget end -->

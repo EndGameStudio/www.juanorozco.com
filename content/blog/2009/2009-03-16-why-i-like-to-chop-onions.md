@@ -1,19 +1,20 @@
 ---
-title: Why I Like to Chop Onions
-author: "Juan Orozco" 
-
-type: post
-date: 2009-03-16T21:38:13+00:00
-url: /2009/03/16/why-i-like-to-chop-onions/
 aktt_tweeted:
-  - 1
+- 1
+aliases:
+- /2009/03/16/why-i-like-to-chop-onions/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2009-03-16 21:38:13
+slug: why-i-like-to-chop-onions
 tags:
-  - Cooking
-  - meta
-
+- Cooking
+- meta
+title: Why I Like to Chop Onions
+type: post
 ---
+
 I made lasagna for dinner today, turkey and cheese, mm-mmm.  I used a recipe off of the <a href="http://allrecipes.com/features/more/iphone.aspx" target="_blank" rel="noopener noreferrer">AllRecipe.com app for iPhone</a>.  It turned out to be the best meat lasagna I've ever eaten.
 
 <figure style="width: 160px" class="wp-caption alignright">[<img title="Flickr Onion" src="https://i0.wp.com/farm4.static.flickr.com/3195/2990656711_a7a3860b5b_m.jpg?resize=160%2C240" alt="Flickr User: adulau" width="160" height="240" data-recalc-dims="1" />][1]<figcaption class="wp-caption-text">Flickr User: adulau</figcaption></figure>
@@ -28,4 +29,4 @@ There's something to be said about people that don't take short cuts, that just 
 
 I now realize that I need to have some background noise going on while I cook.  Nevertheless, my point has been made and I still feel it is valid.  Now, go fight the onion horde, comrade, and hold your head high.
 
- [1]: http://www.flickr.com/photos/adulau/2990656711/
+[1]: http://www.flickr.com/photos/adulau/2990656711/

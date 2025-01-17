@@ -1,18 +1,19 @@
 ---
-title: Winnie the Wookie?
-author: "Juan Orozco" 
-
-type: post
-date: 2010-09-03T21:47:20+00:00
-url: /2010/09/03/winnie-the-wookie/
+aliases:
+- /2010/09/03/winnie-the-wookie/
+author: Juan Orozco
 categories:
-  - post
+- post
+date: 2010-09-03 21:47:20
+slug: winnie-the-wookie
 tags:
-  - Art
-  - children
-  - Star Wars
-
+- Art
+- children
+- Star Wars
+title: Winnie the Wookie?
+type: post
 ---
+
 <p style="text-align:center;">
   <p style="text-align:center;">
     <a href="http://jameshance.com/cartoons.html"><img src='https://i2.wp.com/iam.juano.info/files/2010/09/wookiee-hunt.jpg?w=580' alt='' data-recalc-dims="1" /></a>

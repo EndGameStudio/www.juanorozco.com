@@ -1,11 +1,12 @@
 ---
-title: Unlocking BD Drive for 4K Movies
-author: "Juan Orozco"
-type: post
-date: 2023-07-08T21:53:00-07:00
-draft: true
+author: Juan Orozco
 categories:
-  - Blog
+- Blog
+date: 2023-07-09 04:53:00
+draft: true
+slug: unlocking-bd-drive-for-4k-movies
+title: Unlocking BD Drive for 4K Movies
+type: post
 ---
 
 Prior to getting our RV, I had no desire for 4K movies. Standard HD was amazing to me coming from 480i. Our RV came with a TCL 50 inch 4K TV and coupled with an Apple TV 4K and a pair of Airpods Pro, I quickly became interested.

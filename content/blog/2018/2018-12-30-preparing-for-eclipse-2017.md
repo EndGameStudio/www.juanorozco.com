@@ -1,13 +1,9 @@
 ---
-title: Preparing for Eclipse 2017
-author: "Juan Orozco"
-
-type: post
-
-draft: true
-url: /?p=37
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+draft: true
+slug: preparing-for-eclipse-2017
+title: Preparing for Eclipse 2017
+type: post
 ---
-
-</p>

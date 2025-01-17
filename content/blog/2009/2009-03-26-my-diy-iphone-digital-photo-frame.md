@@ -1,21 +1,22 @@
 ---
-title: My DIY iPhone Digital Photo Frame
-author: "Juan Orozco" 
-
-type: post
-date: 2009-03-26T21:03:36+00:00
-url: /2009/03/26/my-diy-iphone-digital-photo-frame/
 aktt_tweeted:
-  - 1
+- 1
+aliases:
+- /2009/03/26/my-diy-iphone-digital-photo-frame/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2009-03-26 21:03:36
+slug: my-diy-iphone-digital-photo-frame
 tags:
-  - digital photo frame
-  - iphone
-  - photography
-  - project
-
+- digital photo frame
+- iphone
+- photography
+- project
+title: My DIY iPhone Digital Photo Frame
+type: post
 ---
+
 I like digital photo frames, especially the DIY bunch.  Why buy one when you can make one way cooler - on the cheap?
 
 I am still working on turning my old iBook into one, but with my limited experience of Linux and it's command line interface, it's taking longer than I thought.
@@ -30,15 +31,15 @@ As with the iBook, before taking anything apart, I needed to make sure the softw
 
 The frame itself is pretty straight forward, and cheap.  All I needed was:
 
-  * iPhone (or Touch) with <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=293125183&mt=8" target="_blank" rel="noopener noreferrer">PhotoFrame</a> application - there's a few choices, but PhotoFrame is free 😀
-  * cardboard (after a trip to Ikea, we have tons)
-  * school glue
-  * an unused frame
-  * paint (if you want to paint it)
-  * small amount of matting (but I guess you could use construction paper, too)
-  * a few screws (to screw the back part down, duh.)
-  * a handy box cutter (a cutting mat would help too, or a lot of scrap cardboard)
-  * and of course, a screwdriver (a drill is funner, though.)
+- iPhone (or Touch) with <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=293125183&mt=8" target="_blank" rel="noopener noreferrer">PhotoFrame</a> application - there's a few choices, but PhotoFrame is free 😀
+- cardboard (after a trip to Ikea, we have tons)
+- school glue
+- an unused frame
+- paint (if you want to paint it)
+- small amount of matting (but I guess you could use construction paper, too)
+- a few screws (to screw the back part down, duh.)
+- a handy box cutter (a cutting mat would help too, or a lot of scrap cardboard)
+- and of course, a screwdriver (a drill is funner, though.)
 
 The first step was to cut the matting to size.  Remember to measure twice and stuff.
 
@@ -62,4 +63,4 @@ It's also not very convenient when the phone rings (a bluetooth headset would so
   <a href="http://www.flickr.com/photos/theguamaso/sets/72157615939909968/"><img class="aligncenter" title="frame" src="https://i1.wp.com/farm4.static.flickr.com/3476/3388135216_e57bc5db30.jpg?resize=500%2C375" alt="" width="500" height="375" data-recalc-dims="1" /></a>
 </p>
 
- [1]: http://www.flickr.com/photos/theguamaso/sets/72157615939909968/
+[1]: http://www.flickr.com/photos/theguamaso/sets/72157615939909968/

@@ -1,17 +1,18 @@
 ---
-title: Build your own thing
-author: "Juan Orozco" 
-
-type: post
-date: 2015-07-04T20:20:22+00:00
-url: /2015/07/04/build-your-own-thing/
+aliases:
+- /2015/07/04/build-your-own-thing/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2015-07-04 20:20:22
+slug: build-your-own-thing
 tags:
-  - Journal
-  - philosophy
-
+- Journal
+- philosophy
+title: Build your own thing
+type: post
 ---
+
 <img src="https://i2.wp.com/m.juanorozco.com/photos/2015/07/crv-engine.large.jpg?w=580" alt="CR-V Engine" data-recalc-dims="1" />
 
 There's publishings out there saying we live in a throw-away-I-want-it-now culture. **They're probably right.**
@@ -38,4 +39,4 @@ Build something just to build it. You might find you're not liking where your bu
 
 **So, get out there and build something, anything!**
 
- [1]: https://www.juanorozco.com/tag/photoblog/
+[1]: https://www.juanorozco.com/tag/photoblog/

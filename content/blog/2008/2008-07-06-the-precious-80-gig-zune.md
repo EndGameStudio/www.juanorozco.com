@@ -1,20 +1,21 @@
 ---
-title: 'The Precious: 80 Gig Zune'
-author: "Juan Orozco" 
-
-type: post
-date: 2008-07-06T13:00:01+00:00
-url: /2008/07/06/the-precious-80-gig-zune/
+aliases:
+- /2008/07/06/the-precious-80-gig-zune/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2008-07-06 13:00:01
+slug: the-precious-80-gig-zune
 tags:
-  - Audio
-  - gadgets
-  - Music
-  - Technology
-  - zune
-
+- Audio
+- gadgets
+- Music
+- Technology
+- zune
+title: 'The Precious: 80 Gig Zune'
+type: post
 ---
+
 Forgot to mention that with the great idea good ol' George (W. Bush) concocted to stimulate the economy, I was able to finally purchase myself a PMD (portable media device). It took me a while to figure out which one I wanted the most. I started looking at what was out there and I know that I wanted a large hard drive to store all my music rather then loading just a small portion of it.   I have about 30 gigs of music as it is so I wanted at least a 40 gig drive, but I would prefer 60 to 80.   Of all the features, the hard drive is all I really cared about.   I would be happy with a small black and white screen and a huge hard drive.   But since they don't make anything like that I was stuck trying to figure out the best player for the money.   It came down to the IPod and the Zune.   I really liked the Creative Labs Zen, but it was too expensive and the hard drive was too small.
 
 I liked that the IPod is fairly established.   It's had years to refine it user interface, which is one of the reasons the IPod is so popular.   Although this is also a bad thing; they've monoploized the digital music realm and created their own standards without regard to the people.   They've told us that this is the standard and we're going to like it.   Don't get me wrong, Microsoft is the same way, just a different devil.   Anyway, the point is that I don't like the IPod, but... after analyzing the different models it is still a possibility.   Unfortuneately, not even I can go against Steve Jobs.

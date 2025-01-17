@@ -1,18 +1,19 @@
 ---
-title: Socializing socialness with a watch?
-author: "Juan Orozco" 
-
-type: post
-date: 2011-08-02T00:04:12+00:00
-url: /2011/08/01/socializing-socialness-with-a-watch/
+aliases:
+- /2011/08/01/socializing-socialness-with-a-watch/
+author: Juan Orozco
 categories:
-  - post
+- post
+date: 2011-08-02 00:04:12
+slug: socializing-socialness-with-a-watch
 tags:
-  - children
-  - toy
-  - watch
-
+- children
+- toy
+- watch
+title: Socializing socialness with a watch?
+type: post
 ---
+
 &nbsp;
 
 <p style="text-align:center;">
@@ -25,4 +26,4 @@ Yanko Design - Modern Industrial Design News
 
 via [Watch Encourages Play][1].
 
- [1]: http://www.yankodesign.com/2011/07/11/watch-encourages-play/
+[1]: http://www.yankodesign.com/2011/07/11/watch-encourages-play/

@@ -1,13 +1,11 @@
 ---
-title: Live action movies are a sham
-author: "Juan Orozco"
-
-type: post
-
-draft: true
-url: /?p=35
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+draft: true
+slug: live-action-movies-are-a-sham
+title: Live action movies are a sham
+type: post
 ---
 
 There is no longer a difference between live action and animation, yet how excited are you about the following:

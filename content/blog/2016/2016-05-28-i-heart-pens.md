@@ -1,17 +1,18 @@
 ---
-title: I heart pens
-author: "Juan Orozco" 
-
-type: post
-date: 2016-05-28T04:17:33+00:00
-url: /2016/05/28/i-heart-pens/
+aliases:
+- /2016/05/28/i-heart-pens/
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2016-05-28 04:17:33
+slug: i-heart-pens
 tags:
-  - Journal
-  - things
-
+- Journal
+- things
+title: I heart pens
+type: post
 ---
+
 <img src="https://i0.wp.com/m.creativeandflow.com/images/2016/03/pens.small.jpg?w=580" alt="http://m.creativeandflow.com/images/2016/03/pens.large.jpg" data-recalc-dims="1" />
   
 When I have an emergent idea or thought that I need to record, I usually do it on paper. I have a subscription to Evernote, Dropbox, Google Drive. I even keep a private Github repo available for simple text notes.
@@ -32,8 +33,8 @@ The Fisher Space Pen is just a great pocket pen. Although, I get some odd looks 
 
 The Uni-Ball Signo is actually very interchangeable with the G2. It really depends what I have within reach.
 
- [1]: http://www.amazon.com/Pilot-Precise-Retractable-Rolling-26062/dp/B001E6A9M8/ref=sr_1_2?ie=UTF8&qid=1463657160
- [2]: http://www.amazon.com/Pilot-Retractable-Premium-Roller-31277/dp/B0017TMMLS/ref=sr_1_1
- [3]: http://www.amazon.com/dp/B001CRVUPE?psc=1
- [4]: http://www.amazon.com/Fisher-400B-Space-Bullet-Pen/dp/B000WGD13U/ref=sr_1_5
- [5]: http://www.amazon.com/uni-ball-Retractable-Translucent-12-Pack-33950/dp/B000FDR47E/ref=sr_1_1
+[1]: http://www.amazon.com/Pilot-Precise-Retractable-Rolling-26062/dp/B001E6A9M8/ref=sr_1_2?ie=UTF8&qid=1463657160
+[2]: http://www.amazon.com/Pilot-Retractable-Premium-Roller-31277/dp/B0017TMMLS/ref=sr_1_1
+[3]: http://www.amazon.com/dp/B001CRVUPE?psc=1
+[4]: http://www.amazon.com/Fisher-400B-Space-Bullet-Pen/dp/B000WGD13U/ref=sr_1_5
+[5]: http://www.amazon.com/uni-ball-Retractable-Translucent-12-Pack-33950/dp/B000FDR47E/ref=sr_1_1

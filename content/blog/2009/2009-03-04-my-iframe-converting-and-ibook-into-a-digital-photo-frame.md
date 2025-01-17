@@ -1,13 +1,11 @@
 ---
-title: "My iFrame: Converting and iBook into a Digital Photo Frame"
-author: "Juan Orozco"
-
-type: post
-
-draft: true
-url: /?p=1174
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+draft: true
+slug: my-iframe-converting-and-ibook-into-a-digital-photo-frame
+title: 'My iFrame: Converting and iBook into a Digital Photo Frame'
+type: post
 ---
 
 I bought Ciri a digital photo frame for her birthday last year and she LOVES it.   We have gigs of images on the hard drive and I hate that they sit there <a href="http://en.wikipedia.org/wiki/JPEG#JPEG_compression" target="_blank" rel="noopener noreferrer">degrading slowly into infinity</a> without ever being admired.   With Ciri's frame, at least the wonderful images we take can be enjoyed from time to time.   I wanted to buy myself one as well, but I don't like devices with only one purpose.   So I've been waiting for a digital frame that can browse the internet, display my Flickr feed, play my podcasts, etc. etc.   Does this device sound familiar?   Yup, it's pretty much a computer.

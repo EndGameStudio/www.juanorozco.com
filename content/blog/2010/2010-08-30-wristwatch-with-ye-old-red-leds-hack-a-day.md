@@ -1,18 +1,19 @@
 ---
-title: Wristwatch with ye old red LEDs – Hack a Day
-author: "Juan Orozco" 
-
-type: post
-date: 2010-08-30T11:56:43+00:00
-url: /2010/08/30/wristwatch-with-ye-old-red-leds-hack-a-day/
+aliases:
+- /2010/08/30/wristwatch-with-ye-old-red-leds-hack-a-day/
+author: Juan Orozco
 categories:
-  - link
+- link
+date: 2010-08-30 11:56:43
+slug: wristwatch-with-ye-old-red-leds-hack-a-day
 tags:
-  - diy
-  - Electronics
-  - LED
-
+- diy
+- Electronics
+- LED
+title: Wristwatch with ye old red LEDs – Hack a Day
+type: post
 ---
+
 Like I said, I'm a sucker for LEDs - especially 70's/80's style red and amber types.
 
 Although I really like the watch concept, the design in the post isn't my thing. Give me simplicity.
@@ -23,4 +24,4 @@ Although I really like the watch concept, the design in the post isn't my thing.
 
 [Wristwatch board with throwback digits - Hack a Day][1].
 
- [1]: http://hackaday.com/2010/08/25/wristwatch-board-with-throwback-digits/
+[1]: http://hackaday.com/2010/08/25/wristwatch-board-with-throwback-digits/

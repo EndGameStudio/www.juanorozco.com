@@ -1,13 +1,11 @@
 ---
-title: Creating and Flowing
-author: "Juan Orozco"
-
-type: post
-
-draft: true
-url: /?p=10
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+draft: true
+slug: creating-and-flowing
+title: Creating and Flowing
+type: post
 ---
 
 Welcome to Creative and Flow, a magazine on creativity, exploration, wondering, and failure.

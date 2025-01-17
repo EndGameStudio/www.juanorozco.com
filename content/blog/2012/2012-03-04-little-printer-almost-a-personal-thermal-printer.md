@@ -1,18 +1,19 @@
 ---
-title: Little Printer – Almost a personal thermal printer
-author: "Juan Orozco" 
-
-type: post
-date: 2012-03-04T20:05:24+00:00
-url: /2012/03/04/little-printer-almost-a-personal-thermal-printer/
+aliases:
+- /2012/03/04/little-printer-almost-a-personal-thermal-printer/
+author: Juan Orozco
 categories:
-  - link
+- link
+date: 2012-03-04 20:05:24
+slug: little-printer-almost-a-personal-thermal-printer
 tags:
-  - Industrial Design
-  - Little Printer
-  - product
-
+- Industrial Design
+- Little Printer
+- product
+title: Little Printer – Almost a personal thermal printer
+type: post
 ---
+
 [Little Printer | BERG Cloud][1].
 
 <p style="text-align:center;">
@@ -27,4 +28,4 @@ tags:
   What about giving one to parents? I can print out things remotely about the kids and stuff.  Can't do that right now, it seems, as it looks like they have it locked down.  It's not a printer per se.  Still, beautiful delivery of another method to consuming online content.
 </p>
 
- [1]: http://bergcloud.com/littleprinter/
+[1]: http://bergcloud.com/littleprinter/

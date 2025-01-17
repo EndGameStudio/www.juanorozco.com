@@ -1,13 +1,11 @@
 ---
-title: Do something legendary.
-author: "Juan Orozco"
-
-type: post
-
-draft: true
-url: /?p=25
+author: Juan Orozco
 categories:
-  - Uncategorized
+- Uncategorized
+draft: true
+slug: do-something-legendary
+title: Do something legendary.
+type: post
 ---
 
 What have you done in your life that you could call epic? Legendary? Ok, what about challenging?
