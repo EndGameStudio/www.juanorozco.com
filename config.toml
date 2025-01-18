@@ -19,8 +19,9 @@ disableKinds = ["taxonomy"]
 
 [params]
 mainSections = ["post", "docs", "photography"]
-copyrightYear = 2025
+copyrightYear = 2008
 search = true
+disableThemeAttribution = true
 
 [params.services]
 # analyticsId = "UA-DEV"
