@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
   <title>Juan Orozco</title>
-  <subtitle> Wonderer and Wanderer Love spending time with my wife, kids, and pets. Staff Frontend Engineer building design systems! Photography Hobbyist Sorta put thoughts on paper in a coherent way. Latest Thoughts Long Term Power Outage Using a Raspberry Pi as a DNS server is not a good idea. Most computers have an internal clock, or a &quot;Real Time Clock&quot;. Pi's don't. So, say a natural disaster leads... Aug 24, 2023 4:53AM NCMMC North Coast Marine Mammal Center promotes conservation through rescue and rehab in Crescent City, California. Ciri donates her time there and we attend the releases of their...
+  <subtitle> Wonderer and Wanderer Love spending time with my wife, kids, and pets. Staff Frontend Engineer building design systems! Photography Hobbyist Sorta put thoughts on paper in a coherent way. Latest Thoughts One Way Out One way out. One of my favorite episodes of TV and incredibly relevant today.
 </subtitle>
   <id>https://www.juanorozco.com/</id>
   <author>
     <name>Juan Orozco</name>
     <uri>https://www.juanorozco.com/</uri>
   </author>
-  <updated>2025-01-18T05:39:12Z</updated>
+  <updated>2025-02-02T17:18:39Z</updated>
   <link rel="self" type="application/atom+xml" href="https://www.juanorozco.com/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://www.juanorozco.com/" hreflang="en-us"/>
+  <entry>
+    <title>One Way Out</title>
+    <author>
+      <name>Juan Orozco</name>
+      <uri>https://juanorozco.com/</uri>
+    </author>
+    <id>https://www.juanorozco.com/blog/2025/one-way-out/</id>
+    <updated>2025-02-02T05:00:00Z</updated>
+    <published>2025-02-02T05:00:00Z</published>
+    <content type="html"><![CDATA[<p>One way out. One of my favorite episodes of TV and incredibly relevant today.</p>
+<p><img src="https://res.cloudinary.com/deo07tbou/image/upload/c_crop,g_auto,h_850,w_1600/juan-orozco-com/2025/wvdokfbfgebs2dufod4g" alt=""></p>
+<p>The other day, we were at a chamber dinner and the MC gave their monologue. As Ciri put it, they made a few off color political jokes that didn't seem to land well with most people in the room. He got some cheers for sure. Our table was flabbergasted. I was angry.</p>
+<p>His overall point, though, was that 2025 is going to be a great year for businesses in our area. I can't fault someone for wanting to feel excitement; for finding a glimmer of hope in the midst of chaos. I felt sad for him but then I felt anger because the &quot;hope&quot; he was clinging on to is at the expense of <em>real</em> people.</p>
+<p>The days before (and after) the dinner were filled with news about mistreatment of marginalized groups, retaliation towards federal employees, halts on federal funding for non-profits, and so much more. These are performative acts, things that don't make government <em>better</em> for its people. Its preening for a specific set of loud people but it doesn't help business, it doesn't help individuals, and it certainly doesn't help our country. There could be changes that are meant to help businesses but, honestly, I can't hear or see them because I'm so full of concern and worry over these other issues.</p>
+<p>Ultimately, is it worth it in the end? Hurting people this way? Is it worth making 2025 the year of local business? Not for me, personally.</p>
+<p>What does this have to do with episode 10 of Disney+'s Andor? Kino Loy's speech almost felt like he was talking to all of us.</p>
+<blockquote>
+<p>How long we hang on, how far we get, how many of us make it out, all of that is now up to us. ...</p>
+<p>Wherever you are right now, get up, stop the work. Get out of your cells, take charge and start climbing. They don't have enough guards and they know it. If we wait until they figure that out, it'll be too late. We will never have a better chance than this and &quot;I would rather die trying to take them down than giving them what they want.&quot;</p>
+<p>...</p>
+<p>There is one way out. Right now, the building is ours. You need to run, climb, kill! You need to help each other. You see someone who's confused, someone who is lost, you get them moving and you keep them moving until we put this place behind us.</p>
+<p>There are 5,000 of us. If we can fight half as hard as we've been working, we will be home in no time.</p>
+<p>One way out! One way out! One way out!</p>
+</blockquote>
+<p>Aside from killing (we aren't at that stage of a rebellion, hopefully we never get to that point), everything feels like a call to us right now. Basically, engage; fight.</p>
+<p>Stop the work, stop letting others dictate terms.</p>
+<p>Someone confused or lost? Help them, teach them, encourage them, get them in the fight.</p>
+<p>Until this place is behind us, until our families and our friends are safe once again.</p>
+<p>How far we get, is up to us. <strong>One way out.</strong></p>]]></content>
+  </entry>
   <entry>
     <title>Long Term Power Outage</title>
     <author>
@@ -2396,20 +2426,5 @@ src="https://res.cloudinary.com/deo07tbou/image/upload/dpr_auto,c_limit,h_800,f_
     <published>2011-06-25T18:05:15Z</published>
     <content type="html"><![CDATA[<p>Hm. Looks pretty cool. I dunno about these spinoff prequels though...</p>
 <p><span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='580' height='327' src='https://www.youtube.com/embed/Znuq-daWfLE?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span></p>]]></content>
-  </entry>
-  <entry>
-    <title>View of Endeavor’s launch</title>
-    <author>
-      <name>Juan Orozco</name>
-      <uri>https://juanorozco.com/</uri>
-    </author>
-    <id>https://www.juanorozco.com/blog/2011/view-of-endeavors-launch/</id>
-    <updated>2011-05-20T18:43:28Z</updated>
-    <published>2011-05-20T18:43:28Z</published>
-    <content type="html"><![CDATA[<p style="text-align:center;">
-  <a href="http://www.uproxx.com/news/2011/05/space-shuttle-endeavor-launches-on-its-final-mission/comment-page-1/#page/3"><img src="http://juanthedesigner.files.wordpress.com/2011/05/299726560.jpg?w=580" alt="" data-recalc-dims="1" /></a>
-</p>
-<p>Amazing.</p>
-<p><a href="http://www.uproxx.com/news/2011/05/space-shuttle-endeavor-launches-on-its-final-mission/comment-page-1/#page/3">Photos And Video From Space Shuttle Endeavor’s Final Mission</a>.</p>]]></content>
   </entry>
 </feed>
