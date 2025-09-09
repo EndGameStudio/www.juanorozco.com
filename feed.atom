@@ -8,9 +8,37 @@
     <name>Juan Orozco</name>
     <uri>https://www.juanorozco.com/</uri>
   </author>
-  <updated>2025-02-02T17:18:39Z</updated>
+  <updated>2025-09-09T06:20:21Z</updated>
   <link rel="self" type="application/atom+xml" href="https://www.juanorozco.com/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://www.juanorozco.com/" hreflang="en-us"/>
+  <entry>
+    <title>Dune Awakening</title>
+    <author>
+      <name>Juan Orozco</name>
+      <uri>https://juanorozco.com/</uri>
+    </author>
+    <id>https://www.juanorozco.com/games/dune-awakening/</id>
+    <updated>2025-09-04T17:00:00Z</updated>
+    <published>2025-09-04T17:00:00Z</published>
+    <content type="html"><![CDATA[<p>Normally, I'm not attracted to games with grinding. After a time, it begins to feel like work. Yet, I have logged over 100 hours into this game and I enjoy most of it. I even pulled my kid into it and we sometimes go on raids together.</p>
+<p>I enjoy building my base out, modifying it, optimizing it, and living in it. It's mostly utilitarian - I tried putting a bed and reading nook in one base and it felt weird. The character can't lay down. When they sit, they sit in a most uncomfortable way.</p>
+<p>I stopped decorating for &quot;people&quot; and instead decorate for imagination. I love the Sandbike mechanic skins. I have a corner of my base reserved as a repair shop, Tenzin's Sandbike Repair and Restorations. 😆</p>
+<h2 id="story-line-status">Story line Status</h2>
+<p>I finished the first part of the main story line and now I'm just grinding away at resources for a bit to get some better armor and weapons. I read the first two books but I'm finding much of the story hard to follow - interesting, but hard to track. It's cool hearing about characters from the books. <em>Really</em> exciting when I find schematics for Duncan's armor! I love playing the recordings to hear what is happening in this world and hearing them mention Rabban or Kynes.</p>
+<h2 id="ornithopter">Ornithopter</h2>
+<p>I mostly got this game because I wanted to fly an Ornithopter. I have Flight Simulator but it's not fun playing that on my Steamdeck - I prefer my main PC. Playing Dune on my Steamdeck has been a lot of fun, even at low settings.</p>
+<p>Unlocking the Ornithopter really changes the game meta - it kind of takes a lot of the fun out of the game but introduces new fun elements. The Deep Desert is interesting and beautiful. Dropping in on flour sand and spice sand then taking off when Shai-Hulud gets pissed at me, is simple but still feels a little exhilitrating when the worm breaches and then dives back in hungry and frustrated.</p>
+<p>Flying an Ornithopter, although simplified in the game, is lots of fun. Especailly in Vulture mode.</p>
+<h2 id="dlc">DLC</h2>
+<p>Although, I'm mostly in this game for the story, I do find certain mechanics enjoyable. I remember getting into Animal Crossing during Covid but quickly bailed because it was grinding for grinding's sake. Without the story of Dune Awakening, I don't feel the need to stick around. I'm glad to see that there's a DLC coming with more story, even though I haven't finished the main story yet.</p>
+<h2 id="todos">Todos</h2>
+<ul>
+<li>[x] Get mk5 cut array</li>
+<li>[ ] Get duraluminum armor and weapons</li>
+<li>[ ] Get mk5 cutarray for Buggy</li>
+<li>[ ] I want rocket launchers for the Ornithopter!</li>
+</ul>]]></content>
+  </entry>
   <entry>
     <title>One Way Out</title>
     <author>
@@ -33,8 +61,7 @@
 <p>...</p>
 <p>There is one way out. Right now, the building is ours. You need to run, climb, kill! You need to help each other. You see someone who's confused, someone who is lost, you get them moving and you keep them moving until we put this place behind us.</p>
 <p>There are 5,000 of us. If we can fight half as hard as we've been working, we will be home in no time.</p>
-<p>One way out! One way out! One way out!</p>
-</blockquote>
+<p>One way out! One way out! One way out!</p></blockquote>
 <p>Aside from killing (we aren't at that stage of a rebellion, hopefully we never get to that point), everything feels like a call to us right now. Basically, engage; fight.</p>
 <p>Stop the work, stop letting others dictate terms.</p>
 <p>Someone confused or lost? Help them, teach them, encourage them, get them in the fight.</p>
@@ -952,8 +979,7 @@ src="https://res.cloudinary.com/deo07tbou/image/upload/dpr_auto,c_limit,h_800,f_
 <p>It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.</p>
 <ul>
 <li>Theodore Roosevelt</li>
-</ul>
-</blockquote>
+</ul></blockquote>
 <p>I talk about this with friends and family quite a lot. Especially my kids. My daughter loves art and draws and doodles constantly. I asked her to publish her work once, but she was afraid to be judged harshly.</p>
 <p>It is hard to do the work, to make mistakes, to make poor decisions and then be judged by those who do not know your fight.</p>
 <p>I tell my daughter not to take judgment personally, these people aren’t in the arena with her. I don’t put unrealistic expectations on her or push her to do anything that doesn't fall within her passions, but at the same time, I try to challenge her and everyone’s ability to value their decisions. Bad or good, poor or beneficial - it doesn't matter because they are decisions we made in the arena. <strong>And they are ours alone.</strong></p>
@@ -999,8 +1025,7 @@ src="https://res.cloudinary.com/deo07tbou/image/upload/dpr_auto,c_limit,h_800,f_
 <h3 id="the-perils-of-releasing-often">The Perils of Releasing Often</h3>
 <p>&quot;Releasing often&quot; can be dangerous. It requires discipline from the team at every level - from users to managers and beyond. These days, the term &quot;releasing often&quot; seems to come more often from business managers than engineering managers and serves as a buzzword to convince stakeholders that the team can, and will, deliver value incredibly fast. That isn't fair to the people in the trenches. Often because engineering teams are understaffed and middle managers are forced to overpromise on deliverables to director level folk.</p>
 <blockquote>
-<p>One could argue that the above is all just a communication break down. I agree with that, but there's more to the story than only communication. I think there's a systemic problem brewing. But that's a post for another day.</p>
-</blockquote>
+<p>One could argue that the above is all just a communication break down. I agree with that, but there's more to the story than only communication. I think there's a systemic problem brewing. But that's a post for another day.</p></blockquote>
 <p>Our fence was built by people that had the autonomy to decide timelines, research solutions, and choose the build strategies. Along with more ethical decision making in engineering, I hope to see more independence given to engineering teams. Which should result in more fair representation at the decision table.</p>
 <p>I'm not saying work should be easy, we <em>should</em> be challenged! But there is no need to sacrifice quality and humanity.</p>
 <p>Our fence isn't software. But it is <strong>really</strong> hard to CMD+Z a cemented post. Yet, we got much more beautiful <em>and</em> usable fence this time around.</p>]]></content>
@@ -1253,13 +1278,11 @@ src="https://res.cloudinary.com/deo07tbou/image/upload/dpr_auto,c_limit,h_800,f_
 <img src="https://i0.wp.com/m.creativeandflow.com/images/2017/01/four-way-test.jpg?w=580" alt="The Four-Way Test" data-recalc-dims="1" />
 <p>The image shows the <a href="http://thefourwaytest.com/history-of-the-four-way-test/">Rotary's &quot;Four Way Test&quot;</a>, printed on cement.</p>
 <blockquote>
-<p>The Four-Way Test of the things we think, say or do.</p>
-</blockquote>
+<p>The Four-Way Test of the things we think, say or do.</p></blockquote>
 <blockquote>
 <ol>
 <li>Is it the TRUTH?</li>
-</ol>
-</blockquote>
+</ol></blockquote>
 <ol start="2">
   <li>
     Is it FAIR to all concerned?
@@ -1310,8 +1333,7 @@ src="https://res.cloudinary.com/deo07tbou/image/upload/dpr_auto,c_limit,h_800,f_
 </ul>
 <p>We loved the Pilot. I preferred the boxy styling of the pre 2013 models while the newst 2016 model had some impressive safety features. Unfortunately, the older generation had pretty bad <a href="http://safety.trw.com/whats-a-small-overlap-frontal-crash-test/1007/">small-overlap crash</a> <a href="https://youtu.be/8SPBd108Sfc?t=33">results</a>. As for the new models, well, it was out of our budget.</p>
 <blockquote>
-<p>We've come a long way, financially, but new cars are still out of our reach for now. Which isn't a bad thing, honestly. Used cars, when properly sourced, can be a better purchase per dollar. Used cars also help educed carbon footprint and all kinds of other neat &quot;green&quot; stuff.</p>
-</blockquote>
+<p>We've come a long way, financially, but new cars are still out of our reach for now. Which isn't a bad thing, honestly. Used cars, when properly sourced, can be a better purchase per dollar. Used cars also help educed carbon footprint and all kinds of other neat &quot;green&quot; stuff.</p></blockquote>
 <p>Anyway, The Volvo XC90 is a great car. When it comes to the safety of my family, I knew the XC90 was the best fit. Unfortunately, used versions are <em>very</em> difficult to find.</p>
 <p>The Nissan Pathfinder. I was a little miffed that Nissan went the route of the crossover. The Pathfinder used to be this bad ass thing of a car. Now, it had succumbed to peer pressure; it cut off its mullet and put on some khakis and polo. But, it was ok... because, in a sense, so had I.</p>
 <p>I once owned a 300ZX, which was also a wonderful car. But, along with my Golf, those days are gone. I need a safe family car. It is part of loving someone else more than yourself; you do more for them than for yourself. And that's ok because you love the crap outta them anyway.</p>
@@ -2414,17 +2436,5 @@ src="https://res.cloudinary.com/deo07tbou/image/upload/dpr_auto,c_limit,h_800,f_
 <h3 id="which-is-better-ford-or-chevy-apple-osx-or-microsoft-windows">Which is better? Ford or Chevy? Apple OSX or Microsoft Windows?</h3>
 <p>DreamWorks or Pixar?  Neither and both.  Ok, so DreamWorks hasn’t been as successful at the box office and has landed pretty close to bankruptcy a couple of times. But, remember, Apple and GM came pretty close to destruction as well.  (And yes, Apple fanboys/girls, Apple's stuff is awesome, but even Windows has its good points.)</p>
 <p>In the end, sometimes you want that beautiful movie and sometimes you just want to watch stuff explode, you know?  Timelessness be damned.</p>]]></content>
-  </entry>
-  <entry>
-    <title>Puss In Boots? Like, a prequel?</title>
-    <author>
-      <name>Juan Orozco</name>
-      <uri>https://juanorozco.com/</uri>
-    </author>
-    <id>https://www.juanorozco.com/blog/2011/puss-in-boots-like-a-prequel/</id>
-    <updated>2011-06-25T18:05:15Z</updated>
-    <published>2011-06-25T18:05:15Z</published>
-    <content type="html"><![CDATA[<p>Hm. Looks pretty cool. I dunno about these spinoff prequels though...</p>
-<p><span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='580' height='327' src='https://www.youtube.com/embed/Znuq-daWfLE?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span></p>]]></content>
   </entry>
 </feed>
