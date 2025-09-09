@@ -18,7 +18,7 @@ pagination.pagerSize = 5
 disableKinds = ["taxonomy"]
 
 [params]
-mainSections = ["post", "docs", "photography"]
+mainSections = ["post", "docs", "photography", "games"]
 copyrightYear = 2008
 search = true
 disableThemeAttribution = true
@@ -121,6 +121,10 @@ weight = 30
 url = "/now/"
 name = "Now"
 weight = 20
+[[menu.main]]
+url = "/games/"
+name = "Games"
+weight = 30
 [[menu.main]]
 url = "/docs/"
 name = "Docs"
