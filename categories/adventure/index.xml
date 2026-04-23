@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adventure on Juan Orozco</title>
+    <link>https://www.juanorozco.com/categories/adventure/</link>
+    <description>Recent content in Adventure on Juan Orozco</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Apr 2026 10:00:00 -0700</lastBuildDate>
+    <atom:link href="https://www.juanorozco.com/categories/adventure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stray</title>
+      <link>https://www.juanorozco.com/games/stray/</link>
+      <pubDate>Wed, 22 Apr 2026 10:00:00 -0700</pubDate>
+      <guid>https://www.juanorozco.com/games/stray/</guid>
+      <description>&lt;p&gt;Stray is one of the first games I played on my Steamdeck when I got it. It was a perfect game for me at the time. It was quick, it was good, it was steam punk, and it had cats.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
