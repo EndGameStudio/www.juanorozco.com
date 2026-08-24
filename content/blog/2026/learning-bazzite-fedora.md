@@ -17,13 +17,23 @@ I booted up my PC and received the familiar boot screen - which I learned is cal
 
 I don't use Linux often but I really want to learn. I've been enjoying asking Claude questions about error states or messages - it saves me a ton of time sifting through other codebases. In this case, I know nothing about how a system negotiates displays during OS boot. I assumed this was a weird hardware issue since it worked the night before - I didn't realize that major updates happened silently. I then learned about Fedora's immutability. I mean, I knew about it, but didn't realize its power until this moment.
 
-Claude pointing out the immutability and the commands to rollback the upgrade made it all click. I looked up the repo issues and sure enough, the new upgrade seems to have broken something with external displays, specifically with 4K and HDMI transport. Again, things I don't know much about but understand at a very rudimentary level to know that a rollback should be good. As easy as the update was applies (still miffed that a major upgrade was applied without my consent) the rollback was also easily applied. Is rolling back a MacOS update this easy? Windows? Granted, this is a Fedora thing not a Linux thing - it's still really great ergonomics.
+Claude pointing out the immutability and the commands to rollback the upgrade made it all click. I looked up the repo issues and sure enough, the new upgrade seems to have broken something with external displays, specifically with 4K and HDMI transport. Again, things I don't know much about but understand at a very rudimentary level to know that a rollback should be good. As easy as the update was applied (still miffed that a major upgrade was applied without my consent) the rollback was also easily applied. Is rolling back a MacOS update this easy? Windows? Granted, this is a Fedora thing not a Linux thing - still the immutability introduces great ergonomics.
 
 Here's what I ran to rollback:
 
 
 ```sh
+# First open a TTY session to bring back the display
+# 1) Press `Ctrl+Alt+F3` to open TTY
+# 2) Login to session
+
+# 3) Examine the upgrade status
+rpm-ostree status
+
+# 4) Trigger the rollback
 sudo rpm-ostree rollback
+
+# 5) Reboot machine to get new (old?) version
 sudo systemctl reboot
 ```
 
@@ -36,4 +46,4 @@ sudo ostree admin pin 1
 
 {{< alert message="I'm still learning how Generative AI fits in my life and, probably more importantly, how I feel about its increasing demand on our resources." type="info" badge="AI" >}}
 
-I came home from a long day and I really wanted to play some games. Thanks to Claude, I was able to get it working within 15 minutes (after my 30 minutes of checking cables and turning things on/off) and I learned some new things about Linux, Fedora, and Bazzite. I learned more about supporting my hobby and it feels pretty good.
+I came home from a long day and I really wanted to play some games. Thanks to Claude, I was able to get it working within 15 minutes (after my 30 minutes of checking cables and turning things on/off) and I gained new knowledge about Linux, Fedora, and Bazzite. If it wasn't for Claude, I probably would have ended up reinstalling Bazzite, hitting the same problem and having to switch to something else - because I didn't know how to debug the HDMI issue. I learned more about supporting my hobby and that feels really good.
