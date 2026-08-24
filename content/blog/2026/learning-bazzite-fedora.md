@@ -1,5 +1,5 @@
 ---
-title: Learning Bazzie and Fedora
+title: Learning Bazzite and Fedora
 author: "Juan Orozco"
 type: post
 date: 2026-08-23T10:00:00-07:00
