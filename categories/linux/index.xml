@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Juan Orozco</title>
+    <link>https://www.juanorozco.com/categories/linux/</link>
+    <description>Recent content in Linux on Juan Orozco</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Aug 2026 10:00:00 -0700</lastBuildDate>
+    <atom:link href="https://www.juanorozco.com/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning Bazzie and Fedora</title>
+      <link>https://www.juanorozco.com/blog/2026/learning-bazzite-fedora/</link>
+      <pubDate>Sun, 23 Aug 2026 10:00:00 -0700</pubDate>
+      <guid>https://www.juanorozco.com/blog/2026/learning-bazzite-fedora/</guid>
+      <description>&lt;p&gt;Obviously, I like working with computers. Ironically, I&#39;ve never really owned a high end computer. I had a Sony Vaio way back in the day that was supposed to be a great gaming maching but that was before discrete GPUs. This last year, I finally built a &lt;a href=&#34;https://pcpartpicker.com/user/exitzaero/saved/VLfm3C&#34;&gt;really nice PC for myself&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

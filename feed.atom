@@ -1,16 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
   <title>Juan Orozco</title>
-  <subtitle> Wonderer and Wanderer Love spending time with my wife, kids, and pets. Staff Frontend Engineer building design systems! Photography Hobbyist Sorta put thoughts on paper in a coherent way. Latest Thoughts One Way Out One way out. One of my favorite episodes of TV and incredibly relevant today.
+  <subtitle> Wonderer and Wanderer Love spending time with my wife, kids, and pets. Staff Frontend Engineer building design systems! Photography Hobbyist Sorta put thoughts on paper in a coherent way. Latest Thoughts Learning Bazzie and Fedora Obviously, I like working with computers. Ironically, I've never really owned a high end computer. I had a Sony Vaio way back in the day that was supposed to be a great gaming... Aug 23, 2026 5:00PM One Way Out One way out. One of my favorite episodes of TV and incredibly relevant today.
 </subtitle>
   <id>https://www.juanorozco.com/</id>
   <author>
     <name>Juan Orozco</name>
     <uri>https://www.juanorozco.com/</uri>
   </author>
-  <updated>2026-04-23T05:42:36Z</updated>
+  <updated>2026-08-24T07:20:52Z</updated>
   <link rel="self" type="application/atom+xml" href="https://www.juanorozco.com/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://www.juanorozco.com/" hreflang="en-us"/>
+  <entry>
+    <title>Learning Bazzie and Fedora</title>
+    <author>
+      <name>Juan Orozco</name>
+      <uri>https://juanorozco.com/</uri>
+    </author>
+    <id>https://www.juanorozco.com/blog/2026/learning-bazzite-fedora/</id>
+    <updated>2026-08-23T17:00:00Z</updated>
+    <published>2026-08-23T17:00:00Z</published>
+    <content type="html"><![CDATA[<p>Obviously, I like working with computers. Ironically, I've never really owned a high end computer. I had a Sony Vaio way back in the day that was supposed to be a great gaming maching but that was before discrete GPUs. This last year, I finally built a <a href="https://pcpartpicker.com/user/exitzaero/saved/VLfm3C">really nice PC for myself</a>.</p>
+<p><a href="https://pcpartpicker.com/user/exitzaero/saved/VLfm3C"><img src="https://res.cloudinary.com/deo07tbou/image/upload/c_crop,g_auto,h_850,w_1600/juan-orozco-com/2026/fractal-design-terra" alt="Fractal Design Terra"></a></p>
+<p>When I finally finished it over Christmas break, I installed Bazzite and immediately feel like I made a great decision. I used the <code>deck</code> version at first but I really wanted a desktop environment so I switched to the full KDE experience and it's been a great ride so far until last night when it it auto-updated to <a href="https://github.com/ublue-os/bazzite/releases/tag/44.20260820">version 44</a>.</p>
+<p>I booted up my PC and received the familiar boot screen - which I learned is called the <a href="https://wiki.gentoo.org/wiki/Plymouth">Plymouth boot splash</a>, then my TV flipped to &quot;No Signal&quot;. I did some basic troubleshooting - rebooting, turning the TV off/on - nothing worked.</p>
+<p>I don't use Linux often but I really want to learn. I've been enjoying asking Claude questions about error states or messages - it saves me a ton of time sifting through other codebases. In this case, I know nothing about how a system negotiates displays during OS boot. I also learned about Fedora's immutability. I mean, I knew about it, but didn't realize its power until this moment.</p>
+<p>Claude pointing out the immutability and the commands to rollback the upgrade made it all click. I looked up the repo issues and sure enough, the new upgrade seems to have broken something with external displays, specifically with 4K and HDMI transport. Again, things I don't know much about but understand at a very rudimentary level to know that a rollback should be good.</p>
+<pre><code class="language-sh">sudo rpm-ostree rollback
+sudo systemctl reboot
+</code></pre>
+<p>Once I confirmed that 44 was broken for my use case, I pinned the version to 43 - luckily I had that rolled back already so it didn't get garbage collected.</p>
+<pre><code class="language-sh"># Pins the second item in the list, which was version 43 for me
+sudo ostree admin pin 1
+</code></pre>
+<div class="flex items-center justify-center font-content-sans rounded bg-blue-100 px-4 py-4" role="alert">
+  <span class="text-xs font-bold uppercase leading-none rounded-full text-blue-100 bg-blue-500 px-2 py-1 mr-3">AI</span>
+  <span class="font-semibold text-blue-700">I'm still learning how Generative AI fits in my life and, probably more importantly, how I feel about its increasing demand on our resources.</span>
+</div>
+
+<p>I came home from a long day and I really wanted to play some games. Thanks to Claude, I was able to get it working within 30 minutes and I learned some new things about Linux, Fedora, and Bazzite. I learned more about supporting my hobby and it feels pretty good.</p>]]></content>
+  </entry>
   <entry>
     <title>Stray</title>
     <author>
@@ -2410,20 +2439,5 @@ src="https://res.cloudinary.com/deo07tbou/image/upload/dpr_auto,c_limit,h_800,f_
 <p>This is what I love about design, it fixes problems you didn't realize you had until something comes along that makes you say, &quot;Well, yea... why wasn't it done that way before?&quot;  The one thing I would say about this is the handle needs some sort of tactile feedback to let the user know the stop has popped out.  It lets the user know how to retract the stop, but it needs to be tactile as well.  Other than that, love it.</p>
 <p> </p>
 <p><a href="http://dornob.com/right-angle-foot-free-hand-deployed-doorstop-invention/">Right Angle: Foot-Free, Hand-Deployed Doorstop Invention | Designs &amp; Ideas on Dornob</a>.</p>]]></content>
-  </entry>
-  <entry>
-    <title>Droool… nerd blueprints…</title>
-    <author>
-      <name>Juan Orozco</name>
-      <uri>https://juanorozco.com/</uri>
-    </author>
-    <id>https://www.juanorozco.com/blog/2011/droool-nerd-blueprints/</id>
-    <updated>2011-08-08T01:41:36Z</updated>
-    <published>2011-08-08T01:41:36Z</published>
-    <content type="html"><![CDATA[<p style="text-align:center;">
-  <a href="http://www.theblueprintsbook.com/"><img src="http://juanthedesigner.files.wordpress.com/2011/08/homespread_1_rev.jpg?w=580" alt="" data-recalc-dims="1" /></a>
-</p>
-<p>I'm not a Star Wars nerd, I love the movies but I don't really care who shot first nor do I give a crap about the hatred towards Jar-jar. But give me blueprints and watch the nerdgasm flow.</p>
-<p><a href="http://www.theblueprintsbook.com/">Star Wars: The Blueprints</a>. via <a href="http://www.dudecraft.com/2011/07/nerdgasm-star-wars-blueprints.html">Dudecraft</a></p>]]></content>
   </entry>
 </feed>
